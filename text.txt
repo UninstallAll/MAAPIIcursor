@@ -17,7 +17,13 @@ In the flow of code and data, artists create surreal illusions, engineers constr
 
 However, simulation is not only about creation but also about selection and omission.
 
-Storage and forgetting have never been neutral acts. The earliest writing media recorded civilizations but also omitted countless unrecorded voices. Archives preserve history while erasing narratives that were never archived. Today, databases and algorithms filter information, deciding which data to store and which to ignore. Media archaeologist Wolfgang Ernst points out that the temporality of technology not only shapes memory but also silently edits the past.
+Storage and forgetting have never been neutral acts. 
+
+The earliest writing media recorded civilizations but also omitted countless unrecorded voices. 
+
+Archives preserve history while erasing narratives that were never archived. 
+
+Today, databases and algorithms filter information, deciding which data to store and which to ignore. Media archaeologist Wolfgang Ernst points out that the temporality of technology not only shapes memory but also silently edits the past.
 
 In such a world, how do we discern reality? When simulation becomes the norm, which memories still exist, and which have vanished?
 
@@ -37,6 +43,7 @@ Cross boundaries, step into the realm of simulation, and search for stories that
 2
 # 英文翻译
 The history of humanity's control over reality through models is essentially a process of cognition becoming increasingly technologized.
+
 In pre-industrial times, clay sandboxes and armillary spheres served as the first systematic models, monopolized by the ruling classes as tools for explaining reality—whether Mesopotamian war simulations or Mayan astronomical instruments, all defined "what is reality."
 
 The Scientific Revolution overturned this paradigm: Galileo's inclined plane experiments and Newton's prism transformed models into verifiable probes of truth. Yet laboratory ship hull models also fragmented cognition—humans began deconstructing the world through piecemeal models.
@@ -48,6 +55,7 @@ The 21st century digital revolution completely rewrote the rules: deep learning 
 In today's algorithmic society, ESM-2 protein models with billions of parameters demonstrate emergent capabilities beyond their programming, while urban traffic and virus transmission models reversely discipline human decision-making. As GPT-4 autonomously optimizes code, tools are evolving into cognitive entities.
 
 This cognitive migration from clay to code ultimately forces humans to answer: when models become the arbiters of truth, how do we reanchor our own existence?
+
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 1分钟40秒 至 2分钟。
 这个估算基于以下考量：
@@ -61,8 +69,31 @@ This cognitive migration from clay to code ultimately forces humans to answer: w
 3
 # 英文翻译
 Game simulation brings a completely new narrative experience.
-In the third-person perspective, every player action is mapped onto the character's movements, with the story unfolding according to player choices, as if everything is shaped by them. In this virtual world, games construct an illusion of "completion," where past narrative intertwines with present actions, forming a cyclical experience. Through constant repetition, players become accustomed to the information conveyed by the plot, and the game's persuasiveness subtly takes effect. But sometimes, a voice whispers: "This is all just code." Players begin to question whether their experiences in the game are truly their own experiences. Can a character's memories become their treasures? And when cracks appear in the virtual world, exposing the underlying code, everything seems stripped of its magical veil, and the game begins to explicitly reveal its own structure.
-However, games are not just games. When players take a step back and observe their own behavior within the game, the game of games—the metagame—emerges. Real-world rules infiltrate the game: money, equipment, competitive strategies—real-world investments influence virtual experiences. The significance of metagaming lies not only in breaking traditional rules but in allowing players to drift between game and reality, being both experiencers and observers. Ultimately, the hyperreality of games is no longer confined to the screen; it invades reality, changing how players perceive the world and creating a new reality.
+
+In the third-person perspective, every player action is mapped onto the character's movements, with the story unfolding according to player choices, as if everything is shaped by them. 
+
+In this virtual world, games construct an illusion of "completion," where past narrative intertwines with present actions, forming a cyclical experience. 
+
+Through constant repetition, players become accustomed to the information conveyed by the plot, and the game's persuasiveness subtly takes effect. 
+
+But sometimes, a voice whispers: "This is all just code." 
+
+Players begin to question whether their experiences in the game are truly their own experiences. 
+
+Can a character's memories become their treasures? 
+
+And when cracks appear in the virtual world, exposing the underlying code, everything seems stripped of its magical veil, and the game begins to explicitly reveal its own structure.
+
+However, games are not just games. 
+
+When players take a step back and observe their own behavior within the game, the game of games—the metagame—emerges. 
+
+Real-world rules infiltrate the game: money, equipment, competitive strategies—real-world investments influence virtual experiences. 
+
+The significance of metagaming lies not only in breaking traditional rules but in allowing players to drift between game and reality, being both experiencers and observers. 
+
+Ultimately, the hyperreality of games is no longer confined to the screen; it invades reality, changing how players perceive the world and creating a new reality.
+
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 1分钟15秒 至 1分钟30秒。
 这个估算基于以下因素：
@@ -76,7 +107,9 @@ However, games are not just games. When players take a step back and observe the
 
 4
 # 英文翻译
-When games return from simulation to reality and reexamine simulation itself, a simulation about simulation, a game about games—the metagame—emerges. As players step back further from the screen, the third-person object becomes the player themselves. Reflection, psychological gamesmanship, rule-breaking, the use of money and equipment—real-world investments significantly influence the game. This is common in most competitive or RPG games, where players employ real-world rules for the purpose of playing games. From a media perspective, metagaming points toward the reality about games, extracting players from traditional gameplay rules. During the gaming process, they no longer merely play roles but simultaneously experience both their own reality and the hyperreality within the game. The simulation of metagaming depends not only on player interaction but also continuously influences players' perception of their own reality. The hyperreality of simulation invades reality through the player, creating a new reality.
+When games return from simulation to reality and reexamine simulation itself, a simulation about simulation, a game about games—the metagame—emerges. 
+
+As players step back further from the screen, the third-person object becomes the player themselves. Reflection, psychological gamesmanship, rule-breaking, the use of money and equipment—real-world investments significantly influence the game. This is common in most competitive or RPG games, where players employ real-world rules for the purpose of playing games. From a media perspective, metagaming points toward the reality about games, extracting players from traditional gameplay rules. During the gaming process, they no longer merely play roles but simultaneously experience both their own reality and the hyperreality within the game. The simulation of metagaming depends not only on player interaction but also continuously influences players' perception of their own reality. The hyperreality of simulation invades reality through the player, creating a new reality.
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 50秒 至 1分钟。
 这个估算基于以下因素：
@@ -260,5 +293,3 @@ Whenever artists encounter new technology, they tend to create rough conceptual 
 引用的学术概念如"第三记忆"、"宇宙技术主义"、"算法灾难"等需要清晰发音和适当强调
 
 
-
-卧槽
