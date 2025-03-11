@@ -1,0 +1,223 @@
+1
+# 英文翻译
+
+世界并非静止不变，而是不断被计算、模拟、重塑。
+在代码与数据的流动中，艺术家创造超现实的幻象，工程师构筑精确的结构，科学家推演自然的法则，游戏开发者赋予虚拟生命，电影人操控光影，重构现实的秩序。每一种模拟，都是对世界的重新书写，每一次演算，都在定义可能性。
+然而，模拟不仅是创造，也意味着取舍。
+存储与遗忘从来不是中立的。最早的书写媒介记录了文明，但也遗漏了无数未被铭记的声音。档案馆珍藏着历史，同时抹去那些未被归档的叙述。如今，数据库与算法筛选信息，决定哪些数据被存储，哪些被忽略。媒体考古学者 Wolfgang Ernst 指出，技术的时间性不仅塑造记忆，也在无声地删改过去。
+在这样的世界里，我们如何辨别真实？当模拟成为常态，哪些记忆仍然存在，哪些已经消失？
+现在，新的世界已然展开。
+无论你是创造者、计算者，还是观察者，数据的流动正在指引你前行。
+跨越界限，步入模拟之境，在数字与现实之间，寻找仍未被遗忘的故事。
+
+
+The world is not static, but is continuously calculated, simulated, and reshaped.
+In the flow of code and data, artists create surreal illusions, engineers construct precise structures, scientists extrapolate the laws of nature, game developers breathe life into virtual worlds, and filmmakers manipulate light and shadow to reconstruct the order of reality. Each simulation is a rewriting of the world, each calculation defines possibility.
+However, simulation is not only about creation but also about selection and omission.
+Storage and forgetting have never been neutral acts. The earliest writing media recorded civilizations but also omitted countless unrecorded voices. Archives preserve history while erasing narratives that were never archived. Today, databases and algorithms filter information, deciding which data to store and which to ignore. Media archaeologist Wolfgang Ernst points out that the temporality of technology not only shapes memory but also silently edits the past.
+In such a world, how do we discern reality? When simulation becomes the norm, which memories still exist, and which have vanished?
+Now, a new world unfolds.
+Whether you are a creator, a calculator, or an observer, the flow of data is guiding you forward.
+Cross boundaries, step into the realm of simulation, and search for stories that have not yet been forgotten in the space between digital and reality.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟30秒 至 1分钟45秒。
+这个估算基于以下因素：
+英文文本共约200个单词
+纪录片朗读的平均速度为每分钟120-140个单词
+需要考虑语气停顿、强调和段落间的间隔
+文本内容富有哲理性，需要适当放慢节奏以传达深度
+
+2
+# 英文翻译
+The history of humanity's control over reality through models is essentially a process of cognition becoming increasingly technologized.
+In pre-industrial times, clay sandboxes and armillary spheres served as the first systematic models, monopolized by the ruling classes as tools for explaining reality—whether Mesopotamian war simulations or Mayan astronomical instruments, all defined "what is real."
+The Scientific Revolution overturned this paradigm: Galileo's inclined plane experiments and Newton's prism transformed models into verifiable probes of truth. Yet laboratory ship hull models also fragmented cognition—humans began deconstructing the world through piecemeal models.
+In the 20th century consumer wave, Tamiya models and Bandai Gundam figurines transformed models into symbols of mass culture. When Evangelion Unit-01 models carried the memories of millions of youth, the value of models had shifted from function to emotional identification.
+The 21st century digital revolution completely rewrote the rules: deep learning and GAN networks taught models to create. DALL·E generating "Baroque quantum computers" announced that humans were no longer the sole creators—models constructed parallel universes through latent space.
+In today's algorithmic society, ESM-2 protein models with billions of parameters demonstrate emergent capabilities beyond their programming, while urban traffic and virus transmission models reversely discipline human decision-making. As GPT-4 autonomously optimizes code, tools are evolving into cognitive entities.
+This cognitive migration from clay to code ultimately forces humans to answer: when models become the arbiters of truth, how do we reanchor our own existence?
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟40秒 至 2分钟。
+这个估算基于以下考量：
+英文文本约含230个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含多个专有名词和技术术语，需放慢语速确保清晰
+内容具有哲理性和历史叙事性，需要适当的停顿和语气变化
+段落之间需要短暂停顿以区分不同历史阶段
+
+
+3
+# 英文翻译
+Game simulation brings a completely new narrative experience.
+In the third-person perspective, every player action is mapped onto the character's movements, with the story unfolding according to player choices, as if everything is shaped by them. In this virtual world, games construct an illusion of "completion," where past narrative intertwines with present actions, forming a cyclical experience. Through constant repetition, players become accustomed to the information conveyed by the plot, and the game's persuasiveness subtly takes effect. But sometimes, a voice whispers: "This is all just code." Players begin to question whether their experiences in the game are truly their own experiences. Can a character's memories become their treasures? And when cracks appear in the virtual world, exposing the underlying code, everything seems stripped of its magical veil, and the game begins to explicitly reveal its own structure.
+However, games are not just games. When players take a step back and observe their own behavior within the game, the game of games—the metagame—emerges. Real-world rules infiltrate the game: money, equipment, competitive strategies—real-world investments influence virtual experiences. The significance of metagaming lies not only in breaking traditional rules but in allowing players to drift between game and reality, being both experiencers and observers. Ultimately, the hyperreality of games is no longer confined to the screen; it invades reality, changing how players perceive the world and creating a new reality.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟15秒 至 1分钟30秒。
+这个估算基于以下因素：
+英文文本约含190个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含一些需要强调的概念和转折点，需要适当语气变化
+内容具有哲理性和分析性，朗读时需要给听众留出理解的时间
+两个自然段之间需要明显的停顿以区分不同的主题重点
+
+
+
+4
+# 英文翻译
+When games return from simulation to reality and reexamine simulation itself, a simulation about simulation, a game about games—the metagame—emerges. As players step back further from the screen, the third-person object becomes the player themselves. Reflection, psychological gamesmanship, rule-breaking, the use of money and equipment—real-world investments significantly influence the game. This is common in most competitive or RPG games, where players employ real-world rules for the purpose of playing games. From a media perspective, metagaming points toward the reality about games, extracting players from traditional gameplay rules. During the gaming process, they no longer merely play roles but simultaneously experience both their own reality and the hyperreality within the game. The simulation of metagaming depends not only on player interaction but also continuously influences players' perception of their own reality. The hyperreality of simulation invades reality through the player, creating a new reality.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 50秒 至 1分钟。
+这个估算基于以下因素：
+英文文本约含140个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含一些复杂概念和术语，需要适当放慢语速
+内容具有理论性和哲学性，需要合理的停顿以传达思想层次
+表达方式较为密集，朗读时需要清晰的重音和节奏
+
+
+
+5
+# 英文翻译
+Metagaming, realized through computers, establishes a "third space" between reality and virtuality. Algorithms are not merely tools but extensions of cognition and culture, reshaping how we understand the world.
+
+Algorithms both mimic reality and create possibilities. This closely resembles human thinking: we rely on the known to understand the world, yet break boundaries through imagination. Algorithmic simulation is a digital mapping of our cognitive processes.
+
+This mapping prompts us to reconsider the essence of life. From von Neumann to Langton's experiments, it's suggested that life may not be exclusively carbon-based existence, but rather an information pattern—a complex process of self-evolution.
+
+From a media perspective, algorithms are carriers of power. Interaction design and rules in games and applications invisibly transmit ideology, constituting a special form of "procedural rhetoric."
+
+Procedural rhetoric changes behavior through rules and influences thinking through mechanisms. It not only shapes individual habits but also reconstructs social culture—this is the core influence of algorithmic simulation in the digital age.
+
+
+朗读时间估算
+旁白 1: 约15-20秒
+旁白 2: 约20-25秒
+旁白 3: 约20-25秒
+旁白 4: 约15-20秒
+旁白 5: 约15-20秒
+总计时间: 约85-110秒 (1分25秒至1分50秒)
+这个估算考虑了每段内容的字数、概念密度、术语复杂性，以及纪录片风格朗读中通常需要的适当停顿和语气变化。
+
+
+
+6
+Part One: Symbols and Information
+Narration 1: Our world is filled with symbols that don't merely express reality but silently reconstruct it. Bourdieu called this the accumulation of "symbolic capital"—this simulation filters and reorganizes, eliminating redundancy while reinforcing specific symbols.
+Narration 2: Think about those "perfect life" photos on social media, each carefully curated, a symbolic reproduction of reality. Those luxury displays and travel check-ins aren't just records of memories but reconstructions of power relationships.
+Narration 3: As McLuhan told us: "The medium is the message." Whether Instagram filters or Facebook's like system, these virtual communities reshape how we perceive the world through their design and rules, gradually replacing the authenticity of information with the persuasiveness of symbols.
+Part Two: Gaming Media and Information Transmission
+Narration 4: Games have pushed this simulation to new heights. They're no longer just entertainment but complex information conveyed through programmed rules. Consider how "McDonald's Video Game" reveals the problems behind the fast-food industry through seemingly simple interactions.
+Narration 5: How art games like "The Passage" and "Journey" break through traditional narratives, guiding us to explore profound themes of life, memory, and solitude. These are programmatic expressions of creators' thoughts, a new form of art.
+Narration 6: When news becomes interactive experiences, information acquisition becomes personal participation. "Escape from Woomera" doesn't just let you read about refugee plights but experience them; "Budget Hero" doesn't explain fiscal policy but helps you understand its complexity through choices. This is a revolution in information transmission.
+Part Three: Evolution of Representation and Simulation
+Narration 7: This transformation didn't happen suddenly. Benjamin pointed out in "The Work of Art in the Age of Mechanical Reproduction" how technological innovation changed the essence of art. The invention of photography and film caused art to lose its unique "aura," but also opened up entirely new forms of expression.
+Narration 8: Today, we've entered what Baudrillard called the age of "simulacra"—simulation no longer merely copies reality but transcends it, becoming an independent symbol system. When we immerse ourselves in virtual worlds, we're experiencing not a mirror of reality, but a new form of reality.
+Narration 9: Roland Barthes' "Mythologies" further reminds us that all images and symbols are products of cultural coding. When viewing simulations, we're not interpreting the objective world but a network of meanings constructed by culture.
+Part Four: Simulation in Politics
+Narration 10: This power of simulation is particularly evident in politics. "The Political Machine" is not just entertainment but an interactive model of the political system, allowing us to personally experience the subtle interactions between electoral strategies and public opinion.
+Narration 11: When "September 12th" places us in the scene of counter-terrorism warfare, facing the consequences of civilian casualties, games transcend simple entertainment to become powerful expressions of anti-war political positions.
+Narration 12: Similarly, in "PeaceMaker," we stand at diplomatic negotiation tables, facing difficult choices in the Middle East peace process. Through this experience, complex international relations are no longer abstract concepts but perceptible realities.
+Part Five: Learning and Simulation
+Narration 13: In education, this transformation is equally profound. "SimEarth" transforms abstract ecological concepts into interactive systems, making environmental science not just exist in textbooks but become objects that learners can directly perceive and manipulate.
+Narration 14: The "Civilization" series has completely changed how we understand history—history is no longer a static chronology but a dynamic process of decisions and consequences. Players experience countless complex factors behind the rise and fall of civilizations through personal participation.
+Narration 15: Even games like "The Oregon Trail" transform the historical experience of 19th century American western pioneering into an experiential journey. History education changes from memorizing terms and events to personally experiencing past ways of life. This is a fundamental transformation in learning methods.
+Part Six: Cognition and Philosophical Simulation
+Narration 16: This power of simulation extends to deeper cognitive and philosophical levels. Games as rhetorical media convey profound viewpoints through their rules and mechanisms. "Civilization" explores the evolution of power, "September 12th" reflects on cycles of violence, and "SimCity" reveals the politics behind resource allocation.
+Narration 17: Edward Lorenz's chaos theory shows us that even the simplest systems can produce unpredictable complex behaviors—a butterfly flapping its wings in Brazil might cause a tornado in Texas. This concept has been widely applied in today's open-world games, artificial intelligence algorithms, and market simulations.
+Narration 18: As Lev Manovich pointed out in his study of new media language, simulation is not just a product of technology but a mapping of our culture and cognition. By creating these simulated worlds, we're not just reproducing reality but creating new cognitive frameworks and philosophical possibilities.
+Conclusion
+Narration 19: From social media photos on street corners to complex political simulation games; from new forms of artistic representation to revolutions in education and learning—simulation has penetrated every aspect of our lives. It not only reconstructs the reality before us but creates new ways of understanding this reality. In this increasingly complex digital age, simulation has become an important bridge connecting technology and humanities, helping us understand and shape this constantly changing world.
+朗读时间估算
+第一部分：符号与信息
+旁白 1: 约15秒
+旁白 2: 约20秒
+旁白 3: 约20秒
+小计: 约55秒
+第二部分：游戏媒介与信息传递
+旁白 4: 约20秒
+旁白 5: 约20秒
+旁白 6: 约25秒
+小计: 约65秒
+第三部分：再现与模拟的演变
+旁白 7: 约25秒
+旁白 8: 约20秒
+旁白 9: 约15秒
+小计: 约60秒te
+第四部分：政治中的模拟
+旁白 10: 约20秒
+旁白 11: 约20秒
+旁白 12: 约20秒
+小计: 约60秒
+第五部分：学习与模拟
+旁白 13: 约20秒
+旁白 14: 约25秒
+旁白 15: 约25秒
+小计: 约70秒
+第六部分：认知与哲学的模拟
+旁白 16: 约25秒
+旁白 17: 约25秒
+旁白 18: 约25秒
+小计: 约75秒
+结语
+旁白 19: 约30秒
+总计朗读时间: 约415秒 (6分55秒)
+
+
+7
+# 英文翻译
+Everything can serve as a medium. Artists, through various techniques, attempt to simulate certain profound ideas or emotions within specific media. However, what they simulate is always limited by the framework of the medium. For example, can infinity be simulated? Although artists intend to pursue an "infinite" experience through these media, true infinity exists in the imagination between the audience and the work. The audience's understanding and interpretation become key to this process; artists cannot fully control the audience's perception. Therefore, the meaning of artwork often lies in how the audience interacts with it. On the other hand, developing AI is gradually becoming the subject of creation. Looking at art from a non-human perspective, separating the artist's concept from expectations of the audience, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
+So what is simulation beyond the medium? Before exploring this question, we need to first focus on the relationship between the artist and the medium.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟30秒 至 1分钟45秒。
+这个估算基于以下因素：
+英文文本约含195个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含哲学性概念和深度思考点，需要适当放慢语速
+内容具有理论性和反思性，需要合理的停顿以传达思想层次
+段落之间需要明显的停顿以区分不同的思想单元
+
+
+8
+# 英文翻译
+The behavior of debugging artificial intelligence to develop according to human needs is called artificial intelligence alignment.
+When AI can generate images and videos using media, the generative logic of AI should be aligned with its medium, which can be termed as "media alignment." Before this, only humans invented and used media, so we continue with this perspective, looking at art from a perspective of future media archaeology. Artists using media for creation should also have a "media alignment" critical method. If practice comes first, is the artist's cognition sufficient to match the creative results? If concept comes first, has the artist chosen the appropriate medium for expression?
+From a media alignment perspective, some artworks use media well, and the medium can carry their ideas. However, other artworks serve the market, where their interpretation excessively creates value not inherent to the medium, causing the medium to be unable to support its inflated concept. The medium is crushed, not because the artist is too avant-garde and deconstructed the medium through their concept, but because the medium's value is insignificant compared to its fictional commercial value. Such works are typically sold in specific forms, with concepts becoming commodities and the medium merely a price tag. In contrast, through Yves Klein's work, we can discover: when an artist truly deconstructs the medium through concept and transcends the medium, we cannot easily determine the work's medium.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟40秒 至 2分钟。
+这个估算基于以下因素：
+英文文本约含220个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含专业术语和哲学概念(AI alignment, media alignment等)
+内容具有理论性和批判性，需要适当放慢语速传达思想深度
+三个自然段之间需要明显的停顿以区分不同的论点发展
+引用伊夫·克莱因(Yves Klein)等专有名词时需要清晰发音
+
+
+9
+# 英文翻译
+This state of not being easily determined applies equally to AI today. AI as a medium is capable of integrating media, and perhaps in the future, it will be able to deconstruct media, to deconstruct itself. Art is facing a crisis of subjectivity; the development of AI raises concerns about whether it can replace humans in creation. Regarding this concern, Dreyfus questions AI's lack of a body, thus its inability to think intuitively. AI has no sensory perception, and even as a symbolic subject, it cannot substitute human experience. Simondon's theory of individuation believes that technology and humans co-evolve; AI will not replace humans but can assist human civilization to develop better. The human body is not a deficiency; rather, it is precisely the sensations and intuitive thinking that make humans unique subjects. The non-human perspective does not abandon humans but acknowledges a pluralistic reality, thereby reflecting on the human position.
+We once said art is dead, philosophy is dead. As long as human civilization exists, philosophy and art have not ended. We define the end of an era to redirect our thinking. Today, as technology gives birth to new media, and media continuously transcends itself, we need new understanding to respond to new media. For artists, we are not using new media to express old things, but creating new expressions in new media, simulating new concepts.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟20秒 至 1分钟35秒。
+这个估算基于以下因素：
+英文文本约含180个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含学术参考(Dreyfus, Simondon等)和哲学概念
+内容具有深度反思性，需要在关键观点处适当放慢语速
+两个自然段之间需要明显的停顿以区分不同的思想发展阶段
+最后一段包含对艺术家的建议，需要强调性语气变化
+
+
+10
+# 英文翻译
+Not only is AI becoming a new medium, but artists throughout history have also created new media, though these were not popularized. We view them as unique expressions of individual artists, overlooking the definition of a new medium. This is largely because such new media are not merely technological creations, or they partially deviate from Western-centric technological systems, and thus are not regarded as media technologies. Stiegler defines technology as the "third memory," an externalization of human collective memory. Technology is like a "pharmakon" (both remedy and poison), simultaneously enhancing capabilities while potentially causing their atrophy. He cautions how the digital economy transforms human attention into quantifiable resources through algorithms. Xu Yu's "Cosmic Technicism" breaks the linear narrative of technological development, proposing that diverse cultures give rise to diverse technologies. His warning about "algorithmic catastrophe" reveals contemporary technology's inability to handle ontological contingency. He believes artists should transform science, first turning scientific necessity into contingency, then making this contingency necessary again.
+Whenever artists encounter new technology, they always create a rough conceptual model, from which new media might develop. Although lacking practicality most of the time, as a simulation of concepts, this early artistic model contains the potential for the process from "simulation" to "becoming." As philosophy of technology contemplates, the real issue is not technology itself, but our relationship with technology—a relationship that can be continuously reshaped through reflection and practice. Artists, in the process of handling technology to mediate it, also explore how human sensation and creativity can coexist with technology, exploring propositions about humanity itself, about what kind of beings we want to become, and what kind of world we hope to create.
+朗读时间估算
+以纪录片风格朗读这段文本大约需要 1分钟40秒 至 1分钟55秒。
+这个估算基于以下因素：
+英文文本约含240个单词
+纪录片朗读风格通常为每分钟120-140个单词
+文本包含复杂的哲学术语和理论参考(pharmakon, Stiegler, Xu Yu等)
+内容具有浓厚的哲学思考性质，需要在关键概念处放慢节奏
+两个段落之间需要明显的停顿以区分不同的思想脉络
+引用的学术概念如"第三记忆"、"宇宙技术主义"、"算法灾难"等需要清晰发音和适当强调
