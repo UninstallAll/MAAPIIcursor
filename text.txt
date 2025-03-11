@@ -243,7 +243,7 @@ So what is simulation beyond the medium? Before exploring this question, we need
 段落之间需要明显的停顿以区分不同的思想单元
 
 
-
+10
 # 英文翻译
 The behavior of debugging artificial intelligence to develop according to human needs is called artificial intelligence alignment.
 When AI can generate images and videos using media, the generative logic of AI should be aligned with its medium, which can be termed as "media alignment." Before this, only humans invented and used media, so we continue with this perspective, looking at art from a perspective of future media archaeology. Artists using media for creation should also have a "media alignment" critical method. If practice comes first, is the artist's cognition sufficient to match the creative results? If concept comes first, has the artist chosen the appropriate medium for expression?
@@ -259,7 +259,7 @@ From a media alignment perspective, some artworks use media well, and the medium
 引用伊夫·克莱因(Yves Klein)等专有名词时需要清晰发音
 
 
-
+11
 # 英文翻译
 The current state of AI is characterized by its ambiguity. As a medium, AI has the capability to integrate various forms of medium, and perhaps in the future, it will also be able to deconstruct both medium and itself. Art is facing a crisis of subjectivity; the rise of AI raises concerns about its potential to replace humans in the creative process. In this regard, Dreyfus questions AI's lack of a physical body, which limits its ability to think intuitively. Lacking sensory perception, AI cannot substitute for human experience, even as a symbolic entity. Simondon's theory of individuation posits that technology and humans co-evolve; thus, AI will not replace humans but can assist in the advancement of human civilization. The human body is not a deficiency; rather, it is the sensations and intuitive thinking that make humans unique subjects. The non-human perspective does not abandon humanity but acknowledges a pluralistic reality, prompting reflection on the human position.
 We once claimed that art is dead and philosophy is dead. However, as long as human civilization exists, both philosophy and art continue to thrive. We define the end of an era to redirect our thinking. Today, as technology gives rise to new medium, and as medium continuously transcends itself, we need new understandings to engage with these new forms. For artists, the goal is not to use new medium to express old ideas, but to create new expressions that resonate within these new mediums, simulating innovative concepts.
@@ -275,7 +275,7 @@ We once claimed that art is dead and philosophy is dead. However, as long as hum
 545465
 
 
-
+12
 # 英文翻译
 Not only is AI becoming a new medium, but throughout history, artists have also created new medium, even if these were not widely recognized. We often view these creations as unique expressions of individual artists, overlooking the broader definition of what constitutes a new medium. This oversight largely stems from the fact that such new medium are not merely technological innovations; they may also deviate from Western-centric technological frameworks, leading to their exclusion from the category of medium technologies.
 
