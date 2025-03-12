@@ -253,6 +253,7 @@ From social media photos on street corners to complex political simulation games
 
 8
 # 英文翻译
+<<<<<<< HEAD
 At the intersection of contemporary art and games, the boundaries of perspective are broken. 
 
 e can be "Flow," transforming into mayflies, immersed in the current, feeling the lightness and freedom of life. In such simulations, I am no longer the human self; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, fur collecting soil, bending the grass; or a cloud in the sky, observing the changes of the earth. 
@@ -260,6 +261,9 @@ e can be "Flow," transforming into mayflies, immersed in the current, feeling th
 Through these fusions of art and games, we transcend the boundaries of species, re-examine the position of humans, and feel the pulse and resonance of the organic and inorganic.
 
 朗读时间估算
+=======
+At the intersection of contemporary art and games, the boundaries of perspective dissolve. We can become the "Flow," transforming into mayflies, immersed in the current, experiencing the lightness and freedom of life. In such simulations, I am no longer just a human; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, my fur collecting soil as I bend the grass; or piece of cloud in the sky, observing the changes on Earth. Through these fusions of art and games, we transcend species boundaries, re-examine humanity's position, and feel the pulse and resonance of both the organic and inorganic.
+>>>>>>> 4e3782469adb669821ba784c038988644c073544
 以纪录片风格朗读这段文本大约需要 50秒 至 1分钟。
 这个估算基于以下因素：
 英文文本约含115个单词
@@ -274,6 +278,7 @@ Through these fusions of art and games, we transcend the boundaries of species, 
 
 9
 # 英文翻译
+<<<<<<< HEAD
 Everything can serve as a medium. Artists, through various techniques, attempt to simulate certain profound ideas or emotions within specific media. 
 
 However, what they simulate is always limited by the framework of the medium. For example, can infinity be simulated? Although artists intend to pursue an "infinite" experience through these media, true infinity exists in the imagination between the audience and the work. 
@@ -285,6 +290,11 @@ On the other hand, developing AI is gradually becoming the subject of creation.
 Looking at art from a non-human perspective, separating the artist's concept from expectations of the audience, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
 
 So what is simulation beyond the medium? Before exploring this question, we need to first focus on the relationship between the artist and the medium.
+=======
+Everything can serve as a medium. Artists use various techniques to simulate profound ideas or emotions within specific mediums. However, what they simulate is always constrained by the framework of the medium. For instance, can infinity be simulated? While artists strive to create an "infinite" experience through these mediums, true infinity exists in the imagination between the audience and the artwork. The audience's understanding and interpretation are crucial in this process; artists cannot fully control how the audience perceives their work. Thus, the meaning of an artwork often lies in the interaction between the audience and the piece.
+On the other hand, the development of AI is increasingly becoming a subject of creation. Viewing art from a non-human perspective allows us to separate the art work from artist's concept and audience expectations, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
+So, what is simulation beyond the medium? Before exploring this question, we must first examine the relationship between the artist and the medium.
+>>>>>>> 4e3782469adb669821ba784c038988644c073544
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 1分钟30秒 至 1分钟45秒。
 这个估算基于以下因素：
