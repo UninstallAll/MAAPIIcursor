@@ -109,7 +109,19 @@ Ultimately, the hyperreality of games is no longer confined to the screen; it in
 # 英文翻译
 When games return from simulation to reality and reexamine simulation itself, a simulation about simulation, a game about games—the metagame—emerges. 
 
-As players step back further from the screen, the third-person object becomes the player themselves. Reflection, psychological gamesmanship, rule-breaking, the use of money and equipment—real-world investments significantly influence the game. This is common in most competitive or RPG games, where players employ real-world rules for the purpose of playing games. From a media perspective, metagaming points toward the reality about games, extracting players from traditional gameplay rules. During the gaming process, they no longer merely play roles but simultaneously experience both their own reality and the hyperreality within the game. The simulation of metagaming depends not only on player interaction but also continuously influences players' perception of their own reality. The hyperreality of simulation invades reality through the player, creating a new reality.
+As players step back further from the screen, the third-person object becomes the player themselves. 
+
+Reflection, psychological gamesmanship, rule-breaking, the use of money and equipment—real-world investments significantly influence the game. 
+
+This is common in most competitive or RPG games, where players employ real-world rules for the purpose of playing games. 
+
+From a media perspective, metagaming points toward the reality about games, extracting players from traditional gameplay rules. 
+
+During the gaming process, they no longer merely play roles but simultaneously experience both their own reality and the hyperreality within the game. 
+
+The simulation of metagaming depends not only on player interaction but also continuously influences players' perception of their own reality. 
+
+The hyperreality of simulation invades reality through the player, creating a new reality.
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 50秒 至 1分钟。
 这个估算基于以下因素：
@@ -146,32 +158,58 @@ Procedural rhetoric changes behavior through rules and influences thinking throu
 
 
 6
-Part One: Symbols and Information
-Narration 1: Our world is filled with symbols that don't merely express reality but silently reconstruct it. Bourdieu called this the accumulation of "symbolic capital"—this simulation filters and reorganizes, eliminating redundancy while reinforcing specific symbols.
-Narration 2: Think about those "perfect life" photos on social media, each carefully curated, a symbolic reproduction of reality. Those luxury displays and travel check-ins aren't just records of memories but reconstructions of power relationships.
-Narration 3: As McLuhan told us: "The medium is the message." Whether Instagram filters or Facebook's like system, these virtual communities reshape how we perceive the world through their design and rules, gradually replacing the authenticity of information with the persuasiveness of symbols.
-Part Two: Gaming Media and Information Transmission
-Narration 4: Games have pushed this simulation to new heights. They're no longer just entertainment but complex information conveyed through programmed rules. Consider how "McDonald's Video Game" reveals the problems behind the fast-food industry through seemingly simple interactions.
-Narration 5: How art games like "The Passage" and "Journey" break through traditional narratives, guiding us to explore profound themes of life, memory, and solitude. These are programmatic expressions of creators' thoughts, a new form of art.
-Narration 6: When news becomes interactive experiences, information acquisition becomes personal participation. "Escape from Woomera" doesn't just let you read about refugee plights but experience them; "Budget Hero" doesn't explain fiscal policy but helps you understand its complexity through choices. This is a revolution in information transmission.
-Part Three: Evolution of Representation and Simulation
-Narration 7: This transformation didn't happen suddenly. Benjamin pointed out in "The Work of Art in the Age of Mechanical Reproduction" how technological innovation changed the essence of art. The invention of photography and film caused art to lose its unique "aura," but also opened up entirely new forms of expression.
-Narration 8: Today, we've entered what Baudrillard called the age of "simulacra"—simulation no longer merely copies reality but transcends it, becoming an independent symbol system. When we immerse ourselves in virtual worlds, we're experiencing not a mirror of reality, but a new form of reality.
-Narration 9: Roland Barthes' "Mythologies" further reminds us that all images and symbols are products of cultural coding. When viewing simulations, we're not interpreting the objective world but a network of meanings constructed by culture.
-Part Four: Simulation in Politics
-Narration 10: This power of simulation is particularly evident in politics. "The Political Machine" is not just entertainment but an interactive model of the political system, allowing us to personally experience the subtle interactions between electoral strategies and public opinion.
-Narration 11: When "September 12th" places us in the scene of counter-terrorism warfare, facing the consequences of civilian casualties, games transcend simple entertainment to become powerful expressions of anti-war political positions.
-Narration 12: Similarly, in "PeaceMaker," we stand at diplomatic negotiation tables, facing difficult choices in the Middle East peace process. Through this experience, complex international relations are no longer abstract concepts but perceptible realities.
-Part Five: Learning and Simulation
-Narration 13: In education, this transformation is equally profound. "SimEarth" transforms abstract ecological concepts into interactive systems, making environmental science not just exist in textbooks but become objects that learners can directly perceive and manipulate.
-Narration 14: The "Civilization" series has completely changed how we understand history—history is no longer a static chronology but a dynamic process of decisions and consequences. Players experience countless complex factors behind the rise and fall of civilizations through personal participation.
-Narration 15: Even games like "The Oregon Trail" transform the historical experience of 19th century American western pioneering into an experiential journey. History education changes from memorizing terms and events to personally experiencing past ways of life. This is a fundamental transformation in learning methods.
-Part Six: Cognition and Philosophical Simulation
-Narration 16: This power of simulation extends to deeper cognitive and philosophical levels. Games as rhetorical media convey profound viewpoints through their rules and mechanisms. "Civilization" explores the evolution of power, "September 12th" reflects on cycles of violence, and "SimCity" reveals the politics behind resource allocation.
-Narration 17: Edward Lorenz's chaos theory shows us that even the simplest systems can produce unpredictable complex behaviors—a butterfly flapping its wings in Brazil might cause a tornado in Texas. This concept has been widely applied in today's open-world games, artificial intelligence algorithms, and market simulations.
-Narration 18: As Lev Manovich pointed out in his study of new media language, simulation is not just a product of technology but a mapping of our culture and cognition. By creating these simulated worlds, we're not just reproducing reality but creating new cognitive frameworks and philosophical possibilities.
+
+Our world is filled with symbols that don't merely express reality but silently reconstruct it. Bourdieu called this the accumulation of "symbolic capital"—this simulation filters and reorganizes, eliminating redundancy while reinforcing specific symbols.
+
+Think about those "Perfect life" photos on social media, each carefully curated, a symbolic reproduction of reality. Those luxury displays and travel check-ins aren't just records of memories but reconstructions of power relationships.
+
+As McLuhan told us: "The medium is the message." Whether Instagram filters or Facebook's like system, these virtual communities reshape how we perceive the world through their design and rules, gradually replacing the authenticity of information with the persuasiveness of symbols.
+
+Games have pushed this simulation to new heights. They're no longer just entertainment but complex information conveyed through programmed rules. Consider how "McDonald's Video Game" reveals the problems behind the fast-food industry through seemingly simple interactions.
+
+How art games like "Passage" and "Journey" break through traditional narratives, guiding us to explore profound themes of life, memory, and solitude. These are programmatic expressions of creators' thoughts, a new form of art.
+
+When news becomes interactive experiences, information acquisition becomes personal participation. "Escape from Woomera" doesn't just let you read about refugee plights but experience them; "Budget Hero" doesn't explain fiscal policy but helps you understand its complexity through choices. This is a revolution in information transmission.
+
+
+
+
+This transformation didn't happen suddenly. Benjamin pointed out in "The Work of Art in the Age of Mechanical Reproduction" how technological innovation changed the essence of art. The invention of photography and film caused art to lose its unique "aura," but also opened up entirely new forms of expression.
+
+Today, we've entered what Baudrillard called the age of "simulacra"—simulation no longer merely copies reality but transcends it, becoming an independent symbol system. When we immerse ourselves in virtual worlds, we're experiencing not a mirror of reality, but a new form of reality.
+
+Roland Barthes' "Mythologies" further reminds us that all images and symbols are products of cultural coding. When viewing simulations, we're not interpreting the objective world but a network of meanings constructed by culture.
+
+
+
+This power of simulation is particularly evident in politics. "The Howard Dean for Iowa Game" is not just entertainment but an interactive model of the political system, allowing us to personally experience the subtle interactions between electoral strategies and public opinion.
+
+When "September 12th" places us in the scene of counter-terrorism warfare, facing the consequences of civilian casualties, games transcend simple entertainment to become powerful expressions of anti-war political positions.
+
+Similarly, in "PeaceMaker," we stand at diplomatic negotiation tables, facing difficult choices in the Middle East peace process. Through this experience, complex international relations are no longer abstract concepts but perceptible realities.
+
+
+
+In education, this transformation is equally profound. "SimEarth" transforms abstract ecological concepts into interactive systems, making environmental science not just exist in textbooks but become objects that learners can directly perceive and manipulate.
+
+The "Civilization" series has completely changed how we understand history—history is no longer a static chronology but a dynamic process of decisions and consequences. Players experience countless complex factors behind the rise and fall of civilizations through personal participation.
+
+Even games like "The Oregon Trail" transform the historical experience of 19th century American western pioneering into an experiential journey. History education changes from memorizing terms and events to personally experiencing past ways of life. This is a fundamental transformation in learning methods.
+
+
+
+
+This power of simulation extends to deeper cognitive and philosophical levels. Games as rhetorical media convey profound viewpoints through their rules and mechanisms. "Civilization" explores the evolution of power, "September 12th" reflects on cycles of violence, and "SimCity" reveals the politics behind resource allocation.
+
+Edward Lorenz's chaos theory shows us that even the simplest systems can produce unpredictable complex behaviors—a butterfly flapping its wings in Brazil might cause a tornado in Texas. This concept has been widely applied in today's open-world games, artificial intelligence algorithms, and market simulations.
+
+As Lev Manovich pointed out in his study of new media language, simulation is not just a product of technology but a mapping of our culture and cognition. By creating these simulated worlds, we're not just reproducing reality but creating new cognitive frameworks and philosophical possibilities.
+
+
 Conclusion
-Narration 19: From social media photos on street corners to complex political simulation games; from new forms of artistic representation to revolutions in education and learning—simulation has penetrated every aspect of our lives. It not only reconstructs the reality before us but creates new ways of understanding this reality. In this increasingly complex digital age, simulation has become an important bridge connecting technology and humanities, helping us understand and shape this constantly changing world.
+
+From social media photos on street corners to complex political simulation games; from new forms of artistic representation to revolutions in education and learning—simulation has penetrated every aspect of our lives. It not only reconstructs the reality before us but creates new ways of understanding this reality. In this increasingly complex digital age, simulation has become an important bridge connecting technology and humanities, helping us understand and shape this constantly changing world.
+
 朗读时间估算
 第一部分：符号与信息
 旁白 1: 约15秒
@@ -215,7 +253,12 @@ Narration 19: From social media photos on street corners to complex political si
 
 8
 # 英文翻译
-At the intersection of contemporary art and games, the boundaries of perspective are broken. We can be "Flow," transforming into mayflies, immersed in the current, feeling the lightness and freedom of life. In such simulations, I am no longer the human self; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, fur collecting soil, bending the grass; or a cloud in the sky, observing the changes of the earth. Through these fusions of art and games, we transcend the boundaries of species, re-examine the position of humans, and feel the pulse and resonance of the organic and inorganic.
+At the intersection of contemporary art and games, the boundaries of perspective are broken. 
+
+e can be "Flow," transforming into mayflies, immersed in the current, feeling the lightness and freedom of life. In such simulations, I am no longer the human self; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, fur collecting soil, bending the grass; or a cloud in the sky, observing the changes of the earth. 
+
+Through these fusions of art and games, we transcend the boundaries of species, re-examine the position of humans, and feel the pulse and resonance of the organic and inorganic.
+
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 50秒 至 1分钟。
 这个估算基于以下因素：
@@ -231,7 +274,16 @@ At the intersection of contemporary art and games, the boundaries of perspective
 
 9
 # 英文翻译
-Everything can serve as a medium. Artists, through various techniques, attempt to simulate certain profound ideas or emotions within specific media. However, what they simulate is always limited by the framework of the medium. For example, can infinity be simulated? Although artists intend to pursue an "infinite" experience through these media, true infinity exists in the imagination between the audience and the work. The audience's understanding and interpretation become key to this process; artists cannot fully control the audience's perception. Therefore, the meaning of artwork often lies in how the audience interacts with it. On the other hand, developing AI is gradually becoming the subject of creation. Looking at art from a non-human perspective, separating the artist's concept from expectations of the audience, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
+Everything can serve as a medium. Artists, through various techniques, attempt to simulate certain profound ideas or emotions within specific media. 
+
+However, what they simulate is always limited by the framework of the medium. For example, can infinity be simulated? Although artists intend to pursue an "infinite" experience through these media, true infinity exists in the imagination between the audience and the work. 
+
+The audience's understanding and interpretation become key to this process; artists cannot fully control the audience's perception. Therefore, the meaning of artwork often lies in how the audience interacts with it. 
+
+On the other hand, developing AI is gradually becoming the subject of creation. 
+
+Looking at art from a non-human perspective, separating the artist's concept from expectations of the audience, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
+
 So what is simulation beyond the medium? Before exploring this question, we need to first focus on the relationship between the artist and the medium.
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 1分钟30秒 至 1分钟45秒。
@@ -245,9 +297,19 @@ So what is simulation beyond the medium? Before exploring this question, we need
 
 10
 # 英文翻译
-The process of debugging artificial intelligence to ensure it develops in accordance with human needs is referred to as artificial intelligence alignment. When AI is capable of generating images and videos using various mediums, the generative logic of AI should be aligned with its medium, a concept we can call "medium alignment." Historically, only humans have invented and utilized medium, so we continue to view art through the lens of future medium archaeology. Artists who create using medium should also adopt a critical method of "medium alignment."
+The process of debugging artificial intelligence to ensure it develops in accordance with human needs is referred to as artificial intelligence alignment. 
+
+When AI is capable of generating images and videos using various mediums, the generative logic of AI should be aligned with its medium, a concept we can call "medium alignment." 
+
+Historically, only humans have invented and utilized medium, so we continue to view art through the lens of future medium archaeology. Artists who create using medium should also adopt a critical method of "medium alignment."
+
 If practice comes first, is the artist's understanding sufficient to match the creative outcomes? Conversely, if concept comes first, has the artist selected the appropriate medium for expression?
-From the perspective of medium alignment, some artworks effectively utilize their medium, allowing it to convey their ideas. However, other artworks cater to the market, where their interpretation creates excessive value that is not inherent to the medium, leading to a situation where the medium cannot support its inflated concept. In such cases, the medium is diminished, not because the artist is overly avant-garde and has deconstructed the medium through their concept, but because the medium's intrinsic value pales in comparison to its fictional commercial value. These works are often sold in specific forms, with concepts becoming commodities and the medium merely serving as a price tag. In contrast, through the work of Yves Klein, we can observe that when an artist genuinely deconstructs the medium through their concept and transcends it, the medium of the work becomes difficult to determine.
+
+From the perspective of medium alignment, some artworks effectively utilize their medium, allowing it to convey their ideas. 
+
+However, other artworks cater to the market, where their interpretation creates excessive value that is not inherent to the medium, leading to a situation where the medium cannot support its inflated concept. In such cases, the medium is diminished, not because the artist is overly avant-garde and has deconstructed the medium through their concept, but because the medium's intrinsic value pales in comparison to its fictional commercial value. 
+
+These works are often sold in specific forms, with concepts becoming commodities and the medium merely serving as a price tag. In contrast, through the work of Yves Klein, we can observe that when an artist genuinely deconstructs the medium through their concept and transcends it, the medium of the work becomes difficult to determine.
 朗读时间估算
 以纪录片风格朗读这段文本大约需要 1分钟40秒 至 2分钟。
 这个估算基于以下因素：
