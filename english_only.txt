@@ -1,6 +1,5 @@
 1
 
-# English Translation
 
 The world is not static, but is continuously calculated, simulated, and reshaped.
 
@@ -24,17 +23,9 @@ Whether you are a creator, a calculator, or an observer, the flow of data is gui
 
 Cross boundaries, step into the realm of simulation, and search for stories that have not yet been forgotten in the space between digital and reality.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 30 seconds to 1 minute 45 seconds.
-This estimate is based on the following factors:
-The English text contains about 200 words
-The average speed for documentary narration is 120-140 words per minute
-Consideration for tone pauses, emphasis, and paragraph breaks
-The philosophical nature of the content requires a slower pace to convey depth
 
 2
 
-# English Translation
 
 The history of humanity's control over reality through models is essentially a process of cognition becoming increasingly technologized.
 
@@ -49,15 +40,6 @@ The 21st century digital revolution completely rewrote the rules: deep learning 
 In today's algorithmic society, ESM-2 protein models with billions of parameters demonstrate emergent capabilities beyond their programming, while urban traffic and virus transmission models reversely discipline human decision-making. As GPT-4 autonomously optimizes code, tools are evolving into cognitive entities.
 
 This cognitive migration from clay to code ultimately forces humans to answer: when models become the arbiters of truth, how do we reanchor our own existence?
-
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 40 seconds to 2 minutes.
-This estimate is based on the following considerations:
-The English text contains about 230 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains multiple proper nouns and technical terms, requiring slower pace for clarity
-The content has philosophical and historical narrative qualities, requiring appropriate pauses and tone variations
-Short pauses between paragraphs are needed to distinguish different historical periods
 
 
 3
@@ -90,15 +72,6 @@ The significance of metagaming lies not only in breaking traditional rules but i
 
 Ultimately, the hyperreality of games is no longer confined to the screen; it invades reality, changing how players perceive the world and creating a new reality.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 15 seconds to 1 minute 30 seconds.
-This estimate is based on the following factors:
-The English text contains about 190 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains some concepts and turning points that need emphasis, requiring appropriate tone changes
-The content has philosophical and analytical nature, reading time needs to allow audience understanding
-There should be obvious pauses between the two natural paragraphs to distinguish different thematic focuses
-
 
 
 4
@@ -121,15 +94,6 @@ The simulation of metagaming depends not only on player interaction but also con
 
 The hyperreality of simulation invades reality through the player, creating a new reality.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 50 seconds to 1 minute.
-This estimate is based on the following factors:
-The English text contains about 140 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains some complex concepts and terminology, requiring appropriate slowing of pace
-The content has theoretical and philosophical nature, requiring reasonable pauses to convey levels of thought
-The expression is relatively dense, requiring clear accents and rhythm when read aloud
-
 
 
 5
@@ -146,15 +110,6 @@ From a media perspective, algorithms are carriers of power. Interaction design a
 
 Procedural rhetoric changes behavior through rules and influences thinking through mechanisms. It not only shapes individual habits but also reconstructs social culture—this is the core influence of algorithmic simulation in the digital age.
 
-
-Reading Time Estimation
-Narration 1: About 15-20 seconds
-Narration 2: About 20-25 seconds
-Narration 3: About 20-25 seconds
-Narration 4: About 15-20 seconds
-Narration 5: About 15-20 seconds
-Total time: About 85-110 seconds (1 minute 25 seconds to 1 minute 50 seconds)
-This estimate considers the word count of each section, concept density, terminology complexity, and appropriate pauses and tone changes typically needed in documentary-style narration.
 
 
 
@@ -208,41 +163,6 @@ Conclusion
 
 From social media photos on street corners to complex political simulation games; from new forms of artistic representation to revolutions in education and learning—simulation has penetrated every aspect of our lives. It not only reconstructs the reality before us but creates new ways of understanding this reality. In this increasingly complex digital age, simulation has become an important bridge connecting technology and humanities, helping us understand and shape this constantly changing world.
 
-Reading Time Estimation
-Part One: Symbols and Information
-Narration 1: About 15 seconds
-Narration 2: About 20 seconds
-Narration 3: About 20 seconds
-Subtotal: About 55 seconds
-Part Two: Game Medium and Information Transmission
-Narration 4: About 20 seconds
-Narration 5: About 20 seconds
-Narration 6: About 25 seconds
-Subtotal: About 65 seconds
-Part Three: Evolution of Representation and Simulation
-Narration 7: About 25 seconds
-Narration 8: About 20 seconds
-Narration 9: About 15 seconds
-Subtotal: About 60 seconds
-Part Four: Simulation in Politics
-Narration 10: About 20 seconds
-Narration 11: About 20 seconds
-Narration 12: About 20 seconds
-Subtotal: About 60 seconds
-Part Five: Learning and Simulation
-Narration 13: About 20 seconds
-Narration 14: About 25 seconds
-Narration 15: About 25 seconds
-Subtotal: About 70 seconds
-Part Six: Cognitive and Philosophical Simulation
-Narration 16: About 25 seconds
-Narration 17: About 25 seconds
-Narration 18: About 25 seconds
-Subtotal: About 75 seconds
-Conclusion
-Narration 19: About 30 seconds
-Total Reading Time: About 415 seconds (6 minutes 55 seconds)
-
 
 7
 ???To be added later. But we'll talk about it then
@@ -258,17 +178,6 @@ At the intersection of contemporary art and games, the boundaries of perspective
 We can be "Flow," transforming into mayflies, immersed in the current, feeling the lightness and freedom of life. In such simulations, I am no longer the human self; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, fur collecting soil, bending the grass; or a cloud in the sky, observing the changes of the earth. 
 
 Through these fusions of art and games, we transcend the boundaries of species, re-examine the position of humans, and feel the pulse and resonance of the organic and inorganic.
-
-Reading Time Estimation
-At the intersection of contemporary art and games, the boundaries of perspective dissolve. We can become the "Flow," transforming into mayflies, immersed in the current, experiencing the lightness and freedom of life. In such simulations, I am no longer just a human; I become "Everything"—a desert mouse on the grasslands, rolling nimbly, my fur collecting soil as I bend the grass; or piece of cloud in the sky, observing the changes on Earth. Through these fusions of art and games, we transcend species boundaries, re-examine humanity's position, and feel the pulse and resonance of both the organic and inorganic.
-In documentary-style narration, reading this text would take approximately 50 seconds to 1 minute.
-This estimate is based on the following factors:
-The English text contains about 115 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains game names and poetic descriptions, requiring appropriate slowing of pace
-Paragraphs describing different life forms require tone changes and expressiveness
-Appropriate pauses are needed at key image transitions (such as from mayfly to desert mouse to cloud)
-The last sentence contains philosophical reflection, requiring emphasis in tone
 
 
 
@@ -293,14 +202,6 @@ Everything can serve as a medium. Artists use various techniques to simulate pro
 On the other hand, the development of AI is increasingly becoming a subject of creation. Viewing art from a non-human perspective allows us to separate the art work from artist's concept and audience expectations, focusing on the medium and the work itself—there is no work beyond the medium, only simulation within the medium.
 So, what is simulation beyond the medium? Before exploring this question, we must first examine the relationship between the artist and the medium.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 30 seconds to 1 minute 45 seconds.
-This estimate is based on the following factors:
-The English text contains about 195 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains philosophical concepts and points of deep reflection, requiring appropriate slowing of pace
-The content has theoretical and reflective nature, requiring reasonable pauses to convey levels of thought
-There should be obvious pauses between paragraphs to distinguish different units of thought
 
 
 10
@@ -321,15 +222,6 @@ However, other artworks cater to the market, where their interpretation creates 
 
 These works are often sold in specific forms, with concepts becoming commodities and the medium merely serving as a price tag. In contrast, through the work of Yves Klein, we can observe that when an artist genuinely deconstructs the medium through their concept and transcends it, the medium of the work becomes difficult to determine.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 40 seconds to 2 minutes.
-This estimate is based on the following factors:
-The English text contains about 220 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains technical terms and philosophical concepts (AI alignment, media alignment, etc.)
-The content has theoretical and critical nature, requiring appropriate slowing of pace to convey depth of thought
-There should be obvious pauses between the three natural paragraphs to distinguish different argument developments
-Clear pronunciation is needed when referencing proper nouns such as Yves Klein
 
 
 11
@@ -340,15 +232,6 @@ The current state of AI is characterized by its ambiguity. As a medium, AI has t
 
 We once claimed that art is dead and philosophy is dead. However, as long as human civilization exists, both philosophy and art continue to thrive. We define the end of an era to redirect our thinking. Today, as technology gives rise to new medium, and as medium continuously transcends itself, we need new understandings to engage with these new forms. For artists, the goal is not to use new medium to express old ideas, but to create new expressions that resonate within these new mediums, simulating innovative concepts.
 
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 20 seconds to 1 minute 35 seconds.
-This estimate is based on the following factors:
-The English text contains about 180 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains academic references (Dreyfus, Simondon, etc.) and philosophical concepts
-The content has deep reflective nature, requiring appropriate slowing at key points
-There should be an obvious pause between the two natural paragraphs to distinguish different stages of thought development
-The last paragraph contains advice for artists, requiring emphasizing tone changes
 
 
 12
@@ -360,13 +243,3 @@ Not only is AI becoming a new medium, but throughout history, artists have also 
 Stiegler defines technology as the "third memory," an externalization of human collective memory. He describes technology as a "pharmakon"—both a remedy and a poison—simultaneously enhancing our capabilities while potentially leading to their atrophy. He warns that the digital economy transforms human attention into quantifiable resources through algorithms. Yuk Hui's concept of "Cosmic Technicism" disrupts the linear narrative of technological development, suggesting that diverse cultures give rise to diverse technologies. His caution regarding "algorithmic catastrophe" highlights contemporary technology's struggle to manage ontological contingency. He argues that artists should transform science by first turning scientific necessity into contingency and then making that contingency necessary again.
 
 Whenever artists encounter new technology, they tend to create rough conceptual models from which new medium may emerge. Although these models often lack practicality, they serve as simulations of concepts and contain the potential for the evolution from "simulation" to "becoming." As the philosophy of technology suggests, the real issue is not technology itself, but rather our relationship with it—a relationship that can be continuously reshaped through reflection and practice. In the process of artists transforming technology into a medium, they explore how human sensation and creativity can coexist with it, raising questions about we humanity, the kinds of beings we aspire to be, and the world we hope to create.
-
-Reading Time Estimation
-In documentary-style narration, reading this text would take approximately 1 minute 40 seconds to 1 minute 55 seconds.
-This estimate is based on the following factors:
-The English text contains about 240 words
-The average speed for documentary narration is 120-140 words per minute
-The text contains complex philosophical terms and theoretical references (pharmakon, Stiegler, Xu Yu, etc.)
-The content has strong philosophical reflective nature, requiring slowing the pace at key concepts
-There should be obvious pauses between paragraphs to distinguish different thought patterns
-Clear pronunciation and appropriate emphasis are needed for academic concepts like "third memory," "Cosmic Technicism," "algorithmic catastrophe," etc. 
