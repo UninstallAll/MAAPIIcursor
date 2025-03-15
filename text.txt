@@ -46,11 +46,11 @@ The history of humanity's control over reality through models is essentially a p
 
 In pre-industrial times, clay sandboxes and armillary spheres served as the first systematic models, monopolized by the ruling classes as tools for explaining reality—whether Mesopotamian war simulations or Mayan astronomical instruments, all defined "what is reality."
 
-The Scientific Revolution overturned this paradigm: Galileo's inclined plane experiments and Newton's prism transformed models into verifiable probes of truth. Yet laboratory ship hull models also fragmented cognition—humans began deconstructing the world through piecemeal models.
+The Scientific Revolution overturned this paradigm: Galileo's inclined plane experiments and Newton's prism transformed models into verifiable probes of truth. 
 
 In the 20th century consumer wave, Tamiya models and Bandai Gundam figurines transformed models into symbols of mass culture. When Neon Genesis Evangelion Unit-01 models carried the memories of millions of youth, the value of models had shifted from function to emotional identification.
 
-The 21st century digital revolution completely rewrote the rules: deep learning and GAN networks taught models to create. DALL·E generating "Baroque quantum computers" announced that humans were no longer the sole creators—models constructed parallel universes through latent space.
+The 21st century digital revolution completely rewrote the rules: deep learning and GAN networks taught models to create. Humans were no longer the sole creators, AI models constructed parallel universes through latent space.
 
 In today's algorithmic society, ESM-2 protein models with billions of parameters demonstrate emergent capabilities beyond their programming, while urban traffic and virus transmission models reversely discipline human decision-making. As GPT-4 autonomously optimizes code, tools are evolving into cognitive entities.
 
