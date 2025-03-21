@@ -1,25 +1,24 @@
-# Git commit message files
-COMMIT_EDITMSG
-*.commit_editmsg
-
-# Blender backup files
-*.blend1
-*.blend2
-*.blend3
-*.blend4
-*.blend5
-
-# Python cache files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 
-# IDE specific files
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS specific files
+# Blender backup files
+*.blend1
+*.blend2
+*.blend3
+
+# Operating System
 .DS_Store
 Thumbs.db 
