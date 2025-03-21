@@ -1,91 +1,85 @@
-# 个人网站项目
+# 六边形房屋生成器插件 (Hexagonal Housing Generator)
 
-这是一个使用Nest.js和Python构建的个人网站项目。
-
-## 技术栈
-
-- **前端**: React, TypeScript, Tailwind CSS
-- **主要后端**: Nest.js (Node.js框架)
-- **辅助后端**: Python Flask API
-- **数据库**: MongoDB
-
-## 项目结构
-
-```
-personal-website/
-├── frontend/                # React前端应用
-├── backend/                 # Nest.js后端应用
-├── python-services/         # Python服务
-├── docker-compose.yml       # Docker配置
-└── README.md                # 项目说明
-```
+这个Blender插件可以生成如图所示的六边形房屋结构阵列，包括内部网格结构和发光元素。
 
 ## 功能特点
 
-- 响应式设计
-- 博客文章管理
-- 项目展示
-- 联系表单
-- 数据分析（Python实现）
+- 创建六边形房屋结构阵列
+- 可调整行数、列数、尺寸和间距
+- 自动生成内部网格结构
+- 添加随机分布的发光点
+- 自动创建材质（基础结构材质和发光材质）
 
-## 安装与运行
+## 插件安装方法
 
-### 前提条件
+1. 打开Blender (建议使用3.0或更高版本)
+2. 进入 编辑 > 首选项 > 插件
+3. 点击 "安装..." 按钮
+4. 找到并选择 `hexagonal_housing.py` 文件
+5. 启用该插件（勾选插件名称旁边的复选框）
 
-- Node.js (v16+)
-- Python (v3.8+)
-- Docker & Docker Compose (可选)
+## 使用方法
 
-### 本地开发环境设置
+安装并启用插件后，有两种方式使用：
 
-1. 克隆仓库
-```bash
-git clone [仓库URL]
-cd personal-website
-```
+### 方式1：通过侧边栏面板
 
-2. 安装依赖并启动Nest.js后端
-```bash
-cd backend
-npm install
-npm run start:dev
-```
+1. 在3D视图中，打开右侧的侧边栏（如果未显示，按`N`键）
+2. 找到并点击"六边形房屋"选项卡
+3. 点击"生成六边形房屋阵列"按钮
+4. 在弹出的面板中调整参数：
+   - 行数：生成的行数
+   - 列数：生成的列数
+   - 半径：每个六边形单元的大小
+   - 高度：六边形单元的高度
+   - 间距因子：六边形单元之间的间距
+   - 添加细节：是否添加内部网格和灯光
 
-3. 安装依赖并启动React前端
-```bash
-cd ../frontend
-npm install
-npm start
-```
+### 方式2：通过Add菜单
 
-4. 设置Python虚拟环境并启动Python服务
-```bash
-cd ../python-services
-python -m venv venv
-source venv/bin/activate  # Windows使用: venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-```
+1. 在3D视图中，按`Shift+A`打开添加菜单
+2. 选择 网格(Mesh) > 六边形房屋阵列
+3. 在左下角的面板中调整参数
 
-### 使用Docker
+## 手动测试插件
 
-或者，您可以使用Docker Compose一键启动整个应用：
+如果您想先测试插件而不安装它，可以按照以下步骤操作：
 
-```bash
-docker-compose up
-```
+1. 打开Blender并创建一个新文件
+2. 切换到"脚本"工作区或打开文本编辑器
+3. 点击"打开"按钮，找到并打开`hexagonal_housing.py`文件
+4. 点击"运行脚本"按钮（或按`Alt+P`）
+5. 现在您可以通过上述任一方式使用该插件功能
 
-应用将在以下地址运行：
-- 前端: http://localhost:3000
-- Nest.js API: http://localhost:4000
-- Python API: http://localhost:5000
+## 效果最佳化建议
 
-## 部署
+为了获得与参考图片更相似的效果：
 
-本项目可部署到各种云平台：
-- AWS
-- Heroku
-- Vercel
-- Netlify (前端)
+1. 在生成房屋阵列后，切换到"渲染"视图模式（按`Z`键，选择"渲染"）
+2. 添加环境光遮蔽（Ambient Occlusion）：
+   - 进入渲染属性面板
+   - 找到"环境光遮蔽"部分并启用
+3. 调整世界环境：
+   - 进入世界属性面板
+   - 将背景颜色设置为深灰色或黑色
+4. 添加体积散射效果：
+   - 进入世界属性面板
+   - 启用"体积"并添加轻微的散射
 
-详细部署指南请参见各平台文档。 
+## 问题排查
+
+如果在使用过程中遇到问题：
+
+1. 确保您的Blender版本是3.0或更高
+2. 确认脚本没有语法错误（运行时控制台没有错误信息）
+3. 如果生成物体过大或过小，调整"半径"和"高度"参数
+4. 如果模型显示异常，尝试禁用"添加细节"选项
+
+## 自定义修改
+
+如果您想根据自己的需求修改插件：
+
+- `create_hexagon_base()`: 修改六边形基础形状
+- `add_interior_grid()`: 调整内部网格结构
+- `add_lights()`: 更改灯光效果和分布
+- `add_emissive_materials()`: 自定义材质属性 

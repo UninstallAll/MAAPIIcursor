@@ -40,7 +40,7 @@ The 21st century digital revolution completely rewrote the rules: deep learning 
 In today's algorithmic society, ESM-2 protein models with billions of parameters demonstrate emergent capabilities beyond their programming, while urban traffic and virus transmission models reversely discipline human decision-making. As GPT-4 autonomously optimizes code, tools are evolving into cognitive entities.
 
 This cognitive migration from clay to code ultimately forces humans to answer: when models become the arbiters of truth, how do we reanchor our own existence?
-
+ 
 
 3
 
