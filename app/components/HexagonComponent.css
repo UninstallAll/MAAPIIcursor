@@ -1,0 +1,13 @@
+.hexagon-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.hexagon {
+    width: 100px; /* 六边形的宽度 */
+    height: 57.74px; /* 六边形的高度 */
+    background-color: #64b5f6; /* 六边形的颜色 */
+    margin: 10px; /* 六边形之间的间隔 */
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+} 

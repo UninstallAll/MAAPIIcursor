@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+每次生成之前去读hexagonal_housing_requirements.md核对项目完成进度，在每次完成一项任务之后自动确认进度并在hexagonal_housing_requirements.md文件内标注。
+读hexagonal_housing.py作为代码上下文。

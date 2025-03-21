@@ -22,6 +22,8 @@ from bpy.props import (
     FloatVectorProperty,
     EnumProperty,
 )
+import matplotlib.pyplot as plt
+import numpy as np
 
 def create_hexagon_base(radius, height, segments=6):
     """创建六边形基础"""
@@ -254,6 +256,27 @@ def create_single_hexagon_house(radius, height, wall_thickness=0.1, add_details=
     
     return bm
 
+def create_channel_between_houses(x, y, radius):
+    """创建两个六边形房屋之间的通道"""
+    bm = bmesh.new()
+    
+    # 通道的宽度和高度
+    channel_width = 0.2
+    channel_height = radius / 2
+    
+    # 创建通道的四个顶点
+    verts = [
+        bm.verts.new((x + radius, y, 0)),
+        bm.verts.new((x + radius + channel_width, y, 0)),
+        bm.verts.new((x + radius + channel_width, y, channel_height)),
+        bm.verts.new((x + radius, y, channel_height)),
+    ]
+    
+    # 创建通道的面
+    bm.faces.new(verts)
+    
+    return bm
+
 def create_hexagonal_array(rows, columns, radius, height, spacing_factor=1.1, add_details=True):
     """创建六边形房屋阵列"""
     # 计算六边形偏移量
@@ -288,8 +311,7 @@ def create_hexagonal_array(rows, columns, radius, height, spacing_factor=1.1, ad
                 v.co.x += x
                 v.co.y += y
             
-            # 合并到主网格 - 修复：不使用不存在的add_mesh操作符
-            # 而是手动将顶点和面添加到主网格
+            # 合并到主网格
             verts_map = {}
             for v in single_bm.verts:
                 new_v = bm.verts.new(v.co)
@@ -304,6 +326,25 @@ def create_hexagonal_array(rows, columns, radius, height, spacing_factor=1.1, ad
                     pass
                     
             single_bm.free()
+            
+            # 添加通道
+            if col < columns - 1:  # 如果不是最后一列
+                # 创建通道
+                channel_bm = create_channel_between_houses(x, y, radius)
+                for v in channel_bm.verts:
+                    v.co.x += x
+                    v.co.y += y
+                
+                # 合并通道到主网格
+                for v in channel_bm.verts:
+                    new_v = bm.verts.new(v.co)
+                    verts_map[v] = new_v
+                
+                for f in channel_bm.faces:
+                    new_face_verts = [verts_map[v] for v in f.verts]
+                    bm.faces.new(new_face_verts)
+                
+                channel_bm.free()
     
     # 更新网格
     bm.to_mesh(mesh)
@@ -414,15 +455,24 @@ class MESH_OT_hexagonal_housing(bpy.types.Operator):
         default=True
     )
     
+    count: IntProperty(
+        name="生成数量",
+        description="生成的六边形房屋数量",
+        default=1,
+        min=1,
+        max=100
+    )
+    
     def execute(self, context):
-        create_hexagonal_array(
-            self.rows,
-            self.columns,
-            self.radius,
-            self.height,
-            self.spacing,
-            self.add_details
-        )
+        for _ in range(self.count):  # 根据生成数量创建多个阵列
+            create_hexagonal_array(
+                self.rows,
+                self.columns,
+                self.radius,
+                self.height,
+                self.spacing,
+                self.add_details
+            )
         
         return {'FINISHED'}
 
@@ -439,6 +489,10 @@ class VIEW3D_PT_hexagonal_housing(bpy.types.Panel):
         
         row = layout.row()
         row.operator("mesh.hexagonal_housing_add", text="生成六边形房屋阵列")
+        
+        # 添加生成数量的输入框
+        row = layout.row()
+        row.prop(context.scene, "count", text="生成数量")
 
 def menu_func(self, context):
     self.layout.operator(MESH_OT_hexagonal_housing.bl_idname, text="六边形房屋阵列")
@@ -458,5 +512,23 @@ def unregister():
         bpy.utils.unregister_class(cls)
     bpy.types.VIEW3D_MT_mesh_add.remove(menu_func)
 
+def draw_hexagons(count):
+    plt.figure(figsize=(8, 8))
+    for i in range(count):
+        # 计算六边形的中心位置
+        x = i * 1.5  # 每个六边形之间的水平间隔
+        y = np.sqrt(3) * (i % 2)  # 垂直间隔
+        hexagon = plt.RegularPolygon((x, y), numVertices=6, radius=1, orientation=np.pi / 6, color='blue', alpha=0.5)
+        plt.gca().add_patch(hexagon)
+
+    plt.xlim(-1, count * 1.5)
+    plt.ylim(-1, 5)
+    plt.gca().set_aspect('equal')
+    plt.title(f'Number of Hexagons: {count}')
+    plt.grid()
+    plt.show()
+
 if __name__ == "__main__":
-    register() 
+    register()
+    count = int(input("Enter the number of hexagons: "))  # 用户输入六边形数量
+    draw_hexagons(count) 
