@@ -6,7 +6,7 @@ from mathutils import Vector, Matrix
 bl_info = {
     "name": "Hexagonal Housing Generator",
     "author": "AI Assistant",
-    "version": (1, 0),
+    "version": (1, 1),
     "blender": (4, 4, 0),
     "location": "View3D > Sidebar > Hex Housing",
     "description": "Generate hexagonal housing structure arrays",
@@ -242,109 +242,145 @@ def create_hexagonal_array(context):
         pipe_collection = bpy.data.collections.new("Pipes")
         context.scene.collection.children.link(pipe_collection)
     
-    # Create base hexagon mesh once and reuse
-    verts = []
-    faces = []
-    
-    # Create hexagon vertices and faces (without holes)
-    # Create bottom vertices
-    for i in range(6):
-        angle = (i * math.pi / 3) + (math.pi / 6)
-        x = radius * math.cos(angle)
-        y = radius * math.sin(angle)
-        verts.append((x, y, 0))
-    
-    # Create top vertices
-    for i in range(6):
-        angle = (i * math.pi / 3) + (math.pi / 6)
-        x = radius * math.cos(angle)
-        y = radius * math.sin(angle)
-        verts.append((x, y, height))
-    
-    # Create faces
-    # Bottom face
-    faces.append([0, 1, 2, 3, 4, 5])
-    # Top face
-    faces.append([6, 7, 8, 9, 10, 11])
-    # Side faces
-    for i in range(6):
-        faces.append([i, (i + 1) % 6, ((i + 1) % 6) + 6, i + 6])
-    
-    # Create base mesh
-    base_mesh = bpy.data.meshes.new("HexagonBase")
-    base_mesh.from_pydata(verts, [], faces)
-    base_mesh.update()
-    
-    # Create hexagon material
-    mat = bpy.data.materials.new(name="HexagonMaterial")
-    mat.use_nodes = True
-    nodes = mat.node_tree.nodes
-    nodes.clear()
-    
-    # Create a simple material
-    node_material = nodes.new(type='ShaderNodeBsdfPrincipled')
-    node_material.inputs[0].default_value = (0.8, 0.8, 0.8, 1)  # Light gray
-    node_output = nodes.new(type='ShaderNodeOutputMaterial')
-    mat.node_tree.links.new(node_material.outputs[0], node_output.inputs[0])
-    
-    # Function to create hole mesh
-    def create_hole_mesh(params):
-        hole_radius = radius - params['distance']
-        if hole_radius <= 0:
-            hole_radius = radius * 0.1
+    # Function to create hexagon mesh WITH holes directly
+    def create_hexagon_mesh_with_holes(radius, height, hole_params=None):
+        verts = []
+        faces = []
         
-        # Calculate number of sides for hole
-        if params['shape'] == 'CIRCLE':
-            sides = 32
-        elif params['shape'] == 'HEXAGON':
-            sides = 6
-        elif params['shape'] == 'SQUARE':
-            sides = 4
-        elif params['shape'] == 'TRIANGLE':
-            sides = 3
-        else:  # CUSTOM
-            sides = params['sides']
-        
-        # Create hole vertices and faces
-        hole_verts = []
-        hole_faces = []
-        
+        # Create hexagon vertices (without holes)
         # Create bottom vertices
-        bottom_verts = []
-        for i in range(sides):
-            angle = (i * 2 * math.pi / sides) + math.radians(params['rotation'])
-            x = hole_radius * math.cos(angle)
-            y = hole_radius * math.sin(angle)
-            bottom_verts.append(len(hole_verts))
-            hole_verts.append((x, y, 0))
+        bottom_hex_verts = []
+        for i in range(6):
+            angle = (i * math.pi / 3) + (math.pi / 6)
+            x = radius * math.cos(angle)
+            y = radius * math.sin(angle)
+            bottom_hex_verts.append(len(verts))
+            verts.append((x, y, 0))
         
         # Create top vertices
-        top_verts = []
-        for i in range(sides):
-            angle = (i * 2 * math.pi / sides) + math.radians(params['rotation'])
-            x = hole_radius * math.cos(angle)
-            y = hole_radius * math.sin(angle)
-            top_verts.append(len(hole_verts))
-            hole_verts.append((x, y, height * params['height_ratio']))
+        top_hex_verts = []
+        for i in range(6):
+            angle = (i * math.pi / 3) + (math.pi / 6)
+            x = radius * math.cos(angle)
+            y = radius * math.sin(angle)
+            top_hex_verts.append(len(verts))
+            verts.append((x, y, height))
         
-        # Create faces
-        # Bottom face
-        hole_faces.append(bottom_verts)  # No need to reverse for bottom face
+        # If no holes, just create the hexagon
+        if not hole_params or len(hole_params) == 0:
+            # Bottom face
+            faces.append(bottom_hex_verts)
+            # Top face
+            faces.append(top_hex_verts[::-1])  # Reverse for correct normal direction
+            # Side faces
+            for i in range(6):
+                next_i = (i + 1) % 6
+                faces.append([bottom_hex_verts[i], bottom_hex_verts[next_i],
+                            top_hex_verts[next_i], top_hex_verts[i]])
+            
+            return verts, faces
         
-        # Top face
-        hole_faces.append(top_verts[::-1])  # Reverse for correct normal direction
+        # If we have holes, we need to handle them
+        # Store all hole vertices for each face
+        bottom_holes = []
+        top_holes = []
+        side_faces = []
         
-        # Side faces
-        for i in range(sides):
-            next_i = (i + 1) % sides
-            hole_faces.append([bottom_verts[i], bottom_verts[next_i],
-                             top_verts[next_i], top_verts[i]])
+        # Create vertices for each hole
+        for params in hole_params:
+            hole_radius = radius - params['distance']
+            if hole_radius <= 0:
+                hole_radius = radius * 0.1
+            
+            # Calculate number of sides for hole
+            if params['shape'] == 'CIRCLE':
+                sides = 32
+            elif params['shape'] == 'HEXAGON':
+                sides = 6
+            elif params['shape'] == 'SQUARE':
+                sides = 4
+            elif params['shape'] == 'TRIANGLE':
+                sides = 3
+            else:  # CUSTOM
+                sides = params['sides']
+            
+            # Create hole vertices
+            bottom_hole_verts = []
+            for i in range(sides):
+                angle = (i * 2 * math.pi / sides) + math.radians(params['rotation'])
+                x = hole_radius * math.cos(angle)
+                y = hole_radius * math.sin(angle)
+                bottom_hole_verts.append(len(verts))
+                verts.append((x, y, 0))
+            
+            # Add to bottom holes list (reversed for correct face orientation)
+            bottom_holes.append(bottom_hole_verts[::-1])
+            
+            # Create top hole vertices if not a complete through-hole
+            hole_height = height * params['height_ratio']
+            top_hole_verts = []
+            for i in range(sides):
+                angle = (i * 2 * math.pi / sides) + math.radians(params['rotation'])
+                x = hole_radius * math.cos(angle)
+                y = hole_radius * math.sin(angle)
+                top_hole_verts.append(len(verts))
+                verts.append((x, y, hole_height))
+            
+            # Add to top holes list
+            top_holes.append(top_hole_verts)
+            
+            # Create side faces for hole
+            for i in range(sides):
+                next_i = (i + 1) % sides
+                side_faces.append([bottom_hole_verts[i], bottom_hole_verts[next_i],
+                                 top_hole_verts[next_i], top_hole_verts[i]])
         
-        # Create hole mesh
-        hole_mesh = bpy.data.meshes.new("HoleBase")
-        hole_mesh.from_pydata(hole_verts, [], hole_faces)
-        hole_mesh.update()
-        return hole_mesh
+        # Now create faces with holes
+        # For bottom face (Use triangulation to create face with holes)
+        triangulate_face_with_holes(verts, faces, bottom_hex_verts, bottom_holes)
+        
+        # For top face (Use triangulation to create face with holes)
+        triangulate_face_with_holes(verts, faces, top_hex_verts[::-1], [h[::-1] for h in top_holes])
+        
+        # Add hexagon side faces
+        for i in range(6):
+            next_i = (i + 1) % 6
+            faces.append([bottom_hex_verts[i], bottom_hex_verts[next_i],
+                        top_hex_verts[next_i], top_hex_verts[i]])
+        
+        # Add all hole side faces
+        faces.extend(side_faces)
+        
+        return verts, faces
+    
+    def triangulate_face_with_holes(verts, faces, outer_contour, holes):
+        """Create triangulated faces for a polygon with holes"""
+        # Basic triangulation (this is a simplified version)
+        # For production, you might want to use more advanced triangulation algorithms
+        
+        # If no holes, just return the face
+        if not holes or len(holes) == 0:
+            faces.append(outer_contour)
+            return
+        
+        # Create triangles connecting outer contour with each hole
+        for hole in holes:
+            # Find a vertex on the outer contour and hole to connect
+            outer_point = outer_contour[0]
+            hole_point = hole[0]
+            
+            # Create a "bridge" between the outer contour and hole
+            bridge_points = [outer_point, hole_point]
+            
+            # Create triangles along the bridge
+            for i in range(1, len(outer_contour)):
+                faces.append([outer_point, outer_contour[i], outer_contour[i-1]])
+            
+            for i in range(1, len(hole)):
+                faces.append([hole_point, hole[i-1], hole[i]])
+    
+    # Store hexagon positions for pipe creation
+    hexagon_positions = []
     
     # Calculate grid offsets based on arrangement mode
     if arrangement_mode == 'HONEYCOMB':
@@ -353,9 +389,6 @@ def create_hexagonal_array(context):
     else:  # GRID mode
         x_offset = center_distance
         y_offset = center_distance
-    
-    # Store hexagon positions for pipe creation
-    hexagon_positions = []
     
     # Generate array based on arrangement mode and layers
     for layer in range(layers):
@@ -369,10 +402,55 @@ def create_hexagonal_array(context):
                 x = (col * x_offset) + row_offset + layer_x_offset
                 y = row * y_offset + layer_y_offset
                 
-                # Create hexagon
-                obj = bpy.data.objects.new(f"Hexagon_{layer}_{row}_{col}", base_mesh)
+                # Prepare hole parameters list for this hexagon
+                hole_params = []
+                
+                # Add main hole if enabled
+                if generate_holes:
+                    hole_params.append({
+                        'shape': hole_shape,
+                        'distance': hole_distance,
+                        'rotation': hole_rotation,
+                        'sides': hole_sides,
+                        'height_ratio': hole_height_ratio
+                    })
+                
+                # Add additional holes
+                for feature in additional_features:
+                    if feature.feature_type == 'HOLE':
+                        hole_params.append({
+                            'shape': feature.hole_shape,
+                            'distance': feature.hole_distance,
+                            'rotation': feature.hole_rotation,
+                            'sides': feature.hole_sides,
+                            'height_ratio': feature.hole_height_ratio
+                        })
+                
+                # Create hexagon mesh with holes directly
+                hex_verts, hex_faces = create_hexagon_mesh_with_holes(radius, height, hole_params)
+                
+                # Create the mesh
+                mesh_name = f"Hexagon_{layer}_{row}_{col}"
+                hex_mesh = bpy.data.meshes.new(mesh_name)
+                hex_mesh.from_pydata(hex_verts, [], hex_faces)
+                hex_mesh.update()
+                
+                # Create object
+                obj = bpy.data.objects.new(mesh_name, hex_mesh)
                 array_collection.objects.link(obj)
                 obj.location = Vector((x, y, layer_z))
+                
+                # Create hexagon material
+                mat = bpy.data.materials.new(name="HexagonMaterial")
+                mat.use_nodes = True
+                nodes = mat.node_tree.nodes
+                nodes.clear()
+                
+                # Create a simple material
+                node_material = nodes.new(type='ShaderNodeBsdfPrincipled')
+                node_material.inputs[0].default_value = (0.8, 0.8, 0.8, 1)  # Light gray
+                node_output = nodes.new(type='ShaderNodeOutputMaterial')
+                mat.node_tree.links.new(node_material.outputs[0], node_output.inputs[0])
                 
                 # Apply material
                 if obj.data.materials:
@@ -380,69 +458,10 @@ def create_hexagonal_array(context):
                 else:
                     obj.data.materials.append(mat)
                 
-                # Add holes if enabled
-                if generate_holes or any(f.feature_type == 'HOLE' for f in additional_features):
-                    # List to store all hole parameters
-                    hole_params = []
-                    
-                    # Add main hole if enabled
-                    if generate_holes:
-                        hole_params.append({
-                            'shape': hole_shape,
-                            'distance': hole_distance,
-                            'rotation': hole_rotation,
-                            'sides': hole_sides,
-                            'height_ratio': hole_height_ratio
-                        })
-                    
-                    # Add additional holes
-                    for feature in additional_features:
-                        if feature.feature_type == 'HOLE':
-                            hole_params.append({
-                                'shape': feature.hole_shape,
-                                'distance': feature.hole_distance,
-                                'rotation': feature.hole_rotation,
-                                'sides': feature.hole_sides,
-                                'height_ratio': feature.hole_height_ratio
-                            })
-                    
-                    # Create a combined hole object
-                    combined_hole_name = f"CombinedHole_{layer}_{row}_{col}"
-                    combined_hole_mesh = bpy.data.meshes.new(combined_hole_name)
-                    combined_hole_obj = bpy.data.objects.new(combined_hole_name, combined_hole_mesh)
-                    array_collection.objects.link(combined_hole_obj)
-                    combined_hole_obj.location = obj.location
-                    
-                    # Create individual holes and join them
-                    hole_objects = []
-                    for i, params in enumerate(hole_params):
-                        hole_mesh = create_hole_mesh(params)
-                        hole_obj = bpy.data.objects.new(f"TempHole_{i}", hole_mesh)
-                        array_collection.objects.link(hole_obj)
-                        hole_obj.location = obj.location
-                        hole_objects.append(hole_obj)
-                    
-                    # Select all hole objects and make the combined hole active
-                    for hole_obj in hole_objects:
-                        hole_obj.select_set(True)
-                    combined_hole_obj.select_set(True)
-                    bpy.context.view_layer.objects.active = combined_hole_obj
-                    
-                    # Join all holes into one mesh
-                    bpy.ops.object.join()
-                    
-                    # Add boolean modifier to hexagon using combined hole
-                    bool_mod = obj.modifiers.new(name="Boolean", type='BOOLEAN')
-                    bool_mod.object = combined_hole_obj
-                    bool_mod.operation = 'DIFFERENCE'
-                    
-                    # Hide combined hole object
-                    combined_hole_obj.hide_viewport = True
-                    combined_hole_obj.hide_render = True
-                
                 # Store position for pipe creation
                 hexagon_positions.append((x, y, layer_z, layer, row, col))
     
+    # Create pipes
     # Create additional pipe collections
     pipe_collections = {}
     if generate_pipes or any(f.feature_type == 'PIPE' for f in additional_features):
