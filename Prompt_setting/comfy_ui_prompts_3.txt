@@ -1,0 +1,55 @@
+# Comfy-UI 提示词集合：游戏模拟与叙事体验
+
+## 总体主题提示词
+
+```
+immersive third-person video game perspective, player's hands controlling character on screen, narrative branching paths visualized, digital world with glitching reality, code revealing beneath game textures, philosophical questioning of virtual experience, hyper-detailed gaming environment, dramatic lighting highlighting boundary between real and virtual, cinematic composition showing player and avatar simultaneously, depth of field focusing on interface between human and game, 8k resolution, ray tracing, photorealistic rendering with slight digital distortion
+```
+
+## 分段提示词列表
+
+### 1. 第三人称视角与角色映射
+```
+third-person gaming perspective showing player's hands on controller and character on screen, actions mirroring between reality and virtual world, hyper-detailed gaming setup with dramatic backlighting, character responding to inputs, photorealistic rendering of gaming environment, cinematic composition focusing on connection between player and avatar
+```
+
+### 2. 玩家选择与故事展开
+```
+branching narrative paths visualized as glowing decision trees, player character standing at crossroads in immersive game world, story unfolding based on choices made, player's silhouette reflected in multiple potential outcomes, hyper-detailed fantasy game environment, dramatic lighting highlighting decision moments, ray traced reflections
+```
+
+### 3. 虚拟世界的"已完成"错觉
+```
+expansive virtual world with pre-constructed past and present narratives, circular timeline visualized around player character, interwoven story threads connecting past events to current gameplay, illusory completeness of digital environment, atmospheric lighting suggesting artificial perfection, hyper-detailed game world with subtle uncanny valley elements
+```
+
+### 4. 重复与游戏的说服力
+```
+player character repeating same actions in slightly different scenarios, hypnotic patterns of gameplay loops visualized as spiraling light trails, information being subtly transferred through repetition, persuasive mechanics illustrated as glowing connections forming in player's mind, cinematic composition showing gradual acceptance of game logic
+```
+
+### 5. 代码的现实提醒
+```
+whispered words "this is just code" appearing as glitching text overlaid on game world, moment of realization visualized as partial dissolution of game environment, fragments of code becoming visible beneath surface textures, character looking directly at player breaking fourth wall, dramatic lighting shift revealing artificial nature of experience
+```
+
+### 6. 质疑虚拟经验
+```
+player character's memories visualized as data streams flowing between game and reality, questioning expression on player's face reflected in screen, distinction between personal and programmed experience illustrated through contrasting visual styles, hyper-detailed split screen showing real vs. virtual accumulated experiences, philosophical concept visualization
+```
+
+### 7. 底层代码的暴露
+```
+game world with sections deconstructed to reveal wireframe and code beneath, magical facade peeling away from virtual environment, raw structure of game exposed like architectural blueprints, character partially dissolved into base elements, dramatic lighting highlighting transition between polished game and underlying systems, photorealistic rendering with digital deconstruction effects
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

@@ -1,0 +1,60 @@
+# Comfy-UI 提示词集合：模型历史演变
+
+## 总体主题提示词
+
+```
+epic timeline of human cognitive models throughout history, clay war simulations to AI neural networks, power structures and knowledge monopolies, scientific revolution apparatus, consumer culture figurines, digital revolution algorithms, hyper-detailed museum exhibition style, dramatic lighting highlighting technological transitions, philosophical concept art, ancient artifacts alongside futuristic interfaces, 8k resolution, cinematic composition, depth of field focusing on human relationship with models, octane render
+```
+
+## 分段提示词列表
+
+### 1. 认知权的技术化进程
+```
+visualization of human cognitive evolution through models, ancient to modern technological timeline, knowledge power structures illustrated as flowing energy between artifacts and humans, dramatic museum lighting, hyper-detailed archaeological and futuristic elements, cinematic composition, ray tracing, 8k resolution
+```
+
+### 2. 前工业时代模型
+```
+Mesopotamian clay battlefield models, ancient astronomers with armillary spheres, Mayan astronomical instruments, power elites controlling knowledge artifacts, warm candlelight illuminating ancient modeling tools, hyper-detailed archaeological artifacts, dust particles in light beams, photorealistic rendering of ancient knowledge monopolies
+```
+
+### 3. 科学革命的模型转变
+```
+Galileo's inclined plane experiments, Newton's prism splitting light, early scientific apparatus in richly detailed workshop environment, verification instruments revealing truth, dramatic Renaissance lighting highlighting scientific breakthrough, photorealistic historical scene, detailed period-accurate scientific instruments
+```
+
+### 4. 实验室模型与认知割裂
+```
+naval ship testing in fragmented water tank models, scientists dissecting reality into experimental fragments, laboratory environment with dramatic spotlighting, hyper-detailed scientific equipment, sense of cognitive division, photorealistic rendering of 18th-19th century scientific methodology
+```
+
+### 5. 消费时代的模型文化
+```
+Tamiya model kits and Gundam figurines displayed in 20th century consumer culture setting, EVA Unit-01 model emanating emotional memories, Japanese hobby shop environment, nostalgic atmospheric lighting, hyper-detailed miniatures, emotional connection between humans and models visualized as glowing threads
+```
+
+### 6. 数字革命中的模型
+```
+deep learning networks and GAN systems visualized as creating new realities, AI as creator rather than tool, digital latent spaces forming parallel universes, glowing neural networks, data flowing through algorithmic structures, hyper-detailed technological environment, dramatic sci-fi lighting, photorealistic rendering of abstract AI concepts
+```
+
+### 7. 算法社会的模型
+```
+ESM-2 protein model with emergent capabilities beyond human design, urban traffic models and virus transmission simulations directing human decisions, visualization of algorithms training humans rather than reverse, massive parameter networks displayed as cosmic structures, hyper-detailed futuristic command center, dramatic lighting highlighting power shift
+```
+
+### 8. 模型成为认知主体
+```
+GPT-4 autonomously optimizing code, tools transcending into cognitive entities, clay artifacts transforming into digital code, philosophical question about truth arbitration, human existential crisis visualized, beings searching for meaning alongside their creations, mystical lighting suggesting transcendence, hyper-detailed metaphysical environment
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

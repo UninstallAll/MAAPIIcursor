@@ -1,0 +1,55 @@
+# Comfy-UI 提示词集合：元游戏与现实交织
+
+## 总体主题提示词
+
+```
+meta-gaming concept visualization, player stepping back from screen observing themselves playing, recursive layers of reality and simulation, gaming peripherals affecting virtual world, psychological strategy visualization, broken game rules illustrated as shattered interface elements, competitive gaming setup with real money visible, RPG character sheet overlaid on real person, hyperrealistic rendering of gaming environment bleeding into player's reality, cinematic composition showing simultaneous experience of reality and hyperreality, dramatic lighting highlighting boundary dissolution, 8k resolution, ray tracing, intricate detail
+```
+
+## 分段提示词列表
+
+### 1. 游戏反思模拟本身
+```
+game simulation recursively reflecting on itself, meta-narrative visualization showing game within game structure, player character becoming aware of game mechanics, hyperrealistic gaming environment with fourth wall breaking elements, dramatic lighting highlighting layers of simulation, intricate detail on both game world and interface elements
+```
+
+### 2. 玩家成为观察对象
+```
+player in third-person perspective observing themselves playing a game, recursive camera angles showing multiple layers of observation, reflective surfaces showing player's expression while gaming, psychological self-awareness visualized as glowing connections between player and avatar, cinematic composition focused on the meta-awareness moment
+```
+
+### 3. 现实元素影响游戏
+```
+competitive gaming setup with money and equipment visibly affecting game outcome, psychological chess match overlaid on digital gameplay, rule-breaking visualized as glitching game boundaries, hyper-detailed gaming peripherals with causal connections to virtual world events, dramatic lighting highlighting the material reality influencing digital experience
+```
+
+### 4. 竞技与RPG游戏中的现实规则
+```
+RPG character stats sheet extending into player's real-life attributes, competitive esports arena with real-world economics visibly impacting gameplay, players utilizing real-world strategies within game framework, gaming environment showing seamless blend between monetary transactions and in-game resources, photorealistic rendering of boundary between game mechanics and life mechanics
+```
+
+### 5. 媒介视角下的元游戏
+```
+meta-game pointing toward reality of gaming itself, player being extracted from traditional gameplay rules, media theory visualization showing game as medium rather than just entertainment, cinematic composition revealing game's existence as cultural artifact, hyper-detailed conceptual visualization of game medium's self-awareness
+```
+
+### 6. 同步体验现实与超现实
+```
+player simultaneously experiencing real self and game hyperreality, split-screen effect showing perfect synchronization between real actions and virtual consequences, consciousness visualization showing merged reality layers, hyper-detailed gaming environment with elements bleeding into physical space, dramatic lighting highlighting moments of reality/hyperreality convergence
+```
+
+### 7. 模拟侵入现实
+```
+simulation hyperreality invading player's reality through perceptual shift, game elements manifesting in physical world, new hybrid reality being created at intersection of game and life, visualization of cognitive boundaries dissolving, player's living space transformed by game aesthetic elements, photorealistic rendering of digital concepts materializing in physical space
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

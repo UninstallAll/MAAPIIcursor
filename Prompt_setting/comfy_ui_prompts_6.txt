@@ -1,0 +1,151 @@
+# Comfy-UI 提示词集合：符号、信息与模拟的演变
+
+## 第一部分：符号与信息 - 总体提示词
+
+```
+symbolic capital accumulation visualized through curated social media representations, Bourdieu's theory illustrated through digital filtering of reality, perfect life photographs arranged as symbol reconstruction, luxury goods and travel check-ins forming power relations matrix, McLuhan's "medium is the message" concept visualized through social platform design, virtual communities reshaping perception, information authenticity yielding to symbolic persuasiveness, hyper-detailed social media interfaces with dramatic lighting showing symbolic transformation of reality, cinematic composition focusing on digital manipulation of experience, 8k resolution, ray tracing, photorealistic rendering with subtle digital distortion
+```
+
+### 第一部分：符号与信息 - 分段提示词
+
+#### 1-2: 符号重构现实
+```
+world filled with symbols reconstructing reality visualization, Bourdieu's symbolic capital accumulation illustrated through curated imagery, social media perfect life photographs arranged in carefully planned display, luxury goods and travel check-ins shown as power relation restructuring, hyper-detailed social platform interface with dramatic lighting highlighting selective reality presentation, photorealistic rendering with subtle filtering effects
+```
+
+#### 3: 媒介即信息
+```
+McLuhan's "medium is the message" concept visualization, Instagram filters and Facebook like systems reshaping perception methods, virtual communities redesigning world perception through interface rules, information authenticity yielding to symbolic persuasiveness illustration, hyper-detailed social media platform architecture showing perceptual manipulation, dramatic lighting highlighting interface design elements influencing human cognition
+```
+
+## 第二部分：游戏媒介与信息传递 - 总体提示词
+
+```
+gaming simulation elevating beyond entertainment into complex information transmission, procedural rules conveying sophisticated messages, McDonald's video game revealing fast food industry problems through interactive mechanisms, artistic games exploring profound themes of life and memory through non-traditional narratives, creator's thoughts expressed through proceduralized forms, interactive news experiences transforming information acquisition, refugee crisis and budget policy understanding through participatory experience, hyper-detailed game interface design with philosophical underpinnings, cinematic lighting highlighting experiential knowledge transfer, 8k resolution, photorealistic game scenes with conceptual depth
+```
+
+### 第二部分：游戏媒介与信息传递 - 分段提示词
+
+#### 4: 游戏的模拟深度
+```
+gaming simulation pushing mimesis to new heights beyond entertainment, complex information transmission through procedural rules, McDonald's video game revealing fast food industry issues through seemingly simple interactions, hyper-detailed game interface showing economic and ethical systems behind consumer products, dramatic lighting highlighting moment of realization about industry problems through game mechanics
+```
+
+#### 5: 艺术游戏的突破
+```
+artistic games breaking traditional narratives illustration, Journey and Passage games leading players to explore profound themes of life and memory, creators' thoughts expressed as proceduralized art forms, new artistic expression through gaming medium, hyper-detailed artistic game environments showing emotional storytelling through minimal mechanics, ethereal lighting highlighting transcendental gaming experience
+```
+
+#### 6: 互动新闻体验
+```
+news transformed into interactive experiences visualization, information acquisition becoming personal participation process, Darfur is Dying refugee experience simulation rather than text description, Budget Hero policy understanding through interactive choice mechanics, information transmission revolution through gaming, hyper-detailed news game interfaces showing emotional connection to distant events, dramatic lighting highlighting moments of empathetic understanding through participation
+```
+
+## 第三部分：再现与模拟的演变 - 总体提示词
+
+```
+technological evolution transforming artistic essence as described by Walter Benjamin, photography and film invention changing artistic aura while opening new expression forms, entering Baudrillard's simulation era where simulation transcends reality becoming independent symbol system, virtual worlds as new reality forms rather than mirrors, Roland Barthes' Mythologies reminding that images are cultural code products, meaning networks constructed through culture rather than objective world perception, hyper-detailed visualization of media evolution timeline, dramatic lighting highlighting transition points between representation eras, cinematic composition showing layers of reality and simulation, 8k resolution with philosophical depth
+```
+
+### 第三部分：再现与模拟的演变 - 分段提示词
+
+#### 7: 本雅明的技术革新
+```
+Walter Benjamin's "The Work of Art in the Age of Mechanical Reproduction" visualization, technological innovation changing artistic essence through history, photography and film invention causing art to lose unique "aura" while opening new expression possibilities, hyper-detailed museum exhibition showing evolution of art reproduction technologies, dramatic lighting highlighting transition from unique handcrafted art to mechanically reproducible forms
+```
+
+#### 8: 鲍德里亚的拟像时代
+```
+Baudrillard's simulation era where models precede reality visualization, simulations no longer copying reality but exceeding it as independent symbol systems, immersion in virtual worlds experiencing new reality forms rather than reflections, hyper-detailed illustration of reality layers dissolving into simulation, conceptual visualization of hyperreality emergence, dramatic lighting highlighting boundaries dissolution between original and copy
+```
+
+#### 9: 巴特的文化编码
+```
+Roland Barthes' Mythologies reminder that all images are cultural code products, symbolic reading process of culturally constructed meaning networks rather than objective reality, hyper-detailed visualization of cultural decoding process when viewing media, conceptual illustration showing layers of meaning beneath seemingly simple images, dramatic lighting highlighting cultural interpretation filters, photorealistic rendering with semiotic symbolism
+```
+
+## 第四部分：政治中的模拟 - 总体提示词
+
+```
+simulation power in political domain, election campaign games as interactive political system models, experiencing election strategies and public opinion dynamics, September 12th placing players in counter-terrorism scenarios facing civilian casualty consequences, games transcending entertainment to become powerful anti-war political statement, PeaceMaker diplomatic negotiation simulation for Middle East peace process, complex international relations transformed from abstract concepts to perceivable reality, hyper-detailed political simulation interfaces with moral choice visualization, dramatic lighting highlighting decision consequences, cinematic composition focusing on political complexity through interactive systems, 8k resolution, photorealistic political environments with conceptual depth
+```
+
+### 第四部分：政治中的模拟 - 分段提示词
+
+#### 10: 政治游戏的互动模型
+```
+political simulation power visualization in election campaign games, interactive political system models allowing firsthand experience of election strategies, public opinion dynamics simulation through gameplay mechanics, hyper-detailed political campaign management interface showing complex political forces at work, dramatic lighting highlighting moments of strategic decision-making, photorealistic political rally environments with cause-effect relationship visualization
+```
+
+#### 11: 反战政治立场的表达
+```
+September 12th counter-terrorism war scenario placing players amid civilian casualties, games transcending entertainment to become powerful anti-war political statements, hyper-detailed war-torn urban environment showing consequences of military intervention, moral choice interface highlighting ethical dilemmas in conflict zones, dramatic lighting emphasizing emotional impact of civilian suffering, photorealistic rendering of conflict aftermath with political commentary undertones
+```
+
+#### 12: 国际关系的可感知化
+```
+PeaceMaker diplomatic negotiation simulation at Middle East peace process table visualization, complex international relations transformed from abstract concepts to perceivable reality through interactive experience, hyper-detailed diplomatic negotiation interface showing interconnected political factors, multi-faction relationship status visualization, dramatic lighting highlighting tension in negotiation sessions, photorealistic diplomatic environment with subtle power dynamic indicators
+```
+
+## 第五部分：学习与模拟 - 总体提示词
+
+```
+educational transformation through simulation, SimEarth converting abstract ecological concepts into interactive systems, environmental science becoming directly perceivable and manipulable objects beyond textbooks, Civilization series revolutionizing historical understanding from static chronology to dynamic decision-consequence process, Oregon Trail transforming 19th century American frontier experience into personal journey, fundamental learning methodology shift from memorization to experiential understanding, hyper-detailed educational simulation interfaces showing complex systems visualization, cinematic lighting highlighting moments of discovery through interaction, 8k resolution, photorealistic educational environments with informational overlay
+```
+
+### 第五部分：学习与模拟 - 分段提示词
+
+#### 13: 生态学的互动系统
+```
+educational realm transformation visualization through SimEarth, abstract ecological concepts converted into interactive systems illustration, environmental science transcending textbooks to become directly perceivable objects, hyper-detailed ecosystem simulation interface showing interconnected natural systems, dramatic lighting highlighting cause-effect relationships in environmental dynamics, photorealistic natural environments with scientific data visualization overlay
+```
+
+#### 14: 历史的动态体验
+```
+Civilization series revolutionizing historical understanding visualization, history transformation from static chronology to dynamic decision-consequence process, players experiencing civilization rise and fall through firsthand participation, hyper-detailed historical strategy interface showing multiple factors affecting societal development, dramatic lighting highlighting pivotal historical decision moments, photorealistic historical eras depicting developmental stages with branching possibility paths
+```
+
+#### 15: 从记忆到体验的学习
+```
+Oregon Trail transforming 19th century American frontier history into experiential journey, historical education evolution from memorizing terms to experiencing past lifestyles, fundamental learning methodology shift visualization, hyper-detailed historical simulation interface showing resource management in historical context, dramatic lighting highlighting authentic period challenges, photorealistic frontier landscapes with historically accurate details and educational elements
+```
+
+## 第六部分：认知与哲学的模拟 - 总体提示词
+
+```
+simulation power extending into deeper cognitive and philosophical dimensions, games as rhetorical media conveying profound viewpoints through rules and mechanisms, Civilization exploring power evolution, September 12th reflecting on violence cycles, SimCity revealing politics behind resource allocation, Edward Lorenz's chaos theory showing simple systems producing unpredictable complex behaviors, butterfly effect applied in open-world games and AI algorithms, Lev Manovich's new media language studies showing simulation as cultural and cognitive mapping beyond technology, creating new cognitive frameworks and philosophical possibilities through simulated worlds, hyper-detailed conceptual visualization of scientific-philosophical principles, dramatic lighting highlighting cognitive breakthrough moments, cinematic composition showing abstract concept materialization, 8k resolution with technical-philosophical precision
+```
+
+### 第六部分：认知与哲学的模拟 - 分段提示词
+
+#### 16: 游戏作为修辞媒介
+```
+simulation power extending into cognitive and philosophical realm visualization, games as rhetorical media conveying profound viewpoints through rules and mechanisms, Civilization exploring power evolution and September 12th reflecting violence cycles through gameplay, SimCity revealing resource allocation politics, hyper-detailed game interface showing philosophical principles embedded in game mechanics, dramatic lighting highlighting moments of intellectual revelation through play, photorealistic game environments with philosophical concept visualization
+```
+
+#### 17: 混沌理论的应用
+```
+Edward Lorenz's chaos theory visualization showing simple systems producing unpredictable complex behaviors, butterfly effect in Brazil causing Texas tornado illustrated through cause-effect chain, chaos principles application in open-world games and AI algorithms visualization, hyper-detailed butterfly effect diagram showing exponential consequence amplification, dramatic lighting highlighting critical points in chaotic systems, photorealistic scientific visualization with mathematical beauty emphasis
+```
+
+#### 18: 模拟作为文化与认知映射
+```
+Lev Manovich's new media language studies visualization showing simulation as cultural and cognitive mapping beyond technology, simulated worlds creating new cognitive frameworks and philosophical possibilities illustration, hyper-detailed cultural-technical interface showing reality perception transformation through media, dramatic lighting highlighting paradigm shift in human understanding, photorealistic conceptual visualization of cultural evolution through technological mediation
+```
+
+### 结语提示词
+
+```
+simulation integration into everyday life visualization from social media photographs to complex political simulation games, artistic representation new forms to educational learning revolution, simulation reconstructing immediate reality while creating new understanding methods, simulation as bridge connecting technology and humanities in digital age complexity, helping understand and shape changing world, hyper-detailed conceptual visualization of human experience transformation through simulation technologies, dramatic lighting highlighting moments of insight gained through simulated experiences, cinematic composition showing harmonious integration of technology and human understanding, 8k resolution, photorealistic rendering with philosophical depth
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

@@ -1,0 +1,80 @@
+# Comfy-UI 提示词集合：艺术家创造新媒介与技术哲学
+
+## 总体主题提示词
+
+```
+artists pioneering new media beyond technology, non-Western technological systems visualization, Stiegler's third memory concept as externalized collective memory, technology as pharmakon (both medicine and poison) illustrated through dual effects, algorithmic attention economy converting human focus into quantifiable resource, cosmic technicism breaking single-narrative technological progress, artistic concept models evolving into new media forms, transformation from simulation to becoming, human-technology relationship rethinking, artists mediating technology while exploring human creativity coexistence, hyper-detailed philosophical-technical visualization, dramatic lighting highlighting cultural-technical intersections, surreal conceptual imagery with technical precision, 8k resolution, cinematic composition showing technological metamorphosis
+```
+
+## 分段提示词列表
+
+### 1. 艺术家创造的未被定义的媒介
+```
+artists creating new media forms not yet popularized, unique artistic expressions overlooked as media definitions, ancient and contemporary experimental media devices displayed in museum setting, hyper-detailed visualization of obscure artistic technologies throughout history, conceptual art installations breaking conventional media boundaries, dramatic lighting highlighting forgotten innovative artistic interfaces
+```
+
+### 2. 超越西方中心的技术体系
+```
+new media transcending technical creation alone, non-Western technological systems ignored by mainstream media theory, diverse cultural technological artifacts displayed alongside Western inventions, hyper-detailed visualization of alternative technical paradigms, technological devices emerging from multiple cultural frameworks, conceptual visualization of technology development beyond colonial narrative
+```
+
+### 3. 斯蒂格勒的第三记忆理论
+```
+Stiegler's definition of technology as "third memory" visualization, human collective memory externalized through technological artifacts, hyper-detailed representation of memory transfer between generations via technical objects, philosophical concept art showing memory externalization process, ancient to futuristic memory technologies timeline, dramatic lighting highlighting moments of collective remembering through devices
+```
+
+### 4. 技术的药毒性质
+```
+technology as pharmakon (medicine and poison) concept visualization, simultaneous capability enhancement and atrophy through same technological tools, hyper-detailed representation of human abilities amplified then diminished through device dependency, philosophical duality of technical objects illustrated through contrasting effects, dramatic split lighting showing beneficial and harmful aspects of identical technologies
+```
+
+### 5. 算法对注意力的量化
+```
+digital economy algorithms transforming human attention into quantifiable resources, visualization of attention capture mechanisms in everyday devices, hyper-detailed representation of data harvesting from human cognitive processes, attention metrics displayed as valuable commodities in technological marketplace, dramatic lighting highlighting moment of consciousness conversion into data points, philosophical concept art showing cognitive extraction
+```
+
+### 6. 宇宙技术主义与多元文化
+```
+Xu Yu's "cosmic technicism" breaking single-line technological narrative, multiple cultures generating diverse technological paradigms visualization, hyper-detailed representation of convergent technical evolution from different cultural starting points, non-linear technological development displayed as branching cosmic map, philosophical concept art showing cultural-technical diversity, dramatic lighting highlighting multicultural innovation nodes
+```
+
+### 7. 算法灾难与偶然性
+```
+warning about algorithmic catastrophe revealing contemporary technology's limitations, ontological contingency impossible to process through current algorithms, hyper-detailed visualization of algorithmic failure confronting true randomness, philosophical concept art showing computational systems encountering genuine contingency, dramatic lighting highlighting moment of systematic breakdown facing unpredictability
+```
+
+### 8. 艺术家改造科学的路径
+```
+artists transforming science by converting certainty to contingency then back to new certainty, artistic intervention in scientific methodology visualization, hyper-detailed representation of creative process disrupting then reconstructing scientific frameworks, philosophical concept art showing transformation cycle between necessity and possibility, laboratory environment merged with art studio showing paradigm transformation
+```
+
+### 9. 新技术与概念模型创造
+```
+artists encountering new technology creating rough conceptual models, potential development of entirely new media from initial artistic concepts, hyper-detailed visualization of prototype media forms emerging from artistic experimentation, philosophical concept art showing birth of new technological paradigms from creative misuse, dramatic lighting highlighting moment of media conception through artistic insight
+```
+
+### 10. 从模拟到成为的转变
+```
+early artistic models lacking practicality yet containing potential transition from simulation to becoming, conceptual simulation as precursor to new reality, hyper-detailed visualization of artistic prototype evolving into established medium, philosophical concept art showing ontological transformation from representation to existence, dramatic lighting highlighting metamorphosis point between mimesis and emergence
+```
+
+### 11. 与技术关系的重塑
+```
+technological philosophy considering not technology itself but human relationship with it, relationship reconstitution through reflection and practice, hyper-detailed visualization of human-technology interaction patterns evolving through conscious engagement, philosophical concept art showing various possible technological coexistence models, dramatic lighting highlighting moment of relationship transformation through awareness
+```
+
+### 12. 艺术家的媒介化探索
+```
+artists processing technology through medialization exploring human sensitivity and creativity coexistence with machines, exploration of human existence and world creation through technological engagement, hyper-detailed visualization of artistic practice transforming technology into expressive medium, philosophical concept art showing parallel evolution of human creativity and technical capability, dramatic lighting highlighting moments of harmonious integration between organic and technological creative forces
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

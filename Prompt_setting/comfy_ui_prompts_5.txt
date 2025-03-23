@@ -1,0 +1,65 @@
+# Comfy-UI 提示词集合：算法模拟与认知延伸
+
+## 总体主题提示词
+
+```
+algorithmic simulation as cognitive extension, third space between reality and virtual, human-technology interaction reshaping worldview, symbolic representation through code, generative mechanisms creating new possibilities, digital mapping of human cognition processes, self-replicating patterns resembling life, information flow patterns visualized, algorithmic power dynamics in user interfaces, program rhetoric shaping behavior, hyper-detailed circuit architecture with organic elements, technical-philosophical visualization, ray tracing, 8k resolution, cinematic lighting illuminating boundaries between digital and biological, precise detail on both code structures and human cognition patterns
+```
+
+## 分段提示词列表
+
+### 1. 计算机模拟的双重性
+```
+meta-gaming implemented through computing systems, algorithms as both technical tools and cultural extensions, binary code transforming into cultural symbols, computing technology visualized as cognitive prosthetic, hyper-detailed display of circuit patterns evolving into thought structures, dramatic lighting highlighting technological-human interface
+```
+
+### 2. 符号规则构建第三空间
+```
+third space between reality and virtual realms visualized, symbolic systems and rule structures creating new environments, human silhouettes interacting with flowing data architecture, visualized human-technology reshaping understanding, hyper-detailed liminal environment with data flows, cinematic lighting revealing spatial emergence between worlds
+```
+
+### 3. 算法语言的再现与生成
+```
+algorithmic language representing reality through symbols, generative mechanisms creating new possibilities beyond reality, dual nature of representation and creation visualized as branching pathways, code structures mimicking human cognitive patterns, hyper-detailed visualization of symbolic systems, flowing light paths showing transformation from real to newly generated
+```
+
+### 4. 认知过程的数字化映射
+```
+human cognition dependency on existing knowledge frameworks, imagination and experimentation breaking boundaries, digital mapping of cognitive processes visualized, algorithm shown as mirror to human thought patterns, hyper-detailed neural-like connections between human mind and digital structures, conceptual visualization of thought becoming code
+```
+
+### 5. 重新审视生命本质
+```
+Von Neumann's self-replicating machines concept visualization, Langton's artificial life patterns emerging from simple rules, algorithmic simulation capturing essence of life processes, self-replication, adaptation and evolution visualized in code structures, hyper-detailed comparison between biological and digital life patterns, dramatic lighting highlighting similarities between organic and computational systems
+```
+
+### 6. 生命作为信息流动
+```
+life reconceptualized as pattern of information flow rather than carbon-based existence, data streams forming living-like structures, consciousness emerging from complex information patterns, hyper-detailed visualization of information topology resembling organic systems, ethereal lighting suggesting transcendence of physical substrate, abstract representation of life essence as algorithmic pattern
+```
+
+### 7. 算法作为权力载体
+```
+algorithms as vehicles of power and ideology, simulation embedded in games and applications subtly transmitting worldviews, visualization of hidden power structures within user interfaces, interaction rules shown as ideological frameworks, hyper-detailed representation of UI elements containing encoded social values, conceptual visualization of digital hegemony
+```
+
+### 8. 程序修辞的影响机制
+```
+program rhetoric through visualization and interaction relationships, rules shaping behavior through algorithmic design, mechanisms influencing cognition through interface choices, hyper-detailed visualization of behavioral paths guided by program design, conceptual representation of human subject transformed through algorithmic influence, dramatic lighting highlighting points of cognitive manipulation
+```
+
+### 9. 算法模拟影响现实
+```
+influence on individual behavior patterns through algorithmic design, social and cultural transformations driven by digital paradigms, hyper-detailed visualization of real-world structures being reshaped by digital models, core function of algorithmic simulation in digital age shown as reality-altering force, conceptual representation of code becoming culture, cinematic lighting highlighting transition from virtual to actual
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 

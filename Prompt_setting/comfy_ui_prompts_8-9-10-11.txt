@@ -1,0 +1,95 @@
+# Comfy-UI 提示词集合：艺术、媒介与AI的交织
+
+## 总体主题提示词
+
+```
+transcendence of perspective boundaries in contemporary art and games, flowing mayfly in stream and desert mouse rolling through grasslands, cloud consciousness observing earth, media limitations in artistic expression visualized, AI as new creative subject with non-human perspective, media alignment concept illustrated through technological interfaces, future media archaeology viewpoint, artistic subjectivity crisis in technological era, Dreyfus vs Simondon philosophical debate on AI embodiment, evolution of art through new media paradigms, hyper-detailed conceptual visualization, boundaries between organic and technological dissolving, cinematic lighting highlighting philosophical tensions, ray tracing, 8k resolution, intricate technical-artistic composite imagery
+```
+
+## 分段提示词列表
+
+### 1. 视角界限的打破
+```
+contemporary art and games intersection blurring perspective boundaries, human consciousness transforming into mayfly flowing in stream, desert mouse rolling through grasslands, cloud form observing earth changes, hyper-detailed micro and macro perspectives simultaneously, transcendence beyond species limitations visualized, artistic game environment with philosophical underpinnings
+```
+
+### 2. 一切皆媒介
+```
+artists attempting to simulate concepts through specific media limitations, emotional expression constrained by medium boundaries, visualization of conceptual ideas struggling to manifest through material constraints, hyper-detailed representation of media forms throughout history, artistic process deconstructed showing translation between concept and material, philosophical art exhibition aesthetic
+```
+
+### 3. 无尽与模拟的悖论
+```
+visualization of "the infinite" being attempted through finite artistic media, true infinity existing only in audience imagination, artistic meaning dependent on interaction rather than creator control, hyper-detailed representation of audience engagement with artwork, boundary between created work and perceiver's mind, conceptual visualization of meaning transfer
+```
+
+### 4. AI作为创作主体
+```
+AI gradually becoming creative subject with non-human perspective, artificial intelligence focusing on medium itself rather than transcending it, hyper-realistic visualization of AI creative process compared to human approach, machine vision perspective on artistic creation, neural network thought patterns visualized as artistic process, technological aesthetic with philosophical depth
+```
+
+### 5. 媒介内的模拟与超越
+```
+human artwork unable to transcend media compared with media-focused AI, simulation within media constraints visualized as nested structures, understanding relationship between artist and medium as conceptual architecture, hyper-detailed representation of creative process as dialogue with material, philosophical concept art with dramatic lighting highlighting media boundaries
+```
+
+### 6. 人工智能对齐与媒介对齐
+```
+AI alignment concept visualization showing development according to human needs, media alignment illustrated as generated logic matching used medium, hyper-detailed representation of AI creative process harmonized with specific media constraints, technological interfaces adapting to media-specific requirements, conceptual visualization of appropriate technological-artistic convergence
+```
+
+### 7. 未来媒体考古学
+```
+future media archaeology perspective viewing human art history, critical media alignment method applied to historical works, hyper-detailed museum exhibition from future viewpoint analyzing past media usage, archaeological visualization of media evolution through time, conceptual time-travel perspective on artistic development, dramatic museum lighting showcasing technological analysis of historical art
+```
+
+### 8. 艺术家认知与媒介选择
+```
+artist cognition matching or mismatching creative results visualization, concept selection of appropriate media expression, hyper-detailed comparison between successfully media-aligned works and commercial failures, market demands inflating beyond media capabilities shown as strained material forms, conceptual visualization of artistic integrity versus commercial pressure
+```
+
+### 9. 超越媒介的艺术
+```
+Yves Klein's work demonstrating conceptual transcendence beyond medium, artwork with undefinable medium boundaries visualization, hyper-detailed representation of idea superseding material constraints, pure conceptual art breaking free from conventional media definition, philosophical visualization of transcendent artistic approach, dramatic lighting highlighting moment of media transcendence
+```
+
+### 10. AI作为整合多种媒介的超媒介
+```
+AI as medium integrating multiple media forms visualization, future potential of AI deconstructing media and itself, hyper-detailed representation of technological convergence of diverse artistic techniques, advanced neural network creating cross-medium artistic forms, conceptual visualization of technological synthesis beyond current boundaries, futuristic art studio with AI systems spanning multiple traditional media
+```
+
+### 11. 艺术主体性危机
+```
+art facing subjectivity crisis in AI era, fear of AI replacing human creativity visualization, hyper-detailed representation of human-AI collaborative creative process, philosophical confrontation with technological creativity, emotional human response to machine-generated beauty, conceptual visualization of creative identity in post-human era
+```
+
+### 12. 身体、直觉与主体性
+```
+Dreyfus philosophy on AI lacking embodied intuitive thinking, visualization of embodied human creativity versus disembodied AI processes, hyper-detailed comparison between human sensory creation and machine generation, philosophical concept art showing importance of physical experience to authentic creation, human hand and AI processor juxtaposed in creative moment
+```
+
+### 13. 技术与人类共进化
+```
+Simondon philosophy of technology co-evolving with humanity, AI as civilization development assistant rather than replacement, hyper-detailed visualization of symbiotic relationship between human creativity and technological tools, evolutionary timeline showing human-machine creative partnership, philosophical optimism about technological future, harmonious integration of organic and digital creative processes
+```
+
+### 14. 人类感知的独特性
+```
+human perception and intuition forming unique subjectivity, non-human perspective reflecting on human position rather than negating it, hyper-detailed visualization of sensory human experience compared with AI pattern recognition, philosophical concept art exploring consciousness through different perceptual frameworks, dramatic lighting highlighting unique human creative qualities
+```
+
+### 15. 艺术与哲学的转向
+```
+art and philosophy evolving rather than ending in media evolution era, need for new understanding to address new media, hyper-detailed visualization of conceptual paradigm shift in artistic expression, philosophical turning point represented through transitional forms, artistic exploration creating new expression in new media, simulation of new concepts through emerging technologies, future-oriented creative laboratory environment
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 
