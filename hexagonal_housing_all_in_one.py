@@ -287,6 +287,8 @@ def create_hexagonal_array(context):
     
     # Create hexagons first without holes
     hexagon_objects = []
+    # Store hexagon positions for pipe creation
+    hexagon_positions = []
     
     # Calculate grid offsets based on arrangement mode
     if arrangement_mode == 'HONEYCOMB':
