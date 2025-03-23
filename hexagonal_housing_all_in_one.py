@@ -155,6 +155,16 @@ class AdditionalFeature(bpy.types.PropertyGroup):
         precision=3,
         step=0.1
     )
+    
+    hole_center_offset: FloatProperty(
+        name="Center Offset",
+        description="Vertical offset of hole center relative to hexagon center (-1.0 to 1.0, 0 means centers align)",
+        default=0.0,
+        min=-1.0,
+        max=1.0,
+        precision=2,
+        step=0.1
+    )
 
 class MESH_UL_additional_features(bpy.types.UIList):
     """UI list for displaying additional features"""
@@ -231,6 +241,7 @@ def create_hexagonal_array(context):
     hole_rotation = scene.hex_hole_rotation
     hole_sides = scene.hex_hole_sides
     hole_height_ratio = scene.hex_hole_height_ratio
+    hole_center_offset = scene.hex_hole_center_offset
     
     # Get additional features
     additional_features = scene.additional_features
@@ -320,7 +331,8 @@ def create_hexagonal_array(context):
                         'distance': hole_distance,
                         'rotation': hole_rotation,
                         'sides': hole_sides,
-                        'height_ratio': hole_height_ratio
+                        'height_ratio': hole_height_ratio,
+                        'center_offset': hole_center_offset
                     })
                 
                 # Add additional holes
@@ -331,7 +343,8 @@ def create_hexagonal_array(context):
                             'distance': feature.hole_distance,
                             'rotation': feature.hole_rotation,
                             'sides': feature.hole_sides,
-                            'height_ratio': feature.hole_height_ratio
+                            'height_ratio': feature.hole_height_ratio,
+                            'center_offset': feature.hole_center_offset
                         })
                 
                 # Create hexagon mesh without holes first
@@ -405,6 +418,11 @@ def create_hexagonal_array(context):
                         hole_obj.location = obj.location
                         # Adjust Z position to align bottom of hole with bottom of hexagon
                         hole_obj.location.z += (height * params['height_ratio']) / 2
+                        
+                        # Apply center offset (0 means centers align)
+                        # Calculate offset in world units (-1 to 1 range maps to actual distance)
+                        offset_amount = params['center_offset'] * height * 0.5
+                        hole_obj.location.z += offset_amount
                         
                         # Create boolean modifier
                         bool_mod = obj.modifiers.new(name="Boolean", type='BOOLEAN')
@@ -652,6 +670,7 @@ class VIEW3D_PT_hexagonal_housing(bpy.types.Panel):
             col.prop(scene, "hex_hole_distance", text="Edge Distance")
             col.prop(scene, "hex_hole_rotation", text="Rotation")
             col.prop(scene, "hex_hole_height_ratio", text="Height Ratio")
+            col.prop(scene, "hex_hole_center_offset", text="Center Offset")
             if scene.hex_hole_shape == 'CUSTOM':
                 col.prop(scene, "hex_hole_sides", text="Hole Sides")
         
@@ -687,6 +706,7 @@ class VIEW3D_PT_hexagonal_housing(bpy.types.Panel):
                 col.prop(feature, "hole_distance", text="Edge Distance")
                 col.prop(feature, "hole_rotation", text="Rotation")
                 col.prop(feature, "hole_height_ratio", text="Height Ratio")
+                col.prop(feature, "hole_center_offset", text="Center Offset")
                 if feature.hole_shape == 'CUSTOM':
                     col.prop(feature, "hole_sides", text="Hole Sides")
         
@@ -890,6 +910,16 @@ def register():
         step=0.1
     )
     
+    bpy.types.Scene.hex_hole_center_offset = FloatProperty(
+        name="Center Offset",
+        description="Vertical offset of hole center relative to hexagon center (-1.0 to 1.0, 0 means centers align)",
+        default=0.0,
+        min=-1.0,
+        max=1.0,
+        precision=2,
+        step=0.1
+    )
+    
     # Register additional feature properties AFTER the property group class is registered
     bpy.types.Scene.additional_features = CollectionProperty(type=AdditionalFeature)
     bpy.types.Scene.active_feature_index = IntProperty(name="Active Feature Index")
@@ -917,6 +947,7 @@ def unregister():
     del bpy.types.Scene.hex_hole_rotation
     del bpy.types.Scene.hex_hole_sides
     del bpy.types.Scene.hex_hole_height_ratio
+    del bpy.types.Scene.hex_hole_center_offset
     
     # Then unregister classes in reverse order
     bpy.utils.unregister_class(VIEW3D_PT_hexagonal_housing)
