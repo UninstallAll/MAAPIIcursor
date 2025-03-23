@@ -6,7 +6,7 @@ from mathutils import Vector, Matrix
 bl_info = {
     "name": "Hexagonal Housing Generator",
     "author": "AI Assistant",
-    "version": (1, 1),
+    "version": (1, 2),
     "blender": (4, 4, 0),
     "location": "View3D > Sidebar > Hex Housing",
     "description": "Generate hexagonal housing structure arrays",
@@ -14,6 +14,27 @@ bl_info = {
     "doc_url": "",
     "category": "Add Mesh",
 }
+
+"""
+Hexagonal Housing Generator - Blender Add-on
+
+This add-on provides tools to generate arrays of hexagonal structures
+with customizable parameters including:
+- Grid arrangement (honeycomb or grid)
+- Size and spacing
+- Connecting pipes with various cross-section shapes
+- Vertical holes with adjustable positions and shapes
+
+Usage:
+1. Access the panel in the 3D viewport sidebar under "Hex Housing"
+2. Configure the desired parameters
+3. Click "Generate Hexagonal Array" to create the structure
+
+Changelog:
+- v1.2: Added hole center offset parameter; Optimized code structure
+- v1.1: Added boolean operations for hole creation; Added multiple hole support
+- v1.0: Initial version with basic hexagon generation
+"""
 
 def create_pipe_mesh(radius, height, shape_type, sides=8):
     """Create a pipe mesh between hexagons"""
@@ -213,6 +234,178 @@ class MESH_OT_remove_feature(bpy.types.Operator):
         
         return {'FINISHED'}
 
+def create_hexagon_mesh_with_holes(radius, height, hole_params=None):
+    """Create hexagon mesh with or without holes
+    
+    Args:
+        radius (float): Radius of the hexagon
+        height (float): Height of the hexagon
+        hole_params (list, optional): List of hole parameters. Defaults to None.
+        
+    Returns:
+        tuple: Vertices and faces for the hexagon, and optionally hole parameters
+    """
+    # Create the basic hexagon without holes first
+    verts = []
+    edges = []
+    faces = []
+    
+    # Create bottom vertices
+    bottom_hex_verts = []
+    for i in range(6):
+        angle = (i * math.pi / 3) + (math.pi / 6)
+        x = radius * math.cos(angle)
+        y = radius * math.sin(angle)
+        bottom_hex_verts.append(len(verts))
+        verts.append((x, y, 0))
+    
+    # Create top vertices
+    top_hex_verts = []
+    for i in range(6):
+        angle = (i * math.pi / 3) + (math.pi / 6)
+        x = radius * math.cos(angle)
+        y = radius * math.sin(angle)
+        top_hex_verts.append(len(verts))
+        verts.append((x, y, height))
+    
+    # Bottom face
+    faces.append(bottom_hex_verts)
+    # Top face
+    faces.append(top_hex_verts[::-1])  # Reverse for correct normal direction
+    # Side faces
+    for i in range(6):
+        next_i = (i + 1) % 6
+        faces.append([bottom_hex_verts[i], bottom_hex_verts[next_i],
+                    top_hex_verts[next_i], top_hex_verts[i]])
+    
+    # If no holes, just return the hexagon mesh
+    if not hole_params or len(hole_params) == 0:
+        return verts, faces
+        
+    # Return mesh data for later boolean operations in Blender
+    # We'll include the hole parameters so they can be processed properly
+    return verts, faces, hole_params
+
+def create_hole(context, hexagon_obj, params, height):
+    """Create a hole in a hexagon object using boolean operation
+    
+    Args:
+        context: Blender context
+        hexagon_obj: The hexagon object to create hole in
+        params: Dictionary of hole parameters
+        height: Height of the hexagon
+        
+    Returns:
+        None - the hole is created and applied directly to the hexagon
+    """
+    radius = hexagon_obj.dimensions.x / 2  # Estimate the radius from dimensions
+    
+    # Calculate hole radius
+    hole_radius = radius - params['distance']
+    if hole_radius <= 0:
+        hole_radius = radius * 0.1
+    
+    # Calculate number of sides for hole
+    if params['shape'] == 'CIRCLE':
+        sides = 32
+    elif params['shape'] == 'HEXAGON':
+        sides = 6
+    elif params['shape'] == 'SQUARE':
+        sides = 4
+    elif params['shape'] == 'TRIANGLE':
+        sides = 3
+    else:  # CUSTOM
+        sides = params['sides']
+    
+    # Create cylinder/prism for hole
+    bpy.ops.mesh.primitive_cylinder_add(
+        vertices=sides,
+        radius=hole_radius,
+        depth=height * params['height_ratio'],
+        location=(0, 0, 0)
+    )
+    hole_obj = context.active_object
+    
+    # Rotate the hole if needed
+    if params['rotation'] != 0:
+        hole_obj.rotation_euler = (0, 0, math.radians(params['rotation']))
+    
+    # Move hole to hexagon's location
+    hole_obj.location = hexagon_obj.location
+    # Adjust Z position to align bottom of hole with bottom of hexagon
+    hole_obj.location.z += (height * params['height_ratio']) / 2
+    
+    # Apply center offset (0 means centers align)
+    # Calculate offset in world units (-1 to 1 range maps to actual distance)
+    offset_amount = params['center_offset'] * height * 0.5
+    hole_obj.location.z += offset_amount
+    
+    # Create boolean modifier
+    bool_mod = hexagon_obj.modifiers.new(name="Boolean", type='BOOLEAN')
+    bool_mod.operation = 'DIFFERENCE'
+    bool_mod.object = hole_obj
+    
+    # Apply the modifier
+    bpy.context.view_layer.objects.active = hexagon_obj
+    bpy.ops.object.modifier_apply(modifier="Boolean")
+    
+    # Delete the hole object
+    bpy.data.objects.remove(hole_obj, do_unlink=True)
+
+def create_pipe(start_pos, end_pos, collection, pipe_mesh, pipe_mat, center_distance):
+    """Create a pipe connecting two positions
+    
+    Args:
+        start_pos (tuple): Start position (x, y, z)
+        end_pos (tuple): End position (x, y, z)
+        collection: Blender collection to add the pipe to
+        pipe_mesh: Pipe mesh data
+        pipe_mat: Pipe material
+        center_distance: Reference distance for pipe scaling
+        
+    Returns:
+        bpy.types.Object: The created pipe object
+    """
+    # Calculate direction vector between centers
+    direction = Vector(end_pos) - Vector(start_pos)
+    direction.normalize()
+    
+    # Create up vector (Z-axis)
+    up = Vector((0, 0, 1))
+    
+    # Calculate right vector (perpendicular to direction and up)
+    right = direction.cross(up)
+    right.normalize()
+    
+    # Recalculate up vector to ensure perfect perpendicularity
+    up = right.cross(direction)
+    up.normalize()
+    
+    # Create rotation matrix from these vectors
+    rot_matrix = Matrix((right, direction, up)).transposed()
+    
+    # Create pipe object
+    pipe = bpy.data.objects.new("Pipe", pipe_mesh)
+    collection.objects.link(pipe)
+    
+    # Position pipe at start position
+    pipe.location = Vector(start_pos)
+    
+    # Apply rotation from matrix
+    pipe.rotation_euler = rot_matrix.to_euler('XYZ')
+    
+    # Scale pipe to match distance
+    distance = (Vector(end_pos) - Vector(start_pos)).length
+    pipe.scale.y = distance / center_distance
+    
+    # Apply material
+    if pipe.data.materials:
+        pipe.data.materials[0] = pipe_mat
+    else:
+        pipe.data.materials.append(pipe_mat)
+    
+    return pipe
+
 def create_hexagonal_array(context):
     """Create an array of hexagonal structures"""
     scene = context.scene
@@ -252,49 +445,6 @@ def create_hexagonal_array(context):
     if generate_pipes or any(f.feature_type == 'PIPE' for f in additional_features):
         pipe_collection = bpy.data.collections.new("Pipes")
         context.scene.collection.children.link(pipe_collection)
-    
-    # Function to create hexagon mesh WITH holes directly
-    def create_hexagon_mesh_with_holes(radius, height, hole_params=None):
-        # Create the basic hexagon without holes first
-        verts = []
-        edges = []
-        faces = []
-        
-        # Create bottom vertices
-        bottom_hex_verts = []
-        for i in range(6):
-            angle = (i * math.pi / 3) + (math.pi / 6)
-            x = radius * math.cos(angle)
-            y = radius * math.sin(angle)
-            bottom_hex_verts.append(len(verts))
-            verts.append((x, y, 0))
-        
-        # Create top vertices
-        top_hex_verts = []
-        for i in range(6):
-            angle = (i * math.pi / 3) + (math.pi / 6)
-            x = radius * math.cos(angle)
-            y = radius * math.sin(angle)
-            top_hex_verts.append(len(verts))
-            verts.append((x, y, height))
-        
-        # Bottom face
-        faces.append(bottom_hex_verts)
-        # Top face
-        faces.append(top_hex_verts[::-1])  # Reverse for correct normal direction
-        # Side faces
-        for i in range(6):
-            next_i = (i + 1) % 6
-            faces.append([bottom_hex_verts[i], bottom_hex_verts[next_i],
-                        top_hex_verts[next_i], top_hex_verts[i]])
-        
-        # If no holes, just return the hexagon mesh
-        if not hole_params or len(hole_params) == 0:
-            return verts, faces
-            
-        # Return mesh data for later boolean operations in Blender
-        # We'll include the hole parameters so they can be processed properly
-        return verts, faces, hole_params
     
     # Create hexagons first without holes
     hexagon_objects = []
@@ -385,56 +535,7 @@ def create_hexagonal_array(context):
                 # Now add holes using boolean operations
                 if hole_params:
                     for params in hex_hole_params:
-                        hole_radius = radius - params['distance']
-                        if hole_radius <= 0:
-                            hole_radius = radius * 0.1
-                        
-                        # Calculate number of sides for hole
-                        if params['shape'] == 'CIRCLE':
-                            sides = 32
-                        elif params['shape'] == 'HEXAGON':
-                            sides = 6
-                        elif params['shape'] == 'SQUARE':
-                            sides = 4
-                        elif params['shape'] == 'TRIANGLE':
-                            sides = 3
-                        else:  # CUSTOM
-                            sides = params['sides']
-                        
-                        # Create cylinder/prism for hole
-                        bpy.ops.mesh.primitive_cylinder_add(
-                            vertices=sides,
-                            radius=hole_radius,
-                            depth=height * params['height_ratio'],
-                            location=(0, 0, 0)
-                        )
-                        hole_obj = context.active_object
-                        
-                        # Rotate the hole if needed
-                        if params['rotation'] != 0:
-                            hole_obj.rotation_euler = (0, 0, math.radians(params['rotation']))
-                        
-                        # Move hole to hexagon's location
-                        hole_obj.location = obj.location
-                        # Adjust Z position to align bottom of hole with bottom of hexagon
-                        hole_obj.location.z += (height * params['height_ratio']) / 2
-                        
-                        # Apply center offset (0 means centers align)
-                        # Calculate offset in world units (-1 to 1 range maps to actual distance)
-                        offset_amount = params['center_offset'] * height * 0.5
-                        hole_obj.location.z += offset_amount
-                        
-                        # Create boolean modifier
-                        bool_mod = obj.modifiers.new(name="Boolean", type='BOOLEAN')
-                        bool_mod.operation = 'DIFFERENCE'
-                        bool_mod.object = hole_obj
-                        
-                        # Apply the modifier
-                        bpy.context.view_layer.objects.active = obj
-                        bpy.ops.object.modifier_apply(modifier="Boolean")
-                        
-                        # Delete the hole object
-                        bpy.data.objects.remove(hole_obj, do_unlink=True)
+                        create_hole(context, obj, params, height)
                 
                 # Store position for pipe creation
                 hexagon_positions.append((x, y, layer_z, layer, row, col))
@@ -488,46 +589,6 @@ def create_hexagonal_array(context):
             node_output = nodes.new(type='ShaderNodeOutputMaterial')
             pipe_mat.node_tree.links.new(node_material.outputs[0], node_output.inputs[0])
             
-            # Function to create a pipe between two positions
-            def create_pipe(start_pos, end_pos, collection):
-                # Calculate direction vector between centers
-                direction = Vector(end_pos) - Vector(start_pos)
-                direction.normalize()
-                
-                # Create up vector (Z-axis)
-                up = Vector((0, 0, 1))
-                
-                # Calculate right vector (perpendicular to direction and up)
-                right = direction.cross(up)
-                right.normalize()
-                
-                # Recalculate up vector to ensure perfect perpendicularity
-                up = right.cross(direction)
-                up.normalize()
-                
-                # Create rotation matrix from these vectors
-                rot_matrix = Matrix((right, direction, up)).transposed()
-                
-                # Create pipe object
-                pipe = bpy.data.objects.new("Pipe", pipe_mesh)
-                collection.objects.link(pipe)
-                
-                # Position pipe at start position
-                pipe.location = Vector(start_pos)
-                
-                # Apply rotation from matrix
-                pipe.rotation_euler = rot_matrix.to_euler('XYZ')
-                
-                # Scale pipe to match distance
-                distance = (Vector(end_pos) - Vector(start_pos)).length
-                pipe.scale.y = distance / center_distance
-                
-                # Apply material
-                if pipe.data.materials:
-                    pipe.data.materials[0] = pipe_mat
-                else:
-                    pipe.data.materials.append(pipe_mat)
-            
             # Create pipes between adjacent hexagons
             processed_pairs = set()  # Keep track of connected pairs
             
@@ -575,7 +636,7 @@ def create_hexagonal_array(context):
                             start_pos = (x, y, z + height/2)
                             end_pos = (x + dx, y + dy, z + dz + height/2)
                             
-                            create_pipe(start_pos, end_pos, collection)
+                            create_pipe(start_pos, end_pos, collection, pipe_mesh, pipe_mat, center_distance)
     
     # Select the collection
     for obj in array_collection.objects:
