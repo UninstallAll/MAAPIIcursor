@@ -1,0 +1,60 @@
+# Comfy-UI 提示词集合
+
+## 总体主题提示词
+
+```
+hyperrealistic digital simulation of reality, flowing data and code, artists and engineers reshaping existence, boundary between virtual and physical dissolving, cybernetic memory archives, technological archaeology, forgotten stories emerging from data streams, cinematic lighting, intricate detail, philosophical concept art, 8k resolution, octane render, unreal engine, ray tracing, computational sublime, digital metaphysics
+```
+
+## 分段提示词列表
+
+### 1. 世界流动与计算
+```
+world in constant computation, reality being simulated and reshaped, flowing code and data visualized as ethereal streams, abstract mathematical patterns forming landscapes, cinematic lighting, hyper-detailed, unreal engine, 8k resolution
+```
+
+### 2. 创造者们的角色
+```
+surreal illusions created by digital artists, precise structures built by engineers, scientists simulating natural laws, game developers breathing life into virtual beings, filmmakers manipulating light and shadow, hyperrealistic, dramatic lighting, octane render, intricate details
+```
+
+### 3. 模拟的双面性
+```
+simulation as both creation and sacrifice, ancient writing media displayed alongside modern data structures, duality of digital preservation, philosophical concept art, mystical atmosphere, ray tracing, depth of field, cinematic composition
+```
+
+### 4. 存储与遗忘
+```
+ancient archives and modern databases side by side, forgotten voices emerging from digital noise, records being saved while others fade away, time-worn artifacts next to glowing data crystals, atmospheric mist, volumetric lighting, digital archaeology aesthetic
+```
+
+### 5. 技术的时间性
+```
+technology reshaping memory, digital time warping reality, Wolfgang Ernst's media archaeology visualized, silent erasure of history, temporal distortion effects, glitch aesthetic with classical elements, dramatic contrast, deep shadows
+```
+
+### 6. 真实性的疑问
+```
+blurred boundaries between simulation and reality, disappearing and persistent memories visualized as light patterns, philosophical question marks floating in digital space, dreamlike atmosphere, particles of data forming question marks, introspective mood
+```
+
+### 7. 新世界的展开
+```
+new digital world unfolding, flowing data pathways leading forward, portals between dimensions, observers and creators walking through data landscapes, expansive vista, golden hour lighting, sense of awe and discovery
+```
+
+### 8. 跨越界限
+```
+crossing boundaries into simulated realms, figures moving between digital and physical space, stories preserved in data crystals, searching through forgotten archives, mystical gateways, beam of light revealing hidden narratives, ethereal atmosphere, sense of transcendence
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+``` 
