@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-meta-gaming concept visualization, player stepping back from screen observing themselves playing, recursive layers of reality and simulation, gaming peripherals affecting virtual world, psychological strategy visualization, broken game rules illustrated as shattered interface elements, competitive gaming setup with real money visible, RPG character sheet overlaid on real person, hyperrealistic rendering of gaming environment bleeding into player's reality, cinematic composition showing simultaneous experience of reality and hyperreality, dramatic lighting highlighting boundary dissolution, 8k resolution, ray tracing, intricate detail
+A meta-gaming scene showing layers of reality and simulation, with gaming peripherals affecting virtual worlds. Psychological strategies visualized through interface elements. 8K photorealistic rendering with clear detail in the middle, dramatic lighting highlighting the merging of game and reality.
 ```
 
 ## 分段提示词列表

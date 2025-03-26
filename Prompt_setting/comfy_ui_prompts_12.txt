@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-artists pioneering new media beyond technology, non-Western technological systems visualization, Stiegler's third memory concept as externalized collective memory, technology as pharmakon (both medicine and poison) illustrated through dual effects, algorithmic attention economy converting human focus into quantifiable resource, cosmic technicism breaking single-narrative technological progress, artistic concept models evolving into new media forms, transformation from simulation to becoming, human-technology relationship rethinking, artists mediating technology while exploring human creativity coexistence, hyper-detailed philosophical-technical visualization, dramatic lighting highlighting cultural-technical intersections, surreal conceptual imagery with technical precision, 8k resolution, cinematic composition showing technological metamorphosis
+Artists pioneering new media forms beyond conventional technology, showing the duality of digital innovation. Ancient and future technologies merge in a philosophical display. 8K photorealistic rendering with clear detail in the middle, dramatic lighting emphasizing the transformation of artistic media.
 ```
 
 ## 分段提示词列表

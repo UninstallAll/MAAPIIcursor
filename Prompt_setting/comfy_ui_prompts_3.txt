@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-immersive third-person video game perspective, player's hands controlling character on screen, narrative branching paths visualized, digital world with glitching reality, code revealing beneath game textures, philosophical questioning of virtual experience, hyper-detailed gaming environment, dramatic lighting highlighting boundary between real and virtual, cinematic composition showing player and avatar simultaneously, depth of field focusing on interface between human and game, 8k resolution, ray tracing, photorealistic rendering with slight digital distortion
+An immersive gaming perspective where reality and virtual worlds merge. Player's interaction with digital environments creates narrative paths, enhanced by cinematic lighting. 8K photorealistic detail with clear focus in the middle, ray traced reflections showing the boundary between real and virtual experience
 ```
 
 ## 分段提示词列表

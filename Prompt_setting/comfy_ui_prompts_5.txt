@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-algorithmic simulation as cognitive extension, third space between reality and virtual, human-technology interaction reshaping worldview, symbolic representation through code, generative mechanisms creating new possibilities, digital mapping of human cognition processes, self-replicating patterns resembling life, information flow patterns visualized, algorithmic power dynamics in user interfaces, program rhetoric shaping behavior, hyper-detailed circuit architecture with organic elements, technical-philosophical visualization, ray tracing, 8k resolution, cinematic lighting illuminating boundaries between digital and biological, precise detail on both code structures and human cognition patterns
+A visualization of algorithmic simulation as cognitive extension, showing the interaction between human thought and digital processes. Information flows through circuit-like patterns with organic elements. 8K photorealistic clarity with clear detail in the middle, cinematic lighting revealing the marriage of digital and biological patterns.
 ```
 
 ## 分段提示词列表

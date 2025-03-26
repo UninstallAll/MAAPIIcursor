@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-epic timeline of human cognitive models throughout history, clay war simulations to AI neural networks, power structures and knowledge monopolies, scientific revolution apparatus, consumer culture figurines, digital revolution algorithms, hyper-detailed museum exhibition style, dramatic lighting highlighting technological transitions, philosophical concept art, ancient artifacts alongside futuristic interfaces, 8k resolution, cinematic composition, depth of field focusing on human relationship with models, octane render
+A museum exhibition showcasing human cognitive evolution, from ancient clay models to modern AI networks. Scientific apparatus and digital interfaces coexist in dramatic lighting. 8K photorealistic rendering with clear detail in the middle, cinematic composition highlighting the relationship between humans and technology, Octane rendered.
 ```
 
 ## 分段提示词列表

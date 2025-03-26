@@ -3,7 +3,7 @@
 ## 第一部分：符号与信息 - 总体提示词
 
 ```
-symbolic capital accumulation visualized through curated social media representations, Bourdieu's theory illustrated through digital filtering of reality, perfect life photographs arranged as symbol reconstruction, luxury goods and travel check-ins forming power relations matrix, McLuhan's "medium is the message" concept visualized through social platform design, virtual communities reshaping perception, information authenticity yielding to symbolic persuasiveness, hyper-detailed social media interfaces with dramatic lighting showing symbolic transformation of reality, cinematic composition focusing on digital manipulation of experience, 8k resolution, ray tracing, photorealistic rendering with subtle digital distortion
+A scene depicting symbolic capital in the digital age, showing curated social media representations and information flows. Virtual communities reshape perception through filtered reality. 8K photorealistic rendering with clear detail in the middle, dramatic lighting emphasizing the transformation of information into power.
 ```
 
 ### 第一部分：符号与信息 - 分段提示词

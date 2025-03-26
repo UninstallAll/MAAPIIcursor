@@ -3,14 +3,15 @@
 ## 总体主题提示词
 
 ```
-hyperrealistic digital simulation of reality, flowing data and code, artists and engineers reshaping existence, boundary between virtual and physical dissolving, cybernetic memory archives, technological archaeology, forgotten stories emerging from data streams, cinematic lighting, intricate detail, philosophical concept art, 8k resolution, octane render, unreal engine, ray tracing, computational sublime, digital metaphysics
+A hyperrealistic digital scene with flowing data and code, where virtual and physical boundaries dissolve. Cybernetic archives reveal forgotten stories under cinematic lighting. Rendered in 8K photorealistic clarity using Octane Render and Unreal Engine, with ray tracing for a sublime experience and clear detail in the middle.
 ```
 
 ## 分段提示词列表
 
 ### 1. 世界流动与计算
 ```
-world in constant computation, reality being simulated and reshaped, flowing code and data visualized as ethereal streams, abstract mathematical patterns forming landscapes, cinematic lighting, hyper-detailed, unreal engine, 8k resolution
+In a dimly lit research station, holographic code streams weave through suspended data crystals while digital equations dance across transparent screens, casting cyan reflections on the polished desk surface.
+
 ```
 
 ### 2. 创造者们的角色
@@ -20,32 +21,32 @@ surreal illusions created by digital artists, precise structures built by engine
 
 ### 3. 模拟的双面性
 ```
-simulation as both creation and sacrifice, ancient writing media displayed alongside modern data structures, duality of digital preservation, philosophical concept art, mystical atmosphere, ray tracing, depth of field, cinematic composition
+Within a modernist study room, ancient manuscripts and digital tablets share a floating display platform, their contents interweaving through beams of light that cast dualistic patterns of past and future across the minimalist furniture.
 ```
 
 ### 4. 存储与遗忘
 ```
-ancient archives and modern databases side by side, forgotten voices emerging from digital noise, records being saved while others fade away, time-worn artifacts next to glowing data crystals, atmospheric mist, volumetric lighting, digital archaeology aesthetic
+Inside an intimate archive chamber, crystalline data storage units pulse with forgotten memories beside weathered books, while volumetric light beams reveal swirling particles of digital decay in the air.
 ```
 
 ### 5. 技术的时间性
 ```
-technology reshaping memory, digital time warping reality, Wolfgang Ernst's media archaeology visualized, silent erasure of history, temporal distortion effects, glitch aesthetic with classical elements, dramatic contrast, deep shadows
+A temporal research desk displays glitching historical records across multiple screens, where classical artifacts phase between digital and physical states under strobing lights that cast deep shadows across the workstation.
 ```
 
 ### 6. 真实性的疑问
 ```
-blurred boundaries between simulation and reality, disappearing and persistent memories visualized as light patterns, philosophical question marks floating in digital space, dreamlike atmosphere, particles of data forming question marks, introspective mood
+A dreamlike space where blurred boundaries between simulation and reality are visualized as floating light patterns. Philosophical question marks hover in the digital air, formed by particles of data. The atmosphere is introspective, with a soft, ambient glow illuminating the scene.
 ```
 
 ### 7. 新世界的展开
 ```
-new digital world unfolding, flowing data pathways leading forward, portals between dimensions, observers and creators walking through data landscapes, expansive vista, golden hour lighting, sense of awe and discovery
+A digital landscape unfolds, with data pathways leading to new horizons. Portals between dimensions flicker with golden hour lighting, casting a warm glow over the expansive vista. Observers and creators walk through the scene, filled with a sense of awe and discovery.
 ```
 
 ### 8. 跨越界限
 ```
-crossing boundaries into simulated realms, figures moving between digital and physical space, stories preserved in data crystals, searching through forgotten archives, mystical gateways, beam of light revealing hidden narratives, ethereal atmosphere, sense of transcendence
+Figures move between digital and physical spaces, crossing mystical gateways. Stories preserved in data crystals are revealed by beams of light, creating an ethereal atmosphere. The scene conveys a sense of transcendence, with hidden narratives waiting to be discovered.
 ```
 
 ## 如何在Comfy-UI中使用

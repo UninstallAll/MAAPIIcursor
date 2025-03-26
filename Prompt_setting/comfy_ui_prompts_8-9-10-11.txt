@@ -3,7 +3,7 @@
 ## 总体主题提示词
 
 ```
-transcendence of perspective boundaries in contemporary art and games, flowing mayfly in stream and desert mouse rolling through grasslands, cloud consciousness observing earth, media limitations in artistic expression visualized, AI as new creative subject with non-human perspective, media alignment concept illustrated through technological interfaces, future media archaeology viewpoint, artistic subjectivity crisis in technological era, Dreyfus vs Simondon philosophical debate on AI embodiment, evolution of art through new media paradigms, hyper-detailed conceptual visualization, boundaries between organic and technological dissolving, cinematic lighting highlighting philosophical tensions, ray tracing, 8k resolution, intricate technical-artistic composite imagery
+A contemporary art space where AI and human creativity converge, showing transcendent perspectives and media limitations. Philosophical tensions between organic and technological art forms. 8K photorealistic detail with clear focus in the middle, cinematic lighting highlighting the evolution of artistic expression.
 ```
 
 ## 分段提示词列表
