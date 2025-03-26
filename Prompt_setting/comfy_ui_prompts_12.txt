@@ -10,62 +10,62 @@ Artists pioneering new media forms beyond conventional technology, showing the d
 
 ### 1. 艺术家创造的未被定义的媒介
 ```
-artists creating new media forms not yet popularized, unique artistic expressions overlooked as media definitions, ancient and contemporary experimental media devices displayed in museum setting, hyper-detailed visualization of obscure artistic technologies throughout history, conceptual art installations breaking conventional media boundaries, dramatic lighting highlighting forgotten innovative artistic interfaces
+New media forms in experimental stage, unique artistic expressions, museum display of obscure technologies, dramatic lighting on innovative interfaces
 ```
 
 ### 2. 超越西方中心的技术体系
 ```
-new media transcending technical creation alone, non-Western technological systems ignored by mainstream media theory, diverse cultural technological artifacts displayed alongside Western inventions, hyper-detailed visualization of alternative technical paradigms, technological devices emerging from multiple cultural frameworks, conceptual visualization of technology development beyond colonial narrative
+Non-Western media systems, diverse cultural artifacts, alternative technical paradigms, technology beyond colonial narrative
 ```
 
 ### 3. 斯蒂格勒的第三记忆理论
 ```
-Stiegler's definition of technology as "third memory" visualization, human collective memory externalized through technological artifacts, hyper-detailed representation of memory transfer between generations via technical objects, philosophical concept art showing memory externalization process, ancient to futuristic memory technologies timeline, dramatic lighting highlighting moments of collective remembering through devices
+Technology as third memory, collective memory in artifacts, generational transfer through objects, dramatic lighting on remembrance
 ```
 
 ### 4. 技术的药毒性质
 ```
-technology as pharmakon (medicine and poison) concept visualization, simultaneous capability enhancement and atrophy through same technological tools, hyper-detailed representation of human abilities amplified then diminished through device dependency, philosophical duality of technical objects illustrated through contrasting effects, dramatic split lighting showing beneficial and harmful aspects of identical technologies
+Technology as pharmakon, enhancement and atrophy through tools, human abilities in device dependency, split lighting on duality
 ```
 
 ### 5. 算法对注意力的量化
 ```
-digital economy algorithms transforming human attention into quantifiable resources, visualization of attention capture mechanisms in everyday devices, hyper-detailed representation of data harvesting from human cognitive processes, attention metrics displayed as valuable commodities in technological marketplace, dramatic lighting highlighting moment of consciousness conversion into data points, philosophical concept art showing cognitive extraction
+Attention as digital resource, capture mechanisms in devices, data harvesting visualization, dramatic lighting on consciousness conversion
 ```
 
 ### 6. 宇宙技术主义与多元文化
 ```
-Xu Yu's "cosmic technicism" breaking single-line technological narrative, multiple cultures generating diverse technological paradigms visualization, hyper-detailed representation of convergent technical evolution from different cultural starting points, non-linear technological development displayed as branching cosmic map, philosophical concept art showing cultural-technical diversity, dramatic lighting highlighting multicultural innovation nodes
+Cosmic technicism breaking linear narrative, diverse technological paradigms, branching evolution paths, dramatic lighting on innovation
 ```
 
 ### 7. 算法灾难与偶然性
 ```
-warning about algorithmic catastrophe revealing contemporary technology's limitations, ontological contingency impossible to process through current algorithms, hyper-detailed visualization of algorithmic failure confronting true randomness, philosophical concept art showing computational systems encountering genuine contingency, dramatic lighting highlighting moment of systematic breakdown facing unpredictability
+Algorithmic catastrophe warnings, systems facing randomness, computational failure visualization, dramatic lighting on breakdown
 ```
 
 ### 8. 艺术家改造科学的路径
 ```
-artists transforming science by converting certainty to contingency then back to new certainty, artistic intervention in scientific methodology visualization, hyper-detailed representation of creative process disrupting then reconstructing scientific frameworks, philosophical concept art showing transformation cycle between necessity and possibility, laboratory environment merged with art studio showing paradigm transformation
+Artists transforming scientific certainty, creative disruption of frameworks, lab-studio merger, paradigm shift visualization
 ```
 
 ### 9. 新技术与概念模型创造
 ```
-artists encountering new technology creating rough conceptual models, potential development of entirely new media from initial artistic concepts, hyper-detailed visualization of prototype media forms emerging from artistic experimentation, philosophical concept art showing birth of new technological paradigms from creative misuse, dramatic lighting highlighting moment of media conception through artistic insight
+Artists creating rough tech concepts, prototype media forms, creative misuse leading to innovation, dramatic lighting on insights
 ```
 
 ### 10. 从模拟到成为的转变
 ```
-early artistic models lacking practicality yet containing potential transition from simulation to becoming, conceptual simulation as precursor to new reality, hyper-detailed visualization of artistic prototype evolving into established medium, philosophical concept art showing ontological transformation from representation to existence, dramatic lighting highlighting metamorphosis point between mimesis and emergence
+Artistic models evolving to reality, simulation becoming medium, transformation visualization, dramatic lighting on emergence
 ```
 
 ### 11. 与技术关系的重塑
 ```
-technological philosophy considering not technology itself but human relationship with it, relationship reconstitution through reflection and practice, hyper-detailed visualization of human-technology interaction patterns evolving through conscious engagement, philosophical concept art showing various possible technological coexistence models, dramatic lighting highlighting moment of relationship transformation through awareness
+Human-technology relationship philosophy, interaction patterns evolving, coexistence models, dramatic lighting on transformation
 ```
 
 ### 12. 艺术家的媒介化探索
 ```
-artists processing technology through medialization exploring human sensitivity and creativity coexistence with machines, exploration of human existence and world creation through technological engagement, hyper-detailed visualization of artistic practice transforming technology into expressive medium, philosophical concept art showing parallel evolution of human creativity and technical capability, dramatic lighting highlighting moments of harmonious integration between organic and technological creative forces
+Artists exploring tech-human creativity, expressive medium transformation, organic-technological integration, dramatic lighting
 ```
 
 ## 如何在Comfy-UI中使用

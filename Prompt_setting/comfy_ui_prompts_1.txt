@@ -11,12 +11,11 @@ A hyperrealistic digital scene with flowing data and code, where virtual and phy
 ### 1. 世界流动与计算
 ```
 In a dimly lit research station, holographic code streams weave through suspended data crystals while digital equations dance across transparent screens, casting cyan reflections on the polished desk surface.
-
 ```
 
 ### 2. 创造者们的角色
 ```
-surreal illusions created by digital artists, precise structures built by engineers, scientists simulating natural laws, game developers breathing life into virtual beings, filmmakers manipulating light and shadow, hyperrealistic, dramatic lighting, octane render, intricate details
+Digital artists crafting surreal illusions, engineers building structures, scientists simulating nature, dramatic lighting, hyperrealistic details, octane render
 ```
 
 ### 3. 模拟的双面性
@@ -58,4 +57,4 @@ Figures move between digital and physical spaces, crossing mystical gateways. St
 ## 建议的负面提示词
 ```
 bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
-``` 
+```

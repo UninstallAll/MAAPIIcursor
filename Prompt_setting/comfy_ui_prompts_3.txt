@@ -10,22 +10,22 @@ An immersive gaming perspective where reality and virtual worlds merge. Player's
 
 ### 1. 第三人称视角与角色映射
 ```
-third-person gaming perspective showing player's hands on controller and character on screen, actions mirroring between reality and virtual world, hyper-detailed gaming setup with dramatic backlighting, character responding to inputs, photorealistic rendering of gaming environment, cinematic composition focusing on connection between player and avatar
+Player's hands on controller with character on screen, reality-virtual mirroring, dramatic backlighting, photorealistic gaming setup, cinematic focus on player-avatar connection
 ```
 
 ### 2. 玩家选择与故事展开
 ```
-branching narrative paths visualized as glowing decision trees, player character standing at crossroads in immersive game world, story unfolding based on choices made, player's silhouette reflected in multiple potential outcomes, hyper-detailed fantasy game environment, dramatic lighting highlighting decision moments, ray traced reflections
+Glowing decision trees in game world, player at crossroads, multiple outcomes reflected, hyper-detailed fantasy environment, dramatic lighting on choices
 ```
 
 ### 3. 虚拟世界的"已完成"错觉
 ```
-expansive virtual world with pre-constructed past and present narratives, circular timeline visualized around player character, interwoven story threads connecting past events to current gameplay, illusory completeness of digital environment, atmospheric lighting suggesting artificial perfection, hyper-detailed game world with subtle uncanny valley elements
+Virtual world with constructed timeline, interwoven story threads, atmospheric lighting, hyper-detailed environment with uncanny valley elements
 ```
 
 ### 4. 重复与游戏的说服力
 ```
-player character repeating same actions in slightly different scenarios, hypnotic patterns of gameplay loops visualized as spiraling light trails, information being subtly transferred through repetition, persuasive mechanics illustrated as glowing connections forming in player's mind, cinematic composition showing gradual acceptance of game logic
+Character repeating actions, gameplay loops as light trails, persuasive mechanics shown as glowing connections, cinematic view of game logic acceptance
 ```
 
 ### 5. 代码的现实提醒
@@ -35,12 +35,12 @@ whispered words "this is just code" appearing as glitching text overlaid on game
 
 ### 6. 质疑虚拟经验
 ```
-player character's memories visualized as data streams flowing between game and reality, questioning expression on player's face reflected in screen, distinction between personal and programmed experience illustrated through contrasting visual styles, hyper-detailed split screen showing real vs. virtual accumulated experiences, philosophical concept visualization
+Memories as data streams between game and reality, questioning reflections, split screen showing real vs virtual experiences, philosophical visualization
 ```
 
 ### 7. 底层代码的暴露
 ```
-game world with sections deconstructed to reveal wireframe and code beneath, magical facade peeling away from virtual environment, raw structure of game exposed like architectural blueprints, character partially dissolved into base elements, dramatic lighting highlighting transition between polished game and underlying systems, photorealistic rendering with digital deconstruction effects
+Deconstructed game world showing wireframe, peeling facade, exposed structure, dramatic lighting on transition, photorealistic deconstruction effects
 ```
 
 ## 如何在Comfy-UI中使用

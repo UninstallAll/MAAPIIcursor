@@ -10,22 +10,22 @@ A meta-gaming scene showing layers of reality and simulation, with gaming periph
 
 ### 1. 游戏反思模拟本身
 ```
-game simulation recursively reflecting on itself, meta-narrative visualization showing game within game structure, player character becoming aware of game mechanics, hyperrealistic gaming environment with fourth wall breaking elements, dramatic lighting highlighting layers of simulation, intricate detail on both game world and interface elements
+Meta-narrative game within game, self-aware player character, hyperrealistic environment with fourth wall breaks, dramatic lighting on simulation layers
 ```
 
 ### 2. 玩家成为观察对象
 ```
-player in third-person perspective observing themselves playing a game, recursive camera angles showing multiple layers of observation, reflective surfaces showing player's expression while gaming, psychological self-awareness visualized as glowing connections between player and avatar, cinematic composition focused on the meta-awareness moment
+Third-person view of player gaming, recursive observation layers, reflective surfaces showing expressions, glowing player-avatar connections
 ```
 
 ### 3. 现实元素影响游戏
 ```
-competitive gaming setup with money and equipment visibly affecting game outcome, psychological chess match overlaid on digital gameplay, rule-breaking visualized as glitching game boundaries, hyper-detailed gaming peripherals with causal connections to virtual world events, dramatic lighting highlighting the material reality influencing digital experience
+Gaming setup showing money and equipment effects, psychological chess match overlay, glitching boundaries, dramatic lighting on reality-digital blend
 ```
 
 ### 4. 竞技与RPG游戏中的现实规则
 ```
-RPG character stats sheet extending into player's real-life attributes, competitive esports arena with real-world economics visibly impacting gameplay, players utilizing real-world strategies within game framework, gaming environment showing seamless blend between monetary transactions and in-game resources, photorealistic rendering of boundary between game mechanics and life mechanics
+RPG stats extending to real life, esports arena with economic impact, real-world strategies in games, photorealistic gaming-life boundary
 ```
 
 ### 5. 媒介视角下的元游戏
@@ -35,12 +35,12 @@ meta-game pointing toward reality of gaming itself, player being extracted from 
 
 ### 6. 同步体验现实与超现实
 ```
-player simultaneously experiencing real self and game hyperreality, split-screen effect showing perfect synchronization between real actions and virtual consequences, consciousness visualization showing merged reality layers, hyper-detailed gaming environment with elements bleeding into physical space, dramatic lighting highlighting moments of reality/hyperreality convergence
+Split-screen of real and virtual synchronization, merged reality layers, elements bleeding between worlds, dramatic reality-hyperreality convergence
 ```
 
 ### 7. 模拟侵入现实
 ```
-simulation hyperreality invading player's reality through perceptual shift, game elements manifesting in physical world, new hybrid reality being created at intersection of game and life, visualization of cognitive boundaries dissolving, player's living space transformed by game aesthetic elements, photorealistic rendering of digital concepts materializing in physical space
+Hyperreality invading physical space, game elements manifesting in reality, hybrid world at intersection, photorealistic digital materialization
 ```
 
 ## 如何在Comfy-UI中使用

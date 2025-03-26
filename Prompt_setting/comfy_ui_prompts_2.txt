@@ -10,17 +10,17 @@ A museum exhibition showcasing human cognitive evolution, from ancient clay mode
 
 ### 1. 认知权的技术化进程
 ```
-visualization of human cognitive evolution through models, ancient to modern technological timeline, knowledge power structures illustrated as flowing energy between artifacts and humans, dramatic museum lighting, hyper-detailed archaeological and futuristic elements, cinematic composition, ray tracing, 8k resolution
+Human cognitive evolution through models, ancient to modern timeline, knowledge structures as flowing energy, dramatic museum lighting, hyper-detailed artifacts, 8k resolution
 ```
 
 ### 2. 前工业时代模型
 ```
-Mesopotamian clay battlefield models, ancient astronomers with armillary spheres, Mayan astronomical instruments, power elites controlling knowledge artifacts, warm candlelight illuminating ancient modeling tools, hyper-detailed archaeological artifacts, dust particles in light beams, photorealistic rendering of ancient knowledge monopolies
+Ancient clay models and astronomical instruments, candlelit modeling tools, power elites controlling knowledge, hyper-detailed artifacts, dust in light beams
 ```
 
 ### 3. 科学革命的模型转变
 ```
-Galileo's inclined plane experiments, Newton's prism splitting light, early scientific apparatus in richly detailed workshop environment, verification instruments revealing truth, dramatic Renaissance lighting highlighting scientific breakthrough, photorealistic historical scene, detailed period-accurate scientific instruments
+Early scientific experiments in detailed workshop, verification instruments, dramatic Renaissance lighting, photorealistic historical scene with period-accurate tools
 ```
 
 ### 4. 实验室模型与认知割裂
@@ -40,12 +40,12 @@ deep learning networks and GAN systems visualized as creating new realities, AI 
 
 ### 7. 算法社会的模型
 ```
-ESM-2 protein model with emergent capabilities beyond human design, urban traffic models and virus transmission simulations directing human decisions, visualization of algorithms training humans rather than reverse, massive parameter networks displayed as cosmic structures, hyper-detailed futuristic command center, dramatic lighting highlighting power shift
+ESM-2 protein model showing emergent capabilities, urban simulations directing decisions, algorithms training humans, dramatic lighting on futuristic command center
 ```
 
 ### 8. 模型成为认知主体
 ```
-GPT-4 autonomously optimizing code, tools transcending into cognitive entities, clay artifacts transforming into digital code, philosophical question about truth arbitration, human existential crisis visualized, beings searching for meaning alongside their creations, mystical lighting suggesting transcendence, hyper-detailed metaphysical environment
+GPT-4 optimizing code, tools becoming cognitive entities, philosophical questions on truth, mystical lighting, hyper-detailed metaphysical scene
 ```
 
 ## 如何在Comfy-UI中使用
