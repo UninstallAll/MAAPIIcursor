@@ -1,51 +1,40 @@
 # Comfy-UI 提示词集合
 
-## 总体主题提示词
+## 综合场景提示词
 
+### 1. 科技档案馆场景
 ```
-A hyperrealistic digital scene with flowing data and code, where virtual and physical boundaries dissolve. Cybernetic archives reveal forgotten stories under cinematic lighting. Rendered in 8K photorealistic clarity using Octane Render and Unreal Engine, with ray tracing for a sublime experience and clear detail in the middle.
-```
-
-## 分段提示词列表
-
-### 1. 世界流动与计算
-```
-In a dimly lit research station, holographic code streams weave through suspended data crystals while digital equations dance across transparent screens, casting cyan reflections on the polished desk surface.
+A hyperrealistic digital archive chamber with crystalline data storage units, where holographic code streams flow through suspended data crystals. Ancient manuscripts and digital tablets float on transparent platforms, their contents interweaving through cyan light beams. The scene features polished metallic surfaces reflecting holographic displays, with volumetric lighting revealing swirling digital particles. Rendered in 8K photorealistic clarity using Octane Render, with ray tracing for sublime detail and cinematic atmosphere.
 ```
 
-### 2. 创造者们的角色
+### 2. 未来研究工作站
 ```
-Digital artists crafting surreal illusions, engineers building structures, scientists simulating nature, dramatic lighting, hyperrealistic details, octane render
-```
-
-### 3. 模拟的双面性
-```
-Within a modernist study room, ancient manuscripts and digital tablets share a floating display platform, their contents interweaving through beams of light that cast dualistic patterns of past and future across the minimalist furniture.
+A dimly lit research station with multiple transparent screens displaying glitching historical records. Digital artists and scientists work at minimalist workstations, where classical artifacts phase between digital and physical states. Dramatic lighting casts deep shadows across polished surfaces, while holographic equations dance through the air. The scene features flowing data streams and interactive displays, rendered with photorealistic detail and cinematic composition.
 ```
 
-### 4. 存储与遗忘
+### 3. 跨维度门户空间
 ```
-Inside an intimate archive chamber, crystalline data storage units pulse with forgotten memories beside weathered books, while volumetric light beams reveal swirling particles of digital decay in the air.
-```
-
-### 5. 技术的时间性
-```
-A temporal research desk displays glitching historical records across multiple screens, where classical artifacts phase between digital and physical states under strobing lights that cast deep shadows across the workstation.
+A vast digital landscape with mystical gateways between dimensions. Portals flicker with golden hour lighting, casting warm glows over the expansive vista. Figures move between digital and physical spaces, while data crystals preserve stories revealed by ethereal light beams. The scene features floating light patterns and philosophical question marks formed by data particles, creating an introspective atmosphere with soft ambient lighting.
 ```
 
-### 6. 真实性的疑问
+### 4. 现代主义数据图书馆
 ```
-A dreamlike space where blurred boundaries between simulation and reality are visualized as floating light patterns. Philosophical question marks hover in the digital air, formed by particles of data. The atmosphere is introspective, with a soft, ambient glow illuminating the scene.
-```
-
-### 7. 新世界的展开
-```
-A digital landscape unfolds, with data pathways leading to new horizons. Portals between dimensions flicker with golden hour lighting, casting a warm glow over the expansive vista. Observers and creators walk through the scene, filled with a sense of awe and discovery.
+A modernist study room where ancient manuscripts coexist with digital displays. Light beams cast dualistic patterns of past and future across minimalist furniture. Holographic code streams weave through the space, while crystalline storage units pulse with digital memories. The scene features polished surfaces reflecting cyan light, with volumetric lighting revealing swirling particles of digital decay.
 ```
 
-### 8. 跨越界限
+### 5. 科技艺术创作空间
 ```
-Figures move between digital and physical spaces, crossing mystical gateways. Stories preserved in data crystals are revealed by beams of light, creating an ethereal atmosphere. The scene conveys a sense of transcendence, with hidden narratives waiting to be discovered.
+A surreal creative studio where digital artists craft illusions using advanced holographic interfaces. Engineers and scientists work with floating 3D models and data visualizations. The space features dramatic lighting casting deep shadows, with flowing data streams and interactive displays. Rendered in hyperrealistic detail using Octane Render, with ray tracing for sublime clarity and cinematic atmosphere.
+```
+
+### 6. 废弃数据中心探索
+```
+Abandoned data center exploration, archaeological team wearing AR glasses, extracting ancient hard drives from rusty server racks, recovered images displayed in holograms, moss-covered walls, light beams penetrating through roof, dust particles suspended in air, vintage computers alongside modern equipment on tables, high contrast lighting, depth of field effect, cinematic composition, 8K resolution
+```
+
+### 7. 古韵纪实场景
+```
+A cinematic documentary scene of an
 ```
 
 ## 如何在Comfy-UI中使用
@@ -58,3 +47,5 @@ Figures move between digital and physical spaces, crossing mystical gateways. St
 ```
 bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
 ```
+
+A cinematic documentary scene of an ancient Chinese courtyard at golden hour, weathered wooden beams casting long shadows across stone pathways. Elderly craftsman carefully restoring traditional pottery in warm natural light, his wrinkled hands moving with practiced precision. Rays of sunlight filter through old lattice windows, illuminating dust particles in the air. Dried herbs and scrolls hang from darkened rafters, while wind chimes gently sway in the breeze. Rich textures of cracked walls, worn stone steps, and patinated bronze vessels. Shot with anamorphic lens, shallow depth of field, natural color grading, documentary-style composition, captured in 8K resolution with emphasis on authentic details and atmospheric lighting.

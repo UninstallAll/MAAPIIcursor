@@ -3,44 +3,44 @@
 ## 总体主题提示词
 
 ```
-A meta-gaming scene showing layers of reality and simulation, with gaming peripherals affecting virtual worlds. Psychological strategies visualized through interface elements. 8K photorealistic rendering with clear detail in the middle, dramatic lighting highlighting the merging of game and reality.
+A high-tech gaming setup with multiple screens displaying fantasy worlds, gaming peripherals with RGB lighting connected to virtual landscapes. Gaming chair with haptic feedback systems, controllers on sleek desk surface. Virtual elements projecting into physical space through holographic displays. 8K photorealistic rendering with detailed textures on all surfaces, dramatic ambient lighting with blue and purple LED accents highlighting the connection between devices and digital worlds.
 ```
 
 ## 分段提示词列表
 
 ### 1. 游戏反思模拟本身
 ```
-Meta-narrative game within game, self-aware player character, hyperrealistic environment with fourth wall breaks, dramatic lighting on simulation layers
+Gaming screen displaying game-within-game interface, digital world with fragments of code visible at edges, castle ruins with technological elements emerging from stones, fantasy landscape with digital glitches revealing underlying structure, ornate gaming setup with multiple monitors showing recursive worlds, ancient tome with glowing circuit patterns, forest path transitioning into digital wireframe at horizon
 ```
 
 ### 2. 玩家成为观察对象
 ```
-Third-person view of player gaming, recursive observation layers, reflective surfaces showing expressions, glowing player-avatar connections
+Empty gaming chair facing multiple monitors displaying forest worlds, surveillance camera feed showing abandoned gaming setup, recursive screens-within-screens showing fantasy landscapes, reflective surfaces displaying game world rather than reflections, glowing cables connecting empty headset to digital forest scene, gaming peripherals casting digital shadows on desk surface
 ```
 
 ### 3. 现实元素影响游戏
 ```
-Gaming setup showing money and equipment effects, psychological chess match overlay, glitching boundaries, dramatic lighting on reality-digital blend
+Gaming equipment arranged around ornate chess board with digital game pieces, currency and upgrade cards scattered near keyboard affecting virtual landscape on screen, luxury gaming peripherals connected to fantasy castle displayed on monitor, environmental sensors modifying digital weather patterns in forest scene, financial charts beside game display showing economic impacts on virtual kingdom
 ```
 
 ### 4. 竞技与RPG游戏中的现实规则
 ```
-RPG stats extending to real life, esports arena with economic impact, real-world strategies in games, photorealistic gaming-life boundary
+Digital fantasy character stats projecting onto physical objects, empty esports arena with scoreboards displaying economic data, strategic map with resource allocation diagrams, gaming setup with multiple screens showing RPG inventory beside market analytics, ancient fantasy world on main display with modern economic overlays, trophy cabinet with digital enhancements, strategic boards with game world territory markings
 ```
 
 ### 5. 媒介视角下的元游戏
 ```
-meta-game pointing toward reality of gaming itself, player being extracted from traditional gameplay rules, media theory visualization showing game as medium rather than just entertainment, cinematic composition revealing game's existence as cultural artifact, hyper-detailed conceptual visualization of game medium's self-awareness
+Gaming console with screens displaying educational content about game design, disassembled controller revealing technological components beside fantasy world display, museum-like display of gaming history with digital enhancements, ancient gaming artifacts with modern annotations floating beside them, technological timeline showing evolution of digital worlds, screens displaying code architecture behind fantasy landscapes, archaeological artifacts transitioning into digital game elements
 ```
 
 ### 6. 同步体验现实与超现实
 ```
-Split-screen of real and virtual synchronization, merged reality layers, elements bleeding between worlds, dramatic reality-hyperreality convergence
+Split-screen monitor displaying forest world alongside digital circuit version of same landscape, gaming keyboard with keys that transform into elements matching screen display, curved monitor with half physical/half digital forest scene, desk surface with projected game elements merging with physical objects, clock showing synchronized time across physical and digital display worlds, environmental elements like plants and stones mirrored by digital versions on screen
 ```
 
 ### 7. 模拟侵入现实
 ```
-Hyperreality invading physical space, game elements manifesting in reality, hybrid world at intersection, photorealistic digital materialization
+Digital forest elements extending beyond screen boundaries onto desk surface, game world environment affecting physical objects through projection mapping, fantasy castle architecture emerging from gaming setup, digital weather effects casting light patterns across physical room, virtual forest foliage growing around physical gaming equipment, mystical energy effects flowing between screen and controller, ancient artifacts from game materializing beside keyboard
 ```
 
 ## 如何在Comfy-UI中使用
@@ -51,5 +51,5 @@ Hyperreality invading physical space, game elements manifesting in reality, hybr
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
 ``` 

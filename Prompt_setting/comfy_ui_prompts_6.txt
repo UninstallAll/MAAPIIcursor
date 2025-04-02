@@ -3,140 +3,140 @@
 ## 第一部分：符号与信息 - 总体提示词
 
 ```
-A scene depicting symbolic capital in the digital age, showing curated social media representations and information flows. Virtual communities reshape perception through filtered reality. 8K photorealistic rendering with clear detail in the middle, dramatic lighting emphasizing the transformation of information into power.
+A high-tech room with multiple screens displaying social media feeds and digital marketplaces. Luxury products photographed under studio lighting beside analytics displays showing engagement metrics. Fiber optic cables connecting devices with glowing data streams. Expensive electronic gadgets arranged on modernist furniture. 8K photorealistic rendering with clear detail in central command center area, dramatic blue and gold lighting highlighting the contrast between physical luxury items and their digital representations.
 ```
 
 ### 第一部分：符号与信息 - 分段提示词
 
 #### 1-2: 符号重构现实
 ```
-Symbolic capital visualization through curated imagery, social media life displays, luxury goods as power relations, dramatic lighting on selective reality
+Modern apartment filled with carefully arranged designer furniture photographed for social media, professional lighting equipment positioned around luxury goods, multiple screens displaying filtered versions of the same room, expensive watches and handbags arranged for optimal visual impact, studio photography equipment capturing products for online storefronts, analytics dashboard showing engagement statistics, dramatic spotlights on premium branded items
 ```
 
 #### 3: 媒介即信息
 ```
-McLuhan's medium is message concept, social media filters reshaping perception, interface rules redesigning world view, dramatic lighting on cognitive influence
+Studio setup with various media devices displaying the same content in different formats, vintage television beside modern tablet and smartphone showing transformed versions of identical imagery, filter interfaces visible on editing screens, color grading equipment altering scene appearance, multiple cameras capturing same subject with different lenses, technical gear modifying incoming light, dramatic spotlights highlighting the transformation of imagery across devices
 ```
 
 ## 第二部分：游戏媒介与信息传递 - 总体提示词
 
 ```
-Games as sophisticated information carriers, revealing industry issues through mechanics. Interactive narratives exploring life themes, news transformed into participatory experiences. 8k resolution, dramatic lighting on knowledge transfer
+Gaming environment with multiple screens displaying complex management simulations and narrative adventures. Strategy maps showing resource allocation systems and consequence chains. Interactive storyboards demonstrating branching narratives. News events visualized through gaming interfaces with statistical overlays. 8k resolution gaming setup with dramatic lighting highlighting content across curved displays and projection systems.
 ```
 
 ### 第二部分：游戏媒介与信息传递 - 分段提示词
 
 #### 4: 游戏的模拟深度
 ```
-Games revealing industry complexities, economic systems through interfaces, dramatic lighting on ethical realizations
+Detailed factory management simulation displayed across multiple monitors, economic data visualization with supply chain diagrams, miniature industrial models connected to digital twins on screens, resource allocation dashboards with real-time statistics, automated factory equipment reflected in monitor displays, intricate urban planning software showing infrastructure systems, dramatic lighting highlighting the contrast between physical scale models and digital simulations
 ```
 
 #### 5: 艺术游戏的突破
 ```
-Artistic games exploring life themes, emotional storytelling through minimal mechanics, ethereal lighting on transcendental moments
+Atmospheric digital landscape displayed across curved monitor, minimalist game environment with stylized natural elements, abstract visual novel scenes on high-resolution display, artistic game environments with distinctive color palettes, interactive musical instrument controllers connected to visual experience software, ambient lighting responding to on-screen imagery, ethereal light patterns projected onto walls matching screen content
 ```
 
 #### 6: 互动新闻体验
 ```
-News as interactive participation, refugee crisis simulation, policy understanding through choices, dramatic lighting on empathetic moments
+News control room with multiple feeds transformed into interactive scenarios, topographical maps displaying crisis regions with statistical overlays, decision tree interface showing potential outcome pathways, drone footage displayed alongside consequence projections, weather system simulations showing environmental impact scenarios, policy simulation dashboards with outcome graphs, dramatic lighting on situation room displays showing changing conditions
 ```
 
 ## 第三部分：再现与模拟的演变 - 总体提示词
 
 ```
-Technological evolution transforming art essence, photography changing artistic aura, entering simulation era. Virtual worlds as new reality forms. 8k resolution with philosophical depth, dramatic lighting on representation evolution
+Museum-like space displaying evolution of imaging technology from early cameras to digital systems. Original paintings beside photographic and digital reproductions showing transformation through media. Virtual reality equipment creating immersive environments displayed on external monitors. 8k resolution displays showing hyperrealistic digital recreations of physical spaces, dramatic lighting highlighting the progression from analog to digital representation.
 ```
 
 ### 第三部分：再现与模拟的演变 - 分段提示词
 
 #### 7: 本雅明的技术革新
 ```
-Art in mechanical reproduction age, technology changing artistic essence, dramatic lighting on transition from unique to reproducible art
+Technological evolution of art reproduction displayed chronologically, printing press beside digital printer producing identical images, museum photography equipment documenting artwork, mass production machinery creating art reproductions, original painting beside multiple printed copies in various qualities, art scanner creating high-resolution digital version of sculpture, dramatic lighting highlighting the technical apparatus used in reproduction processes
 ```
 
 #### 8: 鲍德里亚的拟像时代
 ```
-Simulation exceeding reality, virtual worlds as new reality forms, dramatic lighting on boundaries dissolving between original and copy
+Virtual reality equipment creating simulated environments more vibrant than original scenes, digital recreation of natural landscape beside photographs of actual location, architectural rendering more perfect than built structure, theme park replica of ancient ruins beside archaeological photography, artificial landscape more ideal than natural counterpart, dramatic lighting on the boundary between physical diorama and its digital enhancement
 ```
 
 #### 9: 巴特的文化编码
 ```
-Images as cultural code products, meaning networks through culture, dramatic lighting on layers of interpretation
+Advertisement photography studio with cultural symbols arranged strategically, image editing workstation showing multi-layered compositing process, marketing materials displayed chronologically showing evolving visual language, stock photography categories organized by cultural meaning, color psychology charts beside marketing materials, symbolic object arrangements photographed for commercial use, dramatic lighting highlighting the construction of commercial imagery
 ```
 
 ## 第四部分：政治中的模拟 - 总体提示词
 
 ```
-Political simulation power through interactive models, experiencing strategies and consequences. Games as anti-war statements, diplomatic negotiations visualized. 8k resolution, dramatic lighting on decision impacts
+Strategic command center with interactive political simulation displayed across multiple screens. Electoral maps with demographic data visualization and polling predictions. Urban planning software modeling policy outcomes with statistical projections. Diplomatic scenario software showing international relations models. 8k resolution tactical displays with dramatic lighting highlighting decision points and consequence projections across global models.
 ```
 
 ### 第四部分：政治中的模拟 - 分段提示词
 
 #### 10: 政治游戏的互动模型
 ```
-Election campaign simulation, strategy experience firsthand, public opinion dynamics, dramatic lighting on decision moments
+Election simulation displayed on multiple screens showing demographic data and voting patterns, strategic campaign management dashboard with resource allocation interfaces, public opinion tracking software with trend visualization, political advertising effectiveness metrics displayed graphically, electoral map with interactive polling data, social media sentiment analysis dashboard, dramatic lighting on decision point interfaces showing strategic options
 ```
 
 #### 11: 反战政治立场的表达
 ```
-War scenario with civilian impact, games as political statements, moral choice interface, dramatic lighting on conflict consequences
+War simulation software displaying civilian infrastructure impact statistics, strategic command center showing collateral damage assessments, urban environment before and after conflict scenarios, resource scarcity modeling in affected regions, humanitarian aid logistics planning interfaces, reconstruction cost calculation software, dramatic lighting highlighting consequence visualization displays showing long-term outcomes
 ```
 
 #### 12: 国际关系的可感知化
 ```
-Diplomatic negotiation simulation, complex relations made tangible, multi-faction status visualization, dramatic lighting on political tension
+Diplomatic negotiation software displaying multi-faction relationship metrics, global situation room with resource allocation maps, trade agreement simulation showing economic impacts, alliance strength visualization with connecting lines between nations, strategic interest mapping across geographical displays, sanction impact modeling software with economic projections, dramatic lighting on treaty negotiation interfaces showing compromise options
 ```
 
 ## 第五部分：学习与模拟 - 总体提示词
 
 ```
-Educational transformation through interactive systems, abstract concepts becoming tangible objects. History as dynamic process, experiential learning revolution. 8k resolution, dramatic lighting on discovery moments
+Educational laboratory with interactive scientific simulations displayed across multiple screens. Historical timelines visualized as interactive environments with cause-effect demonstrations. Abstract concepts rendered as manipulable 3D objects on holographic displays. Geographic and ecological systems modeled with real-time variable adjustment. 8k resolution educational displays with dramatic lighting highlighting discovery sequences and system interactions.
 ```
 
 ### 第五部分：学习与模拟 - 分段提示词
 
 #### 13: 生态学的互动系统
 ```
-Ecological concepts as interactive systems, environmental science visualization, cause-effect relationships, dramatic lighting on natural dynamics
+Ecological simulation displaying forest development across time, climate system model showing atmospheric interactions, marine ecosystem visualization with food web connections, environmental science laboratory with measurement data displays, soil composition analysis with agricultural outcome projections, watershed management simulation showing runoff patterns, dramatic lighting on interactive displays demonstrating cause-effect relationships in natural systems
 ```
 
 #### 14: 历史的动态体验
 ```
-History as decision-consequence process, civilization development factors, dramatic lighting on pivotal moments
+Historical simulation displaying civilization development across interactive timeline, archaeological site reconstruction showing architectural evolution, resource management interfaces showing historical economic systems, ancient technological development models with engineering principles highlighted, historical climate data affecting agricultural development in simulation, technological innovation chains displayed as branching paths, dramatic lighting on pivotal historical moments displayed across strategic maps
 ```
 
 #### 15: 从记忆到体验的学习
 ```
-Historical education through experience, frontier life simulation, resource management in context, dramatic lighting on period challenges
+Historical frontier environment recreated through detailed simulation, resource management interface showing survival challenges, period-accurate tools and structures displayed in interactive catalog, seasonal changes affecting settlement development in simulation, geographical challenges visualized through topographic modeling, agricultural cycle demonstration with yield projections, dramatic lighting on environmental challenge scenarios showing adaptation requirements
 ```
 
 ## 第六部分：认知与哲学的模拟 - 总体提示词
 
 ```
-Simulation extending into cognitive dimensions, games conveying philosophical viewpoints. Chaos theory in digital systems, cultural mapping through technology. 8k resolution, dramatic lighting on intellectual breakthroughs
+Advanced laboratory with cognitive modeling systems displayed across multiple screens. Mathematical chaos visualizations showing subtle pattern emergence. Cultural database interfaces mapping concept relationships across geographical and historical dimensions. Brain activity scans beside algorithmic pattern recognition systems. 8k resolution scientific displays with dramatic lighting highlighting emergent patterns and conceptual breakthroughs in complex systems.
 ```
 
 ### 第六部分：认知与哲学的模拟 - 分段提示词
 
 #### 16: 游戏作为修辞媒介
 ```
-Games conveying viewpoints through mechanics, philosophical principles in gameplay, dramatic lighting on intellectual revelation
+Game design studio with philosophical concept visualization on multiple screens, mechanics flowcharts showing idea implementation through systems, puzzle structures designed to communicate specific principles, environmental storytelling elements arranged to convey concepts without text, rule system diagrams showing how constraints create meaning, aesthetic concept boards showing theme development, dramatic lighting on design documents highlighting key philosophical expressions through gameplay
 ```
 
 #### 17: 混沌理论的应用
 ```
-Chaos theory visualization, butterfly effect in systems, dramatic lighting on critical points, mathematical beauty emphasis
+Mathematical visualization of chaos theory displaying butterfly effect demonstrations, weather pattern simulation showing sensitive dependence on initial conditions, fractal generation software creating infinitely complex patterns, population dynamics model demonstrating unpredictable systemic behavior, pendulum systems showing transition from order to chaos, iterative mapping creating emergent complexity, dramatic lighting highlighting critical transition points in ordered systems becoming chaotic
 ```
 
 #### 18: 模拟作为文化与认知映射
 ```
-Simulation as cultural-cognitive mapping, new understanding frameworks, dramatic lighting on paradigm shifts
+Cultural database visualization showing concept relationships across different societies, cognitive framework mapping displayed as three-dimensional networks, knowledge organization systems displayed across interactive taxonomy trees, pattern recognition algorithms identifying cultural similarities in artifact databases, belief system comparisons displayed through overlapping concept maps, translation mechanisms between different conceptual frameworks, dramatic lighting highlighting connection points between disparate knowledge systems
 ```
 
 ### 结语提示词
 
 ```
-Simulation integration in daily life, from social media to complex games. Technology bridging humanities in digital age. 8k resolution, dramatic lighting on human-tech harmony
+Integrated technology environment with multiple simulation systems operating simultaneously. Social media analytics beside immersive gaming environments and educational displays. Advanced technological interfaces bridging different knowledge domains through interactive visualizations. 8k resolution command center with dramatic lighting highlighting the harmonious interaction between diverse technological systems and information displays.
 ```
 
 ## 如何在Comfy-UI中使用
@@ -147,5 +147,5 @@ Simulation integration in daily life, from social media to complex games. Techno
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
 ``` 

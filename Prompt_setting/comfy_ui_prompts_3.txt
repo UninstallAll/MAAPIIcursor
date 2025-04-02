@@ -3,44 +3,44 @@
 ## 总体主题提示词
 
 ```
-An immersive gaming perspective where reality and virtual worlds merge. Player's interaction with digital environments creates narrative paths, enhanced by cinematic lighting. 8K photorealistic detail with clear focus in the middle, ray traced reflections showing the boundary between real and virtual experience
+An immersive gaming environment with detailed console setup, multiple screens displaying fantasy worlds. High-tech gaming chair with RGB lighting, controllers and keyboards arranged on sleek desk. Atmospheric room lighting with LED strips, ray-traced reflections on polished surfaces, 8K photorealistic detail with clear focus on gaming setup, digital worlds visible on screens
 ```
 
 ## 分段提示词列表
 
 ### 1. 第三人称视角与角色映射
 ```
-Player's hands on controller with character on screen, reality-virtual mirroring, dramatic backlighting, photorealistic gaming setup, cinematic focus on player-avatar connection
+Gaming screen displaying detailed fantasy landscape, mountain castle with intricate architecture, mystical fog effects, ray-traced lighting through ancient trees, abandoned armor on stone paths, glowing runes on weathered monuments, detailed vegetation with dynamic shadows
 ```
 
 ### 2. 玩家选择与故事展开
 ```
-Glowing decision trees in game world, player at crossroads, multiple outcomes reflected, hyper-detailed fantasy environment, dramatic lighting on choices
+Gaming interface showing branching pathways in detailed forest setting, glowing decision markers on stone pedestals, ancient ruins with multiple doorways, ornate signposts pointing in different directions, mystical light beams highlighting various paths, fallen leaves scattered across moss-covered stones, atmospheric fog between towering trees
 ```
 
 ### 3. 虚拟世界的"已完成"错觉
 ```
-Virtual world with constructed timeline, interwoven story threads, atmospheric lighting, hyper-detailed environment with uncanny valley elements
+Digital landscape with incomplete rendering at edges, detailed castle with partially constructed towers, forest transitioning to wireframe at boundaries, realistic water effects dissolving into grid patterns, floating islands with missing sections, atmospheric mist hiding unfinished terrain, ancient architecture with missing textures revealing framework
 ```
 
 ### 4. 重复与游戏的说服力
 ```
-Character repeating actions, gameplay loops as light trails, persuasive mechanics shown as glowing connections, cinematic view of game logic acceptance
+Circular stone path in enchanted forest showing looping trail, glowing footprints forming repeating patterns, magical artifacts creating light trails when activated, ancient mechanism with cyclical motion, spiral staircase in magical tower with recurring architectural elements, mystical portal showing previous destinations, ornate clock with multiple interlocking gears
 ```
 
 ### 5. 代码的现实提醒
 ```
-whispered words "this is just code" appearing as glitching text overlaid on game world, moment of realization visualized as partial dissolution of game environment, fragments of code becoming visible beneath surface textures, character looking directly at player breaking fourth wall, dramatic lighting shift revealing artificial nature of experience
+Fantasy gaming screen with digital glitches revealing code patterns, ancient magical tome with glowing binary script visible between pages, mystical portal with circuitry patterns at edges, enchanted forest with data visualization elements floating between trees, stone ruins with technological elements emerging from cracks, magical artifacts dissolving into digital particles, fantasy interface elements breaking into code fragments
 ```
 
 ### 6. 质疑虚拟经验
 ```
-Memories as data streams between game and reality, questioning reflections, split screen showing real vs virtual experiences, philosophical visualization
+Split-screen display showing detailed fantasy world beside digital interface, ancient magical mirror reflecting digital code, enchanted forest dissolving into data streams at boundaries, ornate gaming setup with multiple reality views on screens, mystical portal showing different world versions, ancient scrolls containing digital diagrams, magical crystals projecting wireframe landscapes
 ```
 
 ### 7. 底层代码的暴露
 ```
-Deconstructed game world showing wireframe, peeling facade, exposed structure, dramatic lighting on transition, photorealistic deconstruction effects
+Fantasy castle with sections revealing wireframe structure, enchanted forest transitioning to digital framework, ancient magical ruins with exposed technological elements, mystical portal deconstructing into code elements, ornate bridge dissolving into digital patterns, magical landscape peeling away to show underlying grid, ancient artifacts breaking apart to reveal technological cores
 ```
 
 ## 如何在Comfy-UI中使用
@@ -51,5 +51,5 @@ Deconstructed game world showing wireframe, peeling facade, exposed structure, d
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
 ``` 

@@ -3,54 +3,54 @@
 ## 总体主题提示词
 
 ```
-A visualization of algorithmic simulation as cognitive extension, showing the interaction between human thought and digital processes. Information flows through circuit-like patterns with organic elements. 8K photorealistic clarity with clear detail in the middle, cinematic lighting revealing the marriage of digital and biological patterns.
+A detailed server room with glowing circuit boards and data visualization displays. Fiber optic cables forming organic branch-like patterns connecting to crystalline structures. Digital information flowing as light pulses through transparent tubes. Motherboards with bioluminescent elements growing like coral formations. 8K photorealistic clarity with clear detail in the central server rack, dramatic blue and purple lighting highlighting the intricate connections between hardware components.
 ```
 
 ## 分段提示词列表
 
 ### 1. 计算机模拟的双重性
 ```
-Computing systems as technical and cultural tools, binary code as symbols, cognitive prosthetic visualization, circuit patterns evolving into thoughts
+Advanced computing hardware with binary code projections onto surrounding surfaces, circuit boards with flowing light patterns resembling river systems, motherboard landscape with miniature city-like structures formed by components, glowing transistors arranged in symmetrical patterns, close-up of RAM modules with light pulses traveling through crystalline pathways, cooling systems with liquid resembling neural networks
 ```
 
 ### 2. 符号规则构建第三空间
 ```
-Space between reality and virtual, symbolic systems creating environments, humans interacting with data architecture, cinematic lighting on emergence
+Digital architecture floating in void space, crystalline data structures forming geometric landscapes, glowing symbolic patterns etched into metallic surfaces, virtual environment with mathematical formulas materializing as physical objects, servers projecting holographic environments filled with abstract symbols, gateway-like structures built from circuit patterns leading to digital realms
 ```
 
 ### 3. 算法语言的再现与生成
 ```
-Symbols representing reality, generative mechanisms creating possibilities, branching pathways of creation, flowing light showing transformation
+Fractal patterns growing across digital surfaces, generative art forming on multiple display screens, branching tree-like structures made of flowing code, 3D printer creating intricate objects based on algorithmic designs, growth patterns of digital crystals mimicking natural formations, server farm with each unit generating unique visual patterns on connected displays
 ```
 
 ### 4. 认知过程的数字化映射
 ```
-Digital mapping of cognition, algorithms mirroring thought patterns, neural-like connections between mind and digital structures
+Neural network visualization as physical structure with glowing nodes, server racks arranged in brain-like patterns, flowing data streams between quantum computing components, circuit pathways mimicking synaptic connections, digital landscape with paths representing decision trees, crystalline structures storing and processing light-based information
 ```
 
 ### 5. 重新审视生命本质
 ```
-Self-replicating machines, artificial life patterns, evolution in code structures, dramatic lighting on organic-digital similarities
+Robotic assembly line creating self-replicating machines, 3D printed structures evolving through iterative designs, digital ecosystem displayed across multiple screens with evolving virtual lifeforms, laboratory environment with artificial cells growing in transparent containers, mechanical structures with bioluminescent components, evolutionary algorithms visualized as growing crystalline formations
 ```
 
 ### 6. 生命作为信息流动
 ```
-Life as information patterns, data streams forming living structures, consciousness in complex patterns, ethereal lighting on algorithmic essence
+Glowing data streams forming DNA-like helical structures, server farm with information flowing between units like circulatory system, quantum computer with pulsing light patterns mimicking cellular activities, digital garden with code-generated plants growing on screens, crystalline structures storing and transmitting bioluminescent data, flowing light patterns forming complex emergent systems
 ```
 
 ### 7. 算法作为权力载体
 ```
-Algorithms carrying power and ideology, hidden structures in interfaces, interaction rules as frameworks, UI elements encoding social values
+Massive server infrastructure nestled within ornate architectural elements, hidden cameras and sensors embedded in decorative structures, smartphone displaying multiple tracking metrics beside traditional scales, banking terminal with code visualization showing biased sorting patterns, social media interface revealing hidden filtering systems through glowing highlights, search engine results displayed as manipulated landscape
 ```
 
 ### 8. 程序修辞的影响机制
 ```
-Program rhetoric through interaction, rules shaping behavior, interface choices influencing cognition, dramatic lighting on manipulation points
+Multiple screens displaying different interface designs for same function, maze-like pathways with choice points illuminated differently, digital signage with persuasive elements highlighted, smartphone interfaces with certain options more prominently lit, vending machine with algorithmic pricing visualization, smart home devices arranged to show data collection patterns
 ```
 
 ### 9. 算法模拟影响现实
 ```
-Algorithmic design affecting behavior, digital paradigms transforming culture, code becoming reality-altering force, cinematic transition effects
+Smart city model with algorithm-controlled traffic systems, automated factory with digital twin visualization, stock exchange displays showing algorithmic trading patterns, farmland with drone monitoring and automated systems, climate model visualization on multiple screens affecting simulated environment, architectural plans being modified by optimization algorithms displayed in real-time
 ```
 
 ## 如何在Comfy-UI中使用
@@ -61,5 +61,5 @@ Algorithmic design affecting behavior, digital paradigms transforming culture, c
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
 ``` 
