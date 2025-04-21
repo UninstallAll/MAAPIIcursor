@@ -1,0 +1,35 @@
+# Comfy-UI 高级滤镜提示词集合
+
+## 科技电影色调
+
+### 1. 冷色系科技滤镜
+```
+Cinematic color grading, high contrast deep shadows, cold blue tint, desaturated highlights, soft metallic reflections, clean sharp details, muted neons, deep blacks, crystal clear resolution, professional color correction, balanced exposure, subtle cyan highlights, controlled lighting, premium film look, anamorphic lens effects, precise edge light, volumetric atmosphere, ray-traced reflections, 8K resolution, photorealistic rendering
+```
+
+### 2. 暗调科技氛围
+```
+Dark moody atmosphere, subtle blue ambient lighting, controlled contrast ratio, deep shadow detail, minimal color saturation, professional grade black levels, clean highlight rolloff, premium dark tones, atmospheric haze, precise exposure control, cinematic black point, balanced midtones, subtle metallic sheen, high-end production value, anamorphic lens characteristics, volumetric lighting, ray-traced ambient occlusion, 8K clarity, photorealistic materials
+```
+
+### 3. 高级灰调平衡
+```
+Premium neutral color grading, balanced grey tones, controlled highlight compression, professional shadow detail, clean color science, minimal saturation, high-end exposure control, subtle cool tints, precise contrast management, cinematic dynamic range, sophisticated color balance, refined metallic reflections, premium production quality, anamorphic lens rendering, volumetric light scattering, ray-traced global illumination, 8K definition, photorealistic surfaces
+```
+
+## 负面提示词
+```
+oversaturated, overexposed, blown highlights, crushed blacks, color noise, chromatic aberration, lens flares, light leaks, color banding, harsh contrast, aggressive sharpening, yellow tint, green tint, neon glow, extreme HDR, unrealistic lighting, poor color grading, digital artifacts, low resolution, grainy texture
+```
+
+## 使用说明
+1. 选择适合的滤镜提示词
+2. 与场景提示词结合使用
+3. 确保添加负面提示词以避免不需要的效果
+4. 根据具体需求调整权重
+
+## 建议参数设置
+- CFG Scale: 7-8
+- Sampling Steps: 30-40
+- Sampler: Euler a
+- Denoising Strength: 0.6-0.7 

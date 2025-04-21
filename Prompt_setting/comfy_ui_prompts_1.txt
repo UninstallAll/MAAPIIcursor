@@ -2,39 +2,54 @@
 
 ## 综合场景提示词
 
-### 1. 科技档案馆场景
+### 1. 未来城市街景
 ```
-A hyperrealistic digital archive chamber with crystalline data storage units, where holographic code streams flow through suspended data crystals. Ancient manuscripts and digital tablets float on transparent platforms, their contents interweaving through cyan light beams. The scene features polished metallic surfaces reflecting holographic displays, with volumetric lighting revealing swirling digital particles. Rendered in 8K photorealistic clarity using Octane Render, with ray tracing for sublime detail and cinematic atmosphere.
-```
-
-### 2. 未来研究工作站
-```
-A dimly lit research station with multiple transparent screens displaying glitching historical records. Digital artists and scientists work at minimalist workstations, where classical artifacts phase between digital and physical states. Dramatic lighting casts deep shadows across polished surfaces, while holographic equations dance through the air. The scene features flowing data streams and interactive displays, rendered with photorealistic detail and cinematic composition.
+Ultramodern city street with 50-meter-tall transparent LED billboards displaying vibrant news feeds, floating holographic Chinese characters in neon blue and cyan, translucent green data streams forming geometric patterns in the air. Chrome-plated smart bus stops with curved glass roofs reflecting sunset colors, metallic silver autonomous vehicles with pulsing light strips. Pedestrians walking through iridescent AR corridors, their shadows intersecting with glowing floor tiles displaying real-time data in golden hexagonal patterns. Sleek carbon fiber street furniture with embedded 3D projection units, cherry blossom trees with fiber optic leaves glowing soft pink. Photorealistic 8K, volumetric fog catching purple and orange light beams, ray-traced reflections on wet asphalt, cinematic anamorphic lens flares.
 ```
 
-### 3. 跨维度门户空间
+### 2. 智慧城市指挥中心
 ```
-A vast digital landscape with mystical gateways between dimensions. Portals flicker with golden hour lighting, casting warm glows over the expansive vista. Figures move between digital and physical spaces, while data crystals preserve stories revealed by ethereal light beams. The scene features floating light patterns and philosophical question marks formed by data particles, creating an introspective atmosphere with soft ambient lighting.
-```
-
-### 4. 现代主义数据图书馆
-```
-A modernist study room where ancient manuscripts coexist with digital displays. Light beams cast dualistic patterns of past and future across minimalist furniture. Holographic code streams weave through the space, while crystalline storage units pulse with digital memories. The scene features polished surfaces reflecting cyan light, with volumetric lighting revealing swirling particles of digital decay.
+Circular command center with 270-degree curved display wall showing 24 ultra-HD screens, each 2 meters tall, displaying real-time city metrics and 3D holograms of urban infrastructure. Floating interactive control panels made of brushed titanium and smart glass, emitting soft blue light. Central holographic table projecting detailed 1:1000 scale city model with dynamic traffic flows shown as streams of white light. Operators wearing graphene AR headsets with retinal projection displays, gesture-controlling data streams. Minimalist white carbon fiber workstations with floating haptic keyboards, surrounded by cascading data waterfalls in electric blue. Dramatic top-down lighting creating concentric circles of cool white LED illumination, contrasting with warm amber accent lights. Ray-traced reflections on polished black granite floor, volumetric light beams cutting through artificial fog, 8K resolution with deep depth of field.
 ```
 
-### 5. 科技艺术创作空间
+### 3. 数字艺术街区
 ```
-A surreal creative studio where digital artists craft illusions using advanced holographic interfaces. Engineers and scientists work with floating 3D models and data visualizations. The space features dramatic lighting casting deep shadows, with flowing data streams and interactive displays. Rendered in hyperrealistic detail using Octane Render, with ray tracing for sublime clarity and cinematic atmosphere.
-```
-
-### 6. 废弃数据中心探索
-```
-Abandoned data center exploration, archaeological team wearing AR glasses, extracting ancient hard drives from rusty server racks, recovered images displayed in holograms, moss-covered walls, light beams penetrating through roof, dust particles suspended in air, vintage computers alongside modern equipment on tables, high contrast lighting, depth of field effect, cinematic composition, 8K resolution
+Historic brick buildings retrofitted with 30-meter-tall reactive LED mesh facades, displaying flowing digital art in deep purples and teals. Sculptural light installations made of twisted metal and fiber optics, creating organic forms that pulse with rainbow colors. Levitating digital art pieces contained in 2-meter diameter antigravity spheres, showing morphing crystalline structures. Interactive street furniture with embedded touch-sensitive displays showing real-time art generation. Traditional Chinese paper lanterns reimagined with OLED surfaces displaying dynamic calligraphy. Cobblestone streets embedded with illuminated glass tiles creating geometric patterns that respond to footsteps. Rain-slicked surfaces reflecting neon signs and holographic projections, creating mirror worlds of light. Photorealistic rendering with ray-traced reflections, volumetric fog catching colored light beams, anamorphic lens effects.
 ```
 
-### 7. 古韵纪实场景
+### 4. 增强现实购物大道
 ```
-A cinematic documentary scene of an
+Luxury retail street with smart glass storefronts transitioning between transparent and display modes, showing 4K product animations. Floating 3-meter-wide holographic product displays rotating above pedestrians, casting prismatic light patterns. AR-enhanced shop windows with gesture-controlled virtual try-on mirrors, surrounded by animated particle effects. Digital cherry blossom trees with crystalline leaves displaying product information, petals falling as glowing data points. Smart pavements with embedded LED matrices creating flowing pathways of light, guiding shoppers with dynamic arrows and patterns. Translucent OLED canopies stretching between buildings, displaying abstract art and brand content. Photorealistic 8K rendering, golden hour lighting mixing with technological blue glow, ray-traced reflections on polished marble floors.
+```
+
+### 5. 未来交通枢纽
+```
+Massive transportation hub with 60-meter-high curved glass ceiling, embedded with diamond-pattern OLED panels displaying arrival times and weather data. Magnetic levitation trains gliding through transparent tubes wrapped in spiraling LED light strips. Autonomous electric buses with exterior displays showing route information in flowing typography. Smart waiting areas with holographic entertainment pods, surrounded by curved OLED screens showing city information. Biometric scanning gates with flowing light patterns, creating archways of blue light. Robot assistants with sleek white carbon fiber shells and soft LED indicator lights guiding passengers. Dramatic shafts of natural light mixing with cool LED illumination, creating layers of volumetric light beams. 8K photorealistic rendering with cinematic depth of field, ray-traced reflections on polished surfaces.
+```
+
+### 6. 数字媒体新闻中心
+```
+Circular newsroom with 360-degree wraparound LED walls displaying global news feeds, social media metrics, and real-time data visualization in vibrant infographics. Central news desk made of brushed aluminum and smart glass, surrounded by floating holographic screens showing breaking news alerts. AI news anchors with photorealistic digital avatars broadcasting from virtual sets with dynamic backgrounds. Robotic camera systems on curved tracks capturing multiple angles, their movements highlighted by LED position indicators. Transparent OLED partitions displaying trending topics in flowing typography. News producers wearing AR contact lenses accessing virtual editing interfaces with gesture controls. Dramatic lighting transitions from cool daylight to evening news ambiance, with focused LED spots creating circles of light. 8K rendering with broadcast-quality depth of field, ray-traced reflections on glossy surfaces.
+```
+
+### 7. 智能创意工作室
+```
+Modern creative space with 8-meter-tall smart glass walls shifting between transparency and display modes, showing evolving AI-generated artwork. Floating holographic design interfaces with color wheels and 3D modeling tools controlled by gesture. Digital art tablets with haptic feedback surfaces creating realistic brush textures. Robotic camera arms with LED position markers capturing multiple angles of artwork in progress. Interactive floor projections showing creative process timelines and reference materials. Smart materials lab with transparent storage units displaying digital swatches and material properties. Dramatic studio lighting with adjustable color temperature LED arrays, creating perfect conditions for both physical and digital art. 8K photorealistic rendering with shallow depth of field, ray-traced reflections on polished concrete floors.
+```
+
+### 8. 未来图书馆
+```
+Modernist library space with 15-meter-tall smart bookshelves combining physical books and digital displays showing dynamic content previews. Floating study pods made of transparent acrylic and OLED surfaces, creating private spaces with customizable ambient lighting. Holographic card catalog interface projecting 3D book previews and floating reviews. Smart glass tables with embedded displays showing related content and research materials. Robotic book retrieval system with illuminated tracks running along walls. Digital art installations visualizing library data as flowing particles and geometric patterns. Natural light from skylight mixing with warm LED shelf lighting, creating layered illumination effects. 8K photorealistic rendering with cinematic depth of field, ray-traced reflections on polished wood surfaces.
+```
+
+### 9. 科技艺术博物馆
+```
+Contemporary museum space with reactive LED floor creating flowing pathways between exhibits. Interactive holographic displays showing 3D scans of artifacts rotating in mid-air. Smart glass display cases with switchable transparency and embedded information displays. Robotic art installation with precise mechanical movements highlighted by LED tracking lights. Digital waterfalls made of light and data streaming down curved OLED walls. AR viewing stations with custom-designed interfaces for exploring artwork details. Dramatic spotlighting mixing with ambient LED illumination, creating focused areas of interest. 8K photorealistic rendering with museum-quality lighting, ray-traced reflections on protective glass surfaces.
+```
+
+### 10. 数字化演艺中心
+```
+Futuristic performance space with programmable LED stage floor displaying dynamic patterns and effects. Holographic projection system creating immersive 3D environments with particle effects and light sculptures. Reactive LED walls responding to sound and movement with waves of color. Robotic lighting rigs with precision-controlled LED spots creating choreographed light shows. Digital costume elements with embedded displays and fiber optic details. AR-enhanced seating areas with personal viewing interfaces and custom environmental controls. Dramatic stage lighting mixing with interactive projection mapping, creating multi-layered visual experiences. 8K photorealistic rendering with theatrical lighting effects, ray-traced reflections on glossy stage surfaces.
 ```
 
 ## 如何在Comfy-UI中使用
@@ -45,7 +60,5 @@ A cinematic documentary scene of an
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, oversaturated, overexposed, pixelated, grainy, noisy, duplicate, multiple, overlapping, distorted perspective, unrealistic lighting, poor composition
 ```
-
-A cinematic documentary scene of an ancient Chinese courtyard at golden hour, weathered wooden beams casting long shadows across stone pathways. Elderly craftsman carefully restoring traditional pottery in warm natural light, his wrinkled hands moving with practiced precision. Rays of sunlight filter through old lattice windows, illuminating dust particles in the air. Dried herbs and scrolls hang from darkened rafters, while wind chimes gently sway in the breeze. Rich textures of cracked walls, worn stone steps, and patinated bronze vessels. Shot with anamorphic lens, shallow depth of field, natural color grading, documentary-style composition, captured in 8K resolution with emphasis on authentic details and atmospheric lighting.
