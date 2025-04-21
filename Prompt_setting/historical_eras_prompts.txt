@@ -1,0 +1,102 @@
+# Comfy-UI Historical Eras Prompts Collection
+
+## Introduction Theme
+
+```
+Underwater primordial life emerging from ancient ocean depths, massive stone age beasts roaming prehistoric landscapes, evolution milestones captured in fossilized form, early civilizations rising from fertile river valleys, astronomical phenomena illuminating night sky, ancient star charts mapping celestial bodies, primitive structures aligned with solar movements, 8K photorealistic rendering, dramatic environmental lighting highlighting evolutionary progression
+```
+
+## Art, Technology, Media and Post-Humanity: A Cinematic Vision
+```
+Cinematic 8K ultra-high definition scene of art and technology fusion, holographic art installations responding to human consciousness, bio-digital hybrid sculptures with living components, quantum computing interfaces displaying abstract artistic patterns, neural network visualizations forming aesthetic structures, bioengineered organisms creating living art pieces, digital media transcending physical limitations, augmented reality overlays blending with physical world, synthetic consciousness exploring creative expression, technological artifacts evolving into artistic forms, post-human entities manipulating reality through artistic gestures, media transcending traditional boundaries into multi-dimensional experiences, photorealistic rendering with cinematic lighting, high-quality CG movie shot with professional cinematography, dramatic camera angles and depth of field, epic scale with intricate details, photorealistic textures and materials, volumetric lighting with atmospheric effects, 8K resolution with perfect clarity
+```
+
+## Part One: Early Civilizations & Classical Era
+
+### 1. Dawn of Civilization
+```
+Bronze artifacts with patina texture, iron tools arranged in ceremonial pattern, ancient horses with decorative armor, ornate swords displayed on stone pedestals, astronomical instruments pointing at constellations, ancient maps with unknown territories, wooden ships with billowing sails approaching distant shores, early metallurgy workshop with glowing furnaces, marble columns supporting temple roof, trade goods arranged in market square, bronze statues overlooking harbor, photorealistic scene with dramatic lighting
+```
+
+### 2. Medieval Period
+```
+Stone cities rising from misty valleys, castle towers with solid architecture, fortress walls with defensive structures, ancient empire relics arranged in museum displays, knights in full plate armor mounted on armored horses, massive stone bridges spanning river chasms, kingdom banners hanging from fortress walls, medieval town with stone buildings and narrow streets, apprentice workshop with crafting tools, wooden training equipment in castle courtyard, candlelight illuminating monastery scriptorium, detailed textures on stone surfaces
+```
+
+### 3. Renaissance
+```
+Flintlock rifles arranged in military formation, colorful fireworks illuminating night sky, detailed printing press with freshly printed pages, stack of leather-bound books with gold embossing, world map showing newly discovered continents, astronomical observatory with bronze instruments, paintings depicting nature scenes, mechanical clockwork with visible gears, merchant ships in busy harbor, religious architecture with detailed stonework, nation's symbols carved in marble, scientific instruments on wooden tables, ornate furniture with rich materials
+```
+
+## Part Two: Modern Transformations
+
+### 4. Industrial Revolution
+```
+Factory interior with massive machines, billowing smoke from brick chimneys, coal and ash covered industrial landscape, scientific laboratory with experimental apparatus, cultural artifacts displayed in museum setting, industrial revolution machinery with steel components, steam engines with brass fittings, coal mining operation with rail carts, modern city emerging from industrial landscape, early telecommunications devices, mass-produced goods on assembly line, technical blueprints spread across engineering table
+```
+
+### 5. Modern Era
+```
+Early aircraft with fabric wings and wooden structure, modern telecommunications center with broadcasting equipment, globe showing interconnected trade routes, bustling metropolis with architectural diversity, propaganda posters from opposing ideologies, international summit with nation flags, modern transportation hub with various vehicles, radio communication equipment with vacuum tubes, world exhibition showcasing technological innovations, cultural exchange depicted through art and artifacts, global conflict represented by military equipment displays, philosophical texts displayed in academic setting
+```
+
+### 6. Atomic Age
+```
+Atomic model visualization in scientific laboratory, massive radio telescopes aimed at cosmos, microscope revealing cellular structures, space technology displayed in museum setting, massive particle accelerator tunnel, rocket launching toward stars, nuclear power plant with cooling towers, satellite orbiting Earth, submarine emerging from ocean depths, electronic equipment with vacuum tubes and early circuits, nuclear physics equations on blackboard, geological samples showing radioactive elements, deep space phenomena captured by telescopes
+```
+
+### 7. Information Age
+```
+Massive server farm with blinking indicator lights, global telecommunications network visualized as interconnected nodes, handheld digital devices displaying information, satellite array receiving signals from space, modern metropolis with digital displays, cultural artifacts from diverse global sources, advanced military technology in museum display, renewable energy installations in natural setting, space station orbiting above Earth, underwater data cables connecting continents, virtual reality equipment arranged in technological showcase, global community represented by interconnected cultural symbols
+```
+
+### 8. AI Era
+```
+Quantum computing facility with crystalline processors, neural network visualization as interconnected data structures, autonomous vehicles navigating urban environment, robotic manufacturing plant with precision assembly lines, bioengineered organisms in controlled environments, advanced medical imaging equipment displaying internal structures, synthetic materials with programmable properties, digital art installations responding to environmental data, smart city infrastructure with integrated sensors, holographic displays showing complex data patterns, quantum encryption devices with secure interfaces, artificial intelligence control centers with monitoring systems, photorealistic rendering with dramatic technological lighting
+```
+
+### 9. Post-Human Era
+```
+Self-replicating nanobots forming complex structures, bioengineered ecosystems with hybrid species, quantum consciousness interfaces with neural pathways, terraformed landscapes with artificial biomes, advanced energy harvesting systems with crystalline arrays, synthetic biology laboratories with growing organic machines, interstellar colonization vessels with generation ship architecture, quantum teleportation hubs with matter reconstruction chambers, advanced climate control systems with atmospheric processors, bio-digital hybrid architecture with living building components, quantum storage devices with infinite capacity, advanced propulsion systems with space-time manipulation, photorealistic rendering with dramatic environmental lighting
+```
+
+### 10. Cosmic Multi-Technology Era
+```
+Interstellar megastructures spanning multiple star systems, multi-dimensional technology interfaces with reality-bending displays, alien architectural forms with non-Euclidean geometry, quantum entanglement networks connecting distant galaxies, advanced species' technological artifacts with incomprehensible functions, cosmic engineering projects reshaping nebula structures, multi-species trading hubs with diverse technological interfaces, reality manipulation devices with visible spacetime distortions, cosmic-scale energy harvesting systems with stellar collectors, advanced propulsion technologies with visible warp fields, quantum computing networks spanning entire star clusters, bio-digital hybrid technologies from multiple alien species, photorealistic rendering with dramatic cosmic lighting
+```
+
+### 10.1 Crystal Planet Culture
+```
+Crystalline cities with light-refracting architecture, mineral-based computing systems with prismatic interfaces, energy beings manifesting through geometric light patterns, crystalline gardens with bioluminescent flora, mineral-based transportation networks with light bridges, crystalline temples with harmonic resonance chambers, mineral-based art installations with color-shifting properties, crystalline defense systems with light-based weaponry, mineral-based communication devices with holographic displays, crystalline research facilities with quantum observation chambers, mineral-based energy collectors with solar prism arrays, crystalline living spaces with adaptive light environments, photorealistic rendering with dramatic crystalline lighting
+```
+
+### 10.2 Gas Giant Civilization
+```
+Floating cities suspended in atmospheric layers, gas-based technology interfaces with fluid dynamics, atmospheric energy harvesting systems with wind collectors, floating gardens with cloud-adapted flora, atmospheric transportation networks with wind tunnels, floating research stations with atmospheric analysis chambers, gas-based communication systems with pressure wave transmitters, floating defense platforms with atmospheric manipulation devices, gas-based computing networks with pressure differential processors, floating trading hubs with multi-layer docking stations, atmospheric art installations with cloud sculptures, floating living spaces with pressure-controlled environments, photorealistic rendering with dramatic atmospheric lighting
+```
+
+### 10.3 Ocean World Society
+```
+Underwater megacities with bioluminescent architecture, fluid-based technology interfaces with pressure controls, oceanic energy harvesting systems with current collectors, underwater gardens with coral-based structures, oceanic transportation networks with current tunnels, underwater research facilities with pressure chambers, fluid-based communication systems with sound wave transmitters, underwater defense systems with pressure manipulation devices, fluid-based computing networks with current differential processors, underwater trading hubs with multi-depth docking stations, oceanic art installations with living sculptures, underwater living spaces with pressure-adapted environments, photorealistic rendering with dramatic underwater lighting
+```
+
+### 10.4 Desert Planet Culture
+```
+Sand-sculpted cities with wind-resistant architecture, mineral-based technology interfaces with heat controls, desert energy harvesting systems with solar collectors, sand gardens with drought-resistant flora, desert transportation networks with wind tunnels, sand research facilities with temperature chambers, mineral-based communication systems with heat wave transmitters, desert defense systems with sand manipulation devices, mineral-based computing networks with temperature differential processors, desert trading hubs with multi-level docking stations, sand art installations with wind sculptures, desert living spaces with temperature-adapted environments, photorealistic rendering with dramatic desert lighting
+```
+
+### 10.5 Ice Planet Society
+```
+Ice-carved cities with thermal architecture, crystal-based technology interfaces with temperature controls, frozen energy harvesting systems with geothermal collectors, ice gardens with cold-resistant flora, frozen transportation networks with thermal tunnels, ice research facilities with temperature chambers, crystal-based communication systems with thermal wave transmitters, frozen defense systems with ice manipulation devices, crystal-based computing networks with temperature differential processors, frozen trading hubs with multi-layer docking stations, ice art installations with light-refracting sculptures, frozen living spaces with temperature-adapted environments, photorealistic rendering with dramatic ice lighting
+```
+
+## How to Use in Comfy-UI
+1. Copy the prompt that fits your needs
+2. Paste it into the text prompt field in Comfy-UI
+3. Adjust weights and other parameters as needed
+4. Combine positive prompts with negative prompts for more precise results
+
+## Recommended Negative Prompts
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures, abstract, non-physical, conceptual, lines, sketch, wireframe
+``` 

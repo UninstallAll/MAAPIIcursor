@@ -1,0 +1,69 @@
+# Comfy-UI 综合提示词集合
+
+## 10大科技与幻想交融场景提示词
+
+### 1. 高科技游戏与自然元素融合
+```
+A high-tech gaming setup with multiple screens displaying fantasy worlds, gaming peripherals with RGB lighting connected to virtual landscapes. Controllers on sleek desk surface with bioluminescent plants growing around them. Mountain castle with intricate architecture visible on curved monitors while real vines with glowing flowers intertwine with fiber optic cables. Virtual elements projecting into physical space through holographic displays interacting with exotic miniature trees. Gaming chair partially reclaimed by ornamental moss patterns that glow in sync with screen events. 8K photorealistic rendering with dramatic ambient lighting with blue and purple accents highlighting the harmonious blend of cutting-edge technology and natural elements.
+```
+
+### 2. 数据中心生物进化实验室
+```
+A detailed server room with glowing circuit boards and data visualization displays where experimental botanical species grow between server racks. Fiber optic cables forming organic branch-like patterns connecting to crystalline structures with bioluminescent fungi colonies forming along connection points. Digital information flowing as light pulses through transparent tubes resembling biological systems while actual circulatory systems of novel plant species mirror the data flows. Motherboards with bioluminescent elements growing like coral formations. Neural network visualization as physical structure with nodes housed in transparent terrariums containing miniature ecosystems. 8K photorealistic clarity with dramatic lighting highlighting the symbiotic relationship between technology and engineered biological systems.
+```
+
+### 3. 虚拟魔法全息投影系统
+```
+Advanced holographic projection system displaying ancient magical tomes with glowing binary script visible between pages. Mystical portal with circuitry patterns at edges, arcane symbols transitioning between ancient runes and computer code. Control center with multiple curved displays showing enchanted forest with data visualization elements floating between trees. Stone ruins with technological elements emerging from cracks while holographic interfaces respond to crystal-based control mechanisms. Quantum computing components designed to resemble magical artifacts, emitting patterned light sequences. Dramatic lighting highlighting the fusion between cutting-edge technology and mystical aesthetics, rendered in photorealistic detail with cinematic atmosphere.
+```
+
+### 4. 量子计算生物模拟中心
+```
+Quantum computer with organic components, its processing cores housed in crystal containers with bioluminescent cooling fluid. Fractal patterns growing across digital surfaces reflecting the same patterns in cultured biological specimens in adjacent chambers. DNA-like helical structures displayed on screens while actual DNA manipulations occur in automated precision laboratory environments. Branching tree-like structures made of flowing code projected above 3D printers creating corresponding biological structures. Growth patterns of digital crystals mimicking natural formations with actual crystalline growths in cultivation chambers. Circuit pathways mimicking synaptic connections while laboratory microscopes display actual neural tissue with embedded quantum sensors. Dramatic blue and purple lighting highlighting the synchronized evolution of digital and biological systems.
+```
+
+### 5. 战略环境模拟指挥中心
+```
+Strategic command center with interactive environmental simulation displayed across multiple screens with actual miniature ecosystem models positioned between displays showing real-time comparisons. Climate system models with atmospheric interactions projected onto geodesic dome ceiling while actual weather patterns are generated in sealed atmospheric chambers below. Marine ecosystem visualization with food web connections shown through holographic animations above actual marine biodiversity tanks. Ecological simulation displaying forest development across time with corresponding physical bonsai forest showing accelerated growth patterns based on simulation variables. Resource management interfaces with dramatic lighting highlighting the bridge between digital projections and physical miniaturized ecosystems, rendered in 8K resolution with perfect clarity on critical data points.
+```
+
+### 6. 智能建筑环境融合系统
+```
+Architectural marvel combining cutting-edge smart building technology with self-sustaining biospheres. Transparent displays showing building system analytics embedded within living walls covered with exotic plant species. Environmental control center where Byzantine-inspired domes house advanced climate regulation systems alongside thriving indoor gardens. Interior spaces that reconfigure based on natural light patterns and occupant behavior while cultivated vines form natural privacy screens that grow in response to spatial analytics. Walls with embedded sensors designed to resemble ancient mosaics monitoring air quality while fountains transform into water purification systems at scheduled intervals. Dramatic lighting highlighting the seamless integration of technological monitoring systems with responsive natural elements, rendered in photorealistic detail with perfect architectural precision.
+```
+
+### 7. 先进科技与传统元素交易中心
+```
+Luxury technology showcase room with multiple curved displays monitoring global markets adjacent to traditional marketplace structures. High-end electronic devices arranged on modernist furniture crafted from sustainable exotic woods. Merchants displaying both cutting-edge gadgets in minimalist display cases alongside traditional crafts in antique display cabinets. Analytics engines tracking consumer behavior displayed on translucent screens while traditional scales with modern sensors measure customer engagement with physical products. Professional lighting equipment positioned around hybrid products combining technological innovations with traditional craftsmanship. 8K photorealistic rendering with dramatic blue and gold lighting highlighting the harmonic contrast between digital analytics and traditional commerce methodologies.
+```
+
+### 8. 数字创意工匠工作室
+```
+Advanced digital design studio with traditional craftsman elements, where holographic 3D modeling interfaces float above antique woodworking benches. Multiple high-resolution displays showing generative design algorithms while master craftsmen use both traditional tools and computer-guided precision instruments. Motion capture systems recording traditional techniques for AI analysis beside 3D printers creating components based on ancient crafting methodologies. Material analysis laboratories with spectroscopic equipment examining traditional pigments and materials to create digital equivalents. Weather prediction algorithms determining optimal conditions for traditional crafting processes displayed on wall-mounted screens. Natural lighting through stained glass windows casting colorful patterns across carbon fiber fabrication stations. Dramatic lighting highlighting both technological precision equipment and traditional handcrafting processes occurring simultaneously.
+```
+
+### 9. 人工智能与自然景观协同系统
+```
+Advanced AI landscape management system where digital twins of natural environments are displayed across high-resolution screens adjacent to actual terrarium environments being shaped by robotic systems. Environmental monitoring sensors disguised as weathered stone formations transmitting data to central processing systems with visualization displays. Automated cultivation systems with precision mechanical components partially covered by flowering vines that provide key environmental data. Massive tree root systems growing through specialized containers equipped with monitoring equipment. Weather pattern analysis software projecting optimal growth conditions onto actual plant specimens through targeted lighting systems. Dramatic natural-spectrum lighting highlighting the harmonious relationship between cutting-edge environmental simulation technology and responsive natural systems.
+```
+
+### 10. 感官增强现实环境
+```
+Mixed reality laboratory where sensory experiences are amplified through advanced technological interfaces disguised as natural elements. Interactive displays projecting synesthetic visualizations where sound appears as intricate color patterns flowing between specially engineered acoustic chambers. Neural interfaces disguised as ornate crystal formations scanning brain responses to synthetic and natural stimuli. Scent generation systems with chemical analysis displays creating precise emotional responses through perfectly calibrated aromatics. Haptic feedback systems using both mechanical and organic components to create unprecedented tactile experiences. Dramatic scientific lighting highlighting the convergence of sensory neuroscience and immersive technology, with data visualization displays showing real-time participant responses rendered in 8K photorealistic detail.
+```
+
+### 11. 未来城中村交融场景
+```
+Urban village where ancient architecture and ultramodern technology coexist in chaotic harmony. Narrow alleyways lined with traditional brick buildings retrofitted with transparent solar panels and holographic signage displaying neighborhood data analytics. Rooftop gardens equipped with automated hydroponic systems managed by elderly residents using simplified AR interfaces on their windows. Centuries-old temples with smart environmental control systems disguised as traditional architectural elements. Street food vendors using voice-controlled molecular gastronomy tools alongside ancient cooking methods. Makeshift electrical systems with exposed wires wrapped around ancient wooden beams, powering both antique appliances and cutting-edge devices. Drone delivery systems navigating through clothes lines hanging between buildings. Environmental monitoring sensors disguised as traditional decorative elements on doorways. Evening scene with dramatic contrast between warm traditional lantern lighting and cool blue LED illumination. 8K photorealistic rendering capturing the textural contrast between weathered stone, rust-streaked metal, and sleek technology.
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 根据需要调整权重和其他参数
+4. 可以将正面提示词与负面提示词组合使用以获得更精确的结果
+
+## 建议的负面提示词
+```
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures, lens flare, strong glow, neon, UI elements, text, logo
+``` 

@@ -1,3 +1,6 @@
+你把这些prompt给我进行视觉化转换，不要那么多抽象形容词，只需要互相有关系的名词和对他们的而形容词，用于图像生成
+
+
 # Concrete Visual Prompts for Image Generation
 
 These prompts are optimized for StreamDiffusion, StableDiffusion, and Flux models with specific visual elements to produce detailed images.
