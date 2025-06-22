@@ -1,0 +1,59 @@
+# Comfy-UI 优化提示词集合：游戏模拟与叙事体验
+
+## 总体主题提示词 (优化版)
+
+```
+An immersive gaming environment with detailed console setup captured with cinematic wide-angle lens, multiple 8K OLED screens displaying ray-traced fantasy worlds with volumetric fog effects. High-tech ergonomic gaming chair with pulsing RGB lighting casting color patterns on brushed aluminum surfaces, mechanical keyboards with translucent keycaps and customized controllers arranged on minimalist carbon fiber desk. Atmospheric room lighting with programmable LED strips creating depth through layered illumination, photorealistic ray-traced reflections on polished glass and metal surfaces. Rendered in 8K photorealistic clarity with DLSS enhancement, perfect balance between shadow and highlight detail, shallow depth of field focusing on central gaming interface while background elements remain slightly blurred, color grading favoring deep blues and vibrant magenta accents creating cyberpunk aesthetic.
+```
+
+## 分段提示词列表 (优化版)
+
+### 1. 第三人称视角与角色映射
+```
+Ultra-detailed gaming screen displaying expansive fantasy landscape captured with anamorphic lens, ancient mountain castle with intricate Gothic architecture featuring weathered stone textures and moss-covered crenellations, volumetric ray-traced lighting filtering through ancient gnarled trees creating god rays across the scene. Abandoned knight's armor with realistic metal patina and fabric deterioration visible on stone paths, glowing arcane runes etched into weathered granite monuments emitting subtle cyan illumination. Hyperrealistic vegetation with individual leaf detail and procedurally generated ground cover, dynamic shadow systems creating depth across the terrain. Shot with cinematic composition using rule of thirds, color grading favoring golden hour tones with teal shadows enhancing atmospheric depth, subtle film grain adding texture without compromising 8K clarity.
+```
+
+### 2. 玩家选择与故事展开
+```
+Gaming interface showing intricate branching pathways in ancient forest setting captured with medium telephoto lens, golden decision markers hovering over ornate stone pedestals with subsurface scattering revealing crystalline interior structure. Overgrown ruins featuring multiple doorways with distinct architectural styles suggesting different narrative paths, hand-carved signposts with weathered wood textures pointing in divergent directions. Mystical directional light beams with volumetric particles highlighting various paths through cinematic fog, meticulously detailed fallen maple leaves with translucent edge lighting scattered across moss-covered stones with photorealistic moisture effects. Rendered with hyper-realistic global illumination creating perfect ambient occlusion in shadow areas, color palette balancing earthy forest tones with magical accent lighting, composition using leading lines to draw attention to choice points, extremely shallow depth of field focusing precisely on central decision interface.
+```
+
+### 3. 虚拟世界的"已完成"错觉
+```
+Breathtaking digital landscape with technically perfect incomplete rendering visible at edges captured with ultrawide lens, meticulously detailed medieval castle with fully constructed central towers transitioning to partially wireframed structures at periphery revealing underlying geometry. Dense coniferous forest with photorealistic foliage and bark textures gradually transitioning to basic wireframe models at boundaries with visible polygon edges, physically accurate water simulation with realistic caustics and reflection properties dissolving into mathematical grid patterns at shoreline. Floating islands with photoreal geological formations and vegetation featuring missing procedural sections revealing the simulation framework, atmospheric volumetric mist strategically hiding unfinished terrain with beautiful light scattering properties. Ancient architecture with 8K stone textures and realistic weathering effects partially revealing underlying framework grid with glowing edge highlights. Cinematically composed with dramatic aerial perspective, color grading contrasting completed areas in warm natural tones against cool blue-green wireframe elements, rendered using cutting-edge path tracing for physically accurate lighting simulation.
+```
+
+### 4. 重复与游戏的说服力
+```
+Intricately designed circular stone path winding through enchanted forest captured with tracking dolly shot perspective, luminescent footprints with particle effects forming mathematically perfect repeating patterns across weathered granite surfaces with photorealistic lichen textures. Arcane artifacts with detailed metallic and crystalline materials creating spiraling light trails when activated, ancient clockwork mechanism with procedurally animated cyclical motion featuring realistic metal patinas and mechanical wear patterns. Architectural marvel of spiral staircase in magical crystal tower with recurring mathematical design elements rendered with physically accurate material properties, ornate mystical portal archway with dimensional distortion effects showing echoed previous destinations through rippling spacetime visualization. Elaborately crafted astronomical clock with multiple interlocking gears featuring microscopic engraving detail and realistic metal reflectivity. Composed with perfect radial symmetry emphasizing cyclical nature, color palette featuring complementary purple and amber tones creating magical atmosphere, rendered with state-of-the-art global illumination creating perfect shadow interaction between repeating elements.
+```
+
+### 5. 代码的现实提醒
+```
+Hyper-detailed fantasy gaming screen with precisely rendered digital glitches revealing underlying code patterns captured with macro lens, ancient leather-bound magical tome with weathered parchment pages parting to reveal glowing binary script with realistic light emission properties illuminating surrounding objects. Ornate mystical portal with eldritch symbols around rim featuring technological circuitry patterns emerging at edges with subtle electrical effects, photorealistic enchanted forest with individually rendered leaves and undergrowth interspersed with floating holographic data visualization elements casting colored shadows on natural surfaces. Crumbling stone ruins with realistic erosion patterns revealing technological components emerging from fractures with contrasting material properties, magical artifacts with photorealistic gemstone and metal textures dissolving into precisely rendered digital particles with volumetric lighting effects. Fantasy interface elements with ornate medieval design breaking into fragmented code with matrix-like cascading effect. Dramatic chiaroscuro lighting creating renaissance-inspired contrast between natural and digital elements, color grading featuring strong contrast between organic forest greens and electric blue code elements, composition using intersecting diagonals to create visual tension between fantasy and technology.
+```
+
+### 6. 质疑虚拟经验
+```
+Technically perfect split-screen display showing contrasting hyper-detailed fantasy world beside abstract digital interface captured with precision prime lens, ornate ancient magical mirror with photorealistic tarnished silver frame reflecting cascading digital code instead of expected reflection. Enchanted forest with individually rendered foliage and realistic wind animation dissolving into precisely modeled data streams at boundaries with particle transition effects, meticulously detailed gaming setup featuring brushed aluminum and carbon fiber textures with multiple curved OLED displays showing different reality versions of same scene with varying physical laws. Ornately crafted mystical portal archway with dimensional warping effects and realistic stone texturing showing parallel world versions with subtle differences in physical properties, ancient scroll collection with realistic parchment material properties containing advanced digital diagrams with holographic projection effects. Magically infused crystalline structures with physically accurate light refraction properties projecting wireframe landscapes onto surrounding environment. Shot with architectural photography techniques emphasizing symmetry and scale, color grading using complementary orange and teal palette to differentiate real and virtual elements, lighting setup creating dramatic rim lighting on physical objects while virtual elements emit their own illumination.
+```
+
+### 7. 底层代码的暴露
+```
+Majestic fantasy castle architecture with photorealistic stone masonry and atmospheric lighting revealing sectional wireframe structure underneath captured with cinematic drone perspective, ancient enchanted forest with individually rendered trees and atmospheric fog transitioning seamlessly to glowing digital framework with visible code structures. Meticulously crafted magical ruins with realistic weathering effects and moss growth revealing exposed technological elements with contrasting material properties, mystical dimensional portal with ornate decorative elements deconstructing into fundamental code mathematics with floating equation fragments. Architecturally impressive ornate stone bridge with realistic geological materials dissolving at edges into digital binary patterns with particle effects, magical landscape with physically accurate natural elements peeling away like layers of reality to show underlying mathematical grid with pulsing energy patterns. Ancient magical artifacts with detailed metalwork and gemstone inlays breaking apart in slow-motion to reveal technological cores with circuitry details and power sources. Shot with anamorphic widescreen lens creating cinematic letterbox framing, lighting design creating dramatic contrast between warm natural light on physical elements and cool blue illumination from digital components, rendered with cutting-edge ray-tracing technology for perfect reflections and light interaction between disparate material types.
+```
+
+## 负面提示词 (优化版)
+```
+bad anatomy, bad proportions, malformed limbs, extra limbs, missing fingers, extra fingers, fused fingers, too many fingers, missing arms, extra arms, missing legs, extra legs, mutated hands, poorly drawn hands, floating limbs, disconnected limbs, deformed, blurry, grainy, signature, watermark, copyright, cropped image border, username, artist name, low quality, low resolution, worst quality, jpeg artifacts, poorly drawn face, bad face, fused face, cloned face, worst face, three claw five fingers, text, error, missing fingers, extra digit, fewer digits, cropped, normal quality, missing arms
+```
+
+## 如何在Comfy-UI中使用
+1. 复制适合您的提示词
+2. 将其粘贴到Comfy-UI的文本提示输入字段中
+3. 将负面提示词粘贴到负面提示字段中
+4. 根据需要调整权重和其他参数（建议正面提示词权重为7-12，负面提示词权重为0.8-1.2）
+5. 推荐使用的模型：Stable Diffusion XL、Dreamshaper或MidJourney风格模型
+6. 推荐CFG值：7-9
+7. 推荐采样器：DPM++ 2M Karras或Euler a
+8. 推荐步数：30-50（需要权衡质量和生成速度） 
