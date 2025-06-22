@@ -1,46 +1,46 @@
-# Comfy-UI 提示词集合：元游戏与现实交织
+# Comfy-UI 提示词集合：游戏与现实交织
 
 ## 总体主题提示词
 
 ```
-A high-tech gaming setup with multiple screens displaying fantasy worlds, gaming peripherals with RGB lighting connected to virtual landscapes. Gaming chair with haptic feedback systems, controllers on sleek desk surface. Virtual elements projecting into physical space through holographic displays. 8K photorealistic rendering with detailed textures on all surfaces, dramatic ambient lighting with blue and purple LED accents highlighting the connection between devices and digital worlds.
+Mystical gaming sanctuary, curved display with fantasy world, ancient stone archway framing monitor, mechanical keyboard with wooden keycaps, leather-bound grimoire beside mouse pad, crystal prism refracting screen light, brass telescope pointed at digital constellations, antique hourglass measuring loading times, vintage CRT monitor with moss growing at edges, alchemical vials with glowing liquids, wooden desk with carved runes, fantasy map with both real and digital landmarks, hanging botanical specimens with fiber optic veins, chess pieces made of polished stone on digital board, steampunk lever controlling game settings, fantasy castle on main screen, 8K photorealistic scene
 ```
 
 ## 分段提示词列表
 
-### 1. 游戏反思模拟本身
+### 1. 游戏界面与代码层
 ```
-Gaming screen displaying game-within-game interface, digital world with fragments of code visible at edges, castle ruins with technological elements emerging from stones, fantasy landscape with digital glitches revealing underlying structure, ornate gaming setup with multiple monitors showing recursive worlds, ancient tome with glowing circuit patterns, forest path transitioning into digital wireframe at horizon
-```
-
-### 2. 玩家成为观察对象
-```
-Empty gaming chair facing multiple monitors displaying forest worlds, surveillance camera feed showing abandoned gaming setup, recursive screens-within-screens showing fantasy landscapes, reflective surfaces displaying game world rather than reflections, glowing cables connecting empty headset to digital forest scene, gaming peripherals casting digital shadows on desk surface
+Gaming screen showing arcane symbols at edges, stone ruins with faint digital patterns, magical runes transforming into code sequences, crystal orb reflecting matrix patterns in sky, carved wooden frame around nested screens, ancient tome with pages shifting between text and circuits, stone pathway with embedded glowing symbols, recursive mirrors showing smaller versions of same scene, enchanted glass surface with magical interface, brass telescope revealing code beneath game surface, candles with flames that change color based on code execution, stone table with projected interface
 ```
 
-### 3. 现实元素影响游戏
+### 2. 空置游戏设备
 ```
-Gaming equipment arranged around ornate chess board with digital game pieces, currency and upgrade cards scattered near keyboard affecting virtual landscape on screen, luxury gaming peripherals connected to fantasy castle displayed on monitor, environmental sensors modifying digital weather patterns in forest scene, financial charts beside game display showing economic impacts on virtual kingdom
-```
-
-### 4. 竞技与RPG游戏中的现实规则
-```
-Digital fantasy character stats projecting onto physical objects, empty esports arena with scoreboards displaying economic data, strategic map with resource allocation diagrams, gaming setup with multiple screens showing RPG inventory beside market analytics, ancient fantasy world on main display with modern economic overlays, trophy cabinet with digital enhancements, strategic boards with game world territory markings
+Ornate throne-like chair with no occupant, three floating crystal displays showing forest scene, owl perched on empty headset stand, stained glass window reflecting screen images, empty tea cup with digital steam rising, abandoned quill pen beside keyboard, screens showing screens within screens, reflective black marble surface showing digital scenery instead of reflections, phantom controller outlines glowing in darkness, enchanted candles automatically illuminating keyboard with no user, shadow of absent player cast by screen light, grandfather clock with mechanical gears visible through glass face
 ```
 
-### 5. 媒介视角下的元游戏
+### 3. 现实物品影响游戏
 ```
-Gaming console with screens displaying educational content about game design, disassembled controller revealing technological components beside fantasy world display, museum-like display of gaming history with digital enhancements, ancient gaming artifacts with modern annotations floating beside them, technological timeline showing evolution of digital worlds, screens displaying code architecture behind fantasy landscapes, archaeological artifacts transitioning into digital game elements
-```
-
-### 6. 同步体验现实与超现实
-```
-Split-screen monitor displaying forest world alongside digital circuit version of same landscape, gaming keyboard with keys that transform into elements matching screen display, curved monitor with half physical/half digital forest scene, desk surface with projected game elements merging with physical objects, clock showing synchronized time across physical and digital display worlds, environmental elements like plants and stones mirrored by digital versions on screen
+Wooden chess board with pieces affecting digital battlefield, ancient coins scattered near keyboard altering in-game currency, weathered compass affecting directional mechanics in game, astronomical tools predicting game weather patterns, forest scene with rain controlled by real plant moisture, tarot cards beside screen influencing character choices, medieval castle on screen responding to physical book positions, worn leather travel journal with pages appearing in digital inventory, brass scales weighing game resources, ink pot with changing colors mirrored in game palette, natural crystal formations affecting in-game energy fields
 ```
 
-### 7. 模拟侵入现实
+### 4. 游戏数据实体化
 ```
-Digital forest elements extending beyond screen boundaries onto desk surface, game world environment affecting physical objects through projection mapping, fantasy castle architecture emerging from gaming setup, digital weather effects casting light patterns across physical room, virtual forest foliage growing around physical gaming equipment, mystical energy effects flowing between screen and controller, ancient artifacts from game materializing beside keyboard
+Character statistics materializing as constellation patterns, stadium miniature with glowing scoreboard elements, painted battle map with physical markers representing digital troops, inventory items appearing as shadow objects on desk, market resources shown as growing and withering plants in terrariums, fantasy world map with illuminated zones matching economic prosperity, trophy display with physical objects casting digital shadows, wooden strategy board where moving pieces changes game world, alchemical apparatus measuring game statistics with bubbling liquids, astronomical model showing player progression through game levels
+```
+
+### 5. 游戏设计与历史
+```
+Ancient scroll showing evolution of game design principles, glass museum cases with archeological gaming artifacts, stone tablets with early game symbols beside modern controllers, primitive counting tools evolving into calculation devices, sand table showing landscape evolution in games, antique printing press creating game card elements, cartography tools creating both physical and digital maps, illuminated manuscripts showing early character designs, ancient theater masks representing game character archetypes, astronomical tools used for game world navigation, clay tablets with cuneiform writing beside digital text
+```
+
+### 6. 现实与数字并行
+```
+Window looking out to forest with digital overlay, handcrafted wooden keyboard with keys containing miniature landscapes, curved mirror reflecting half-physical half-digital world, wooden desk with forest elements growing through digital projections, sundial with both shadow and digital time display, terrarium with living plants beside identical digital plants, leather-bound book with pages that become digital when opened, quill pen writing both physical ink and digital text simultaneously, physical chess pieces moving in sync with digital game pieces, spinning globe with digital information overlays
+```
+
+### 7. 游戏元素溢出屏幕
+```
+Magical forest branches extending from screen into physical space, fantasy environment creating real mist in room, castle tower physically emerging from monitor frame, water features from game creating real water ripple effects on desk, enchanted vines growing around physical objects, magical energy connecting antique controller to screen, stone artifacts from game world materializing on desk, stained glass panels casting colored light patterns matching game environment, shadow puppets forming from game character silhouettes, alchemy apparatus creating actual fog effects matching screen environment, celestial map on ceiling reflecting game world geography
 ```
 
 ## 如何在Comfy-UI中使用
@@ -51,5 +51,5 @@ Digital forest elements extending beyond screen boundaries onto desk surface, ga
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures, abstract, non-physical, conceptual
 ``` 

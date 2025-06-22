@@ -1,56 +1,56 @@
-# Comfy-UI 提示词集合：算法模拟与认知延伸
+# Comfy-UI 提示词集合：算法与认知延伸
 
 ## 总体主题提示词
 
 ```
-A detailed server room with glowing circuit boards and data visualization displays. Fiber optic cables forming organic branch-like patterns connecting to crystalline structures. Digital information flowing as light pulses through transparent tubes. Motherboards with bioluminescent elements growing like coral formations. 8K photorealistic clarity with clear detail in the central server rack, dramatic blue and purple lighting highlighting the intricate connections between hardware components.
+Clean server room, polished white server racks, blue LED status lights, transparent glass panels, organized fiber optic cables, dark blue cooling tubes, large data visualization monitor, black mesh server doors, crystal-shaped data storage unit, gray floor tiles, ambient blue lighting, silver metal frames, clear plastic cable management, security keypad, black rolling chair, laptop displaying code
 ```
 
 ## 分段提示词列表
 
-### 1. 计算机模拟的双重性
+### 1. 计算过程可视化
 ```
-Advanced computing hardware with binary code projections onto surrounding surfaces, circuit boards with flowing light patterns resembling river systems, motherboard landscape with miniature city-like structures formed by components, glowing transistors arranged in symmetrical patterns, close-up of RAM modules with light pulses traveling through crystalline pathways, cooling systems with liquid resembling neural networks
-```
-
-### 2. 符号规则构建第三空间
-```
-Digital architecture floating in void space, crystalline data structures forming geometric landscapes, glowing symbolic patterns etched into metallic surfaces, virtual environment with mathematical formulas materializing as physical objects, servers projecting holographic environments filled with abstract symbols, gateway-like structures built from circuit patterns leading to digital realms
+Gray server tower, green circuit board, coiled blue cables, flat screen monitor with binary code, black keyboard, cooling fan with blue light, antique abacus on desk, glass CPU case, RAM sticks with heatsinks, transparent liquid cooling tubes, microscope beside microchips, Matrix-style code display, network router with blinking lights, old punched cards in display frame
 ```
 
-### 3. 算法语言的再现与生成
+### 2. 数据空间结构
 ```
-Fractal patterns growing across digital surfaces, generative art forming on multiple display screens, branching tree-like structures made of flowing code, 3D printer creating intricate objects based on algorithmic designs, growth patterns of digital crystals mimicking natural formations, server farm with each unit generating unique visual patterns on connected displays
-```
-
-### 4. 认知过程的数字化映射
-```
-Neural network visualization as physical structure with glowing nodes, server racks arranged in brain-like patterns, flowing data streams between quantum computing components, circuit pathways mimicking synaptic connections, digital landscape with paths representing decision trees, crystalline structures storing and processing light-based information
+Film studio set with data visualization wall, track lighting grid overhead, server racks arranged geometrically, cinema camera on dolly tracking server movement, virtual data cubes captured on greenscreen, director's monitor showing wireframe overlay, boom microphone suspended over data center, light meter measuring server LED brightness, solid dark resin floor with data flow markings, film slate with "DATA ARCHITECTURE" text, key light illuminating central server, fresnel spotlight focused on holographic projector, server nodes arranged like film set, backdrop with blue grid pattern, gaffer tape marking data cable paths, grip equipment securing suspended server units, pyramid-shaped data crystal on pedestal, production equipment cases storing technology
 ```
 
-### 5. 重新审视生命本质
+### 3. 生成算法表现
 ```
-Robotic assembly line creating self-replicating machines, 3D printed structures evolving through iterative designs, digital ecosystem displayed across multiple screens with evolving virtual lifeforms, laboratory environment with artificial cells growing in transparent containers, mechanical structures with bioluminescent components, evolutionary algorithms visualized as growing crystalline formations
-```
-
-### 6. 生命作为信息流动
-```
-Glowing data streams forming DNA-like helical structures, server farm with information flowing between units like circulatory system, quantum computer with pulsing light patterns mimicking cellular activities, digital garden with code-generated plants growing on screens, crystalline structures storing and transmitting bioluminescent data, flowing light patterns forming complex emergent systems
+3D printer creating geometric object, spiral pattern printout, black workstation with multiple monitors, hanging fractal artwork, tree-like circuit sculpture, white computer with graphical outputs, architectural blueprint table, digital drawing tablet, mathematical pattern reference charts, DNA model sculpture, cellular automata printed patterns, WOPR-style computer terminal from WarGames, vintage analog synthesizer
 ```
 
-### 7. 算法作为权力载体
+### 4. 认知过程的映射
 ```
-Massive server infrastructure nestled within ornate architectural elements, hidden cameras and sensors embedded in decorative structures, smartphone displaying multiple tracking metrics beside traditional scales, banking terminal with code visualization showing biased sorting patterns, social media interface revealing hidden filtering systems through glowing highlights, search engine results displayed as manipulated landscape
-```
-
-### 8. 程序修辞的影响机制
-```
-Multiple screens displaying different interface designs for same function, maze-like pathways with choice points illuminated differently, digital signage with persuasive elements highlighted, smartphone interfaces with certain options more prominently lit, vending machine with algorithmic pricing visualization, smart home devices arranged to show data collection patterns
+Neural network model on display stand, brain scan images on light wall, server rack arranged in brain hemisphere shape, wooden neural pathway sculpture, anatomical brain model, fiber optic threads in branching patterns, decision tree diagram on whiteboard, clear crystalline computer, vintage mainframe computer cabinet, HAL 9000-style red camera lens, synapse-inspired light fixture, medical imaging screens, old psychology textbooks
 ```
 
-### 9. 算法模拟影响现实
+### 5. 人工生命研究
 ```
-Smart city model with algorithm-controlled traffic systems, automated factory with digital twin visualization, stock exchange displays showing algorithmic trading patterns, farmland with drone monitoring and automated systems, climate model visualization on multiple screens affecting simulated environment, architectural plans being modified by optimization algorithms displayed in real-time
+Glass laboratory vessels, robotic arm assembly, 3D printed cellular structures, digital microscope, petri dishes with circuitry patterns, evolution simulation on monitor, mechanical insect models, self-replicating machine diagrams, glowing bioreactors, climate-controlled growth chamber, genetic sequence printouts, Westworld-style diagnostic tablet, artificial cell container tubes, illuminated DNA helix model
+```
+
+### 6. 信息流动系统
+```
+Server with clear side panel, flowing blue liquid cooling system, DNA sculpture made of cables, circular data visualization screen, pulsing fiber optic network map, quantum computer model, glass tubes with flowing colored liquid, botanical garden with sensor equipment, server farm cooling system, network security terminal, TRON light cycle model, old telegraph equipment beside modern servers, anatomical circulatory system model
+```
+
+### 7. 算法控制系统
+```
+Surveillance camera cluster, black server tower with government seal, biometric scanner, formal wooden desk with hidden monitors, elegant marble column hiding server equipment, classic weighing scales beside digital sensor, banking terminal with exposed wiring, filtering algorithm flowchart, search engine server rack, social media mobile device display, Minority Report-style transparent computer screen, privacy screen filters, security access cards
+```
+
+### 8. 界面设计实例
+```
+Wall of different smartphone designs, user interface wireframe models, split-screen monitor with different layouts, illuminated directional signs, digital signage with attention-tracking camera, interface mockup boards, vending machine with digital price display, smart home control panel, WarGames WOPR terminal, classic arcade machine beside modern interface, Star Trek LCARS interface panel, choice architecture diagram, eye tracking equipment
+```
+
+### 9. 算法影响现实
+```
+City model with traffic light system, factory automation control center, stock trading desk with multiple monitors, agricultural drone on charging station, weather monitoring equipment, architectural planning table with projection mapping, urban planning model, miniature autonomous vehicles, Blade Runner-style city scanner, digital twin display of physical system, climate data visualization screens, satellite imaging maps, Her-style AI assistant device
 ```
 
 ## 如何在Comfy-UI中使用
@@ -61,5 +61,5 @@ Smart city model with algorithm-controlled traffic systems, automated factory wi
 
 ## 建议的负面提示词
 ```
-bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures
+bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, text, error, blurry, cropped, deformed, disfigured, mutation, watermark, signature, username, human, person, people, face, figures, abstract concept, metaphor, complex idea, conceptual, non-physical
 ``` 
