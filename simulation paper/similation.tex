@@ -1,9 +1,10 @@
 % !TeX program = pdflatex
-\documentclass[sigconf,nonacm]{acmart}
+\documentclass[sigconf,authordraft]{acmart}
 \settopmatter{printacmref=false} % Removes citation information below abstract
 \renewcommand{\footnotetextcopyrightpermission}[1]{} % removes footnote with conference info
 \pagestyle{plain} % removes running headers
 \usepackage{hyperref}
+\usepackage{graphicx}
 
 % If needed, include other packages here
 
@@ -19,7 +20,16 @@
   \country{Germany}}
 \email{shuai.liu@khm.de}
 
-\renewcommand{\shortauthors}{Liu Shuai}
+% Second author
+\author{Mar Canet Sola}
+\affiliation{%
+  \institution{Baltic Film, Media and Arts School, Tallinn University}
+  \city{Tallinn}
+  \country{Estonia}}
+\email{mar.canet@tlu.ee}
+
+% Update short author list
+\renewcommand{\shortauthors}{Liu Shuai, Mar Canet Sola}
 
 \begin{document}
 %--------------------
@@ -27,6 +37,7 @@
 %--------------------
 \begin{abstract}
 % 150–250 words. Briefly state background, core questions, methods/media (TouchDesigner, StreamDiffusion, Topaz, ComfyUI, Flux Image Model), visual/aural style, and intended socio-cultural or aesthetic reflection.
+"Prosomoíosi (Simulation) is a real-time audiovisual study of how successive modelling frameworks overwrite cultural memory. Grounded in media archaeology, the work introduces 'medium alignment', arguing that concepts must be voiced through media that expose their operative logic. A live diffusion pipeline with multi-prompt editing stages the algorithmic politics of selective remembrance, inviting audiences to renegotiate authorship and selfhood at the human–machine frontier."
 \end{abstract}
 
 \begin{CCSXML}
@@ -37,43 +48,67 @@
 \ccsdesc[500]{Applied computing~Media arts}
 \ccsdesc[300]{Computing methodologies~Artificial intelligence}
 
-\keywords{AI art, simulation, comfyUI,media art}
+\keywords{AI video, simulation, comfyUI, media art, realtime generation,}
 
 \maketitle
 
 %--------------------
+% Full-width figure after authors
+%--------------------
+
+
+%--------------------
 % 3. Artwork Description
 %--------------------
-\section{Artwork Description}
-
-
+\section{ARTWORK DESCRIPTION}
+Prosomoíosi (Simulation) is a real-time audiovisual work that, from a media-archaeological perspective, introduces the concept of \emph{medium alignment} to interrogate how successive technical frameworks rewrite memory and identity. The project pursues two intertwined objectives: (1) to reveal, through a stratified narration of simulation logics, the ways in which each new medium silently overwrites cultural memory; and (2) to expose the algorithmic selectivity and symbolic power of AI image synthesis by staging a self-reflexive demonstration built on a TouchDesigner--StreamDiffusion workflow with real-time multi-prompt editing and ComfyUI up-scaling using the \textit{flux-dev f16} model. By allowing text prompts, parameter noise, and performer interventions to co-evolve on the exhibition floor, the work shifts image production from an act of depiction to one of ontological negotiation, inviting audiences to reconsider the future relationship between human creativity and machine simulation.
 \section{ABOUT THE ARTWORK}
-\subsection{Project Background and Theoretical Starting Point}
+\subsection{PROJECT BACKGROUND AND THEORETICAL STARTING POINT}
 % Describe the issues/themes explored and cite relevant theories.
 
-\subsection{Workflow}
+Simulation is not a simple act of copying or representation but a power-laden rewriting produced through the mutual operations of technology, archives, and algorithms. As Wolfgang Ernst shows, the temporality of the archive shapes memory while quietly editing the past; Benjamin had already foreseen the aura's dissolution under mechanical reproduction, and Baudrillard later warned that simulacra are supplanting reality itself. Traversing a lineage "from clay to code," from sand tables and armillary spheres to deep learning and GANs, modeling technologies have been elevated from cognitive instruments to arbiters of truth: large networks such as GPT-4 and ESM-2 autonomously generate worlds from latent space and even discipline human decision-making, thereby transforming the human–reality relation. Within this landscape, games have become the most pervasive simulation medium; by breaching a "fourth wall," they situate players in a hybrid third space where procedural rhetoric allows symbolic capital and ideology to permeate interaction, extending McLuhan's dictum that "the medium is the message" and Bourdieu's analysis of symbolic power. Educational and political simulations—SimCity, PeaceMaker—and Lorenz-style chaotic systems further attest to simulation's deep shaping of behavior and cognition. Faced with the media mutations of an algorithmic society, art must practice medium alignment, expanding AI alignment into a perceptual–symbolic calibration at the level of the medium itself; positioned between Stiegler's "third memory" and Yuk Hui's "cosmic technics," this critical posture responds to both the contingency and necessity of technology and aims to reconstruct a future of human–machine–medium symbiosis.
+
+
+
+\subsection{WORKFLOW}
 % Outline the concrete production pipeline.
 % 两张图片都加在这个地方
+This project adopts the following workflow: First, found footage, gameplay recordings, or theoretical videos serve as the generative foundation. Next, within TouchDesigner, the StreamDiffusion plugin node developed by dotsimulate is invoked to perform model-dependent transformations, producing an output frame rate that varies between 4 and 14 fps according to the selected model. Because this frame rate is lower than the standard 24 fps, the original footage is initially slowed down and the generated output is then proportionally re-accelerated, ensuring that the resulting material contains the same number of frames as the generated sequence. The generated video is subsequently exported frame by frame and fed into the Flux upscaling workflow in ComfyUI, where each frame undergoes high-definition enlargement. In post-production, AI tools such as Topaz for frame interpolation may be selectively considered.
 
-\subsection{Presentation and Interaction}
+In the ComfyUI workflow, the image is first enlarged with the Siax~4$\times$ super-resolution model. The upscaled frame is then divided into tiles via the \texttt{TTP\_Tile\_image\_size} node (tile-size estimation), \texttt{TTP\_Image\_Tile\_Batch} (batch slicing), and \texttt{TTP\_Image\_Assy} (re-assembly). Each tile is subsequently refined by the Flux model and its LoRA in only four Euler sampling steps, after which all tiles are stitched back together to yield a memory-friendly, sharper high-resolution result.
+
+\subsection{PRESENTATION AND INTERACTION}
 % Final format (video, interactive web, installation, etc.), sound design, exhibition platform.
+The work is available in two display formats:  
+(1) A 4K DCP cinema version (24/50 fps, REC.709, 5.1 surround) for theatrical or festival screenings;  
+(2) A gallery version looped from the same finished file, projected in 4K with four-channel audio. Both versions retain identical colour and dynamic-range calibration, allowing seamless presentation in black-box theatres and white-cube exhibition spaces.
 
 %--------------------
 % 4. Artists' Statement
 %--------------------
 \section{ARTIST STATEMENT}
-% Focus on creative intent, philosophical stance, and medium critique.
+Media and technology are understood here as mutually floating systems whose evolution should remain commensurate; minor misalignments are inevitable, yet forcibly sealing every interval between them is deemed counter-productive, for many epistemic and practical gaps are retroactively resolved by subsequent technical and artistic breakthroughs.  My artistic practice therefore positions artificial intelligence not merely as a tool for image generation but as a historico-technical agent that reorganises the very conditions of aesthetic experience.
+
+Recent work treats artificial intelligence as a techno-epistemic engine operating simultaneously on aesthetic and cognitive strata. Through a media-archaeological lens, it traces the evolution of modelling technologies—from ancient sand tables and armillary spheres to latent-space diffusion networks—contending that every generation of simulation installs its own regime of seeing, storing, and forgetting, thereby redrawing the boundary between simulation and reality. Within this framework emerges the principle of "medium alignment": ideas must be expressed through media whose intrinsic logic exposes, rather than conceals, the operations that generate them.
+Two complementary trajectories enact this stance. The first pushes the technical limits of AI image generation—higher resolution, tighter semantic coherence, real-time prompt editing—to renegotiate what qualifies as visual evidence. The second unmasks algorithmic "selective memory," showing how databases determine which records endure and which vanish, quietly shaping social structures and individual cognition.
+
+These concerns converge in the video work Prosomoíosi, centred on the border between simulation and reality. A live prompt dramaturgy lets viewers witness and intervene in continual image rewriting; metagame and hyperreality sequences expose the fluidity of identity and rules, positioning spectators as both participants within a virtual realm and observers of its underlying code. When models shift from explaining reality to fabricating possibility, artistic practice faces a crisis of subjectivity, prompting reflection on how art might realign medium and concept to renegotiate selfhood, memory, and truth in an algorithmically steered future.
+By integrating algorithmic bias, memory politics, and real-time interaction into a single performative surface, the work recasts authorship as a negotiation between embodied intuition and statistical prediction. Ultimately, it argues that responsible artmaking in the era of generative models must first align medium with idea, expose the infrastructures that condition perception, and redirect them toward plural, situated realities.
 
 %--------------------
 % 5. About the Artist
 %--------------------
-\section{About the Artist}
-% Education, research areas, practice, exhibitions, residencies.
+\section{ABOUT THE ARTIST}
+Liu Shuai is a Chinese digital media artist based in Cologne and Beijing. He earned a BFA in Digital Media Art from Guangzhou Academy of Fine Arts and is currently pursuing an MFA at the Academy of Media Arts Cologne. Since 2024 he has served as a research fellow at the Digital Humanities Research Center of Renmin University of China and as an advisor to Jinan University's Centre for AI and New Media Art. Liu's practice spans algorithmic image making, interactive games, and network installations. His works have received the Goethe-Institut "AIsolation" AI Short-Film Award, the Jury Recommendation at the UK Lift-Off Network's "First Time" Filmmakers Session, Official Selection in the Experimental Section of the Beijing International Short Film Festival, the Gold Prize for Digital Imaging at the China University AI Art Season, the Art Experiment Prize at Poland's On Art Festival, and a Jury Special Mention at the Student World Impact Film Festival (USA). Earlier in his career he worked at the Guangdong Museum of Art and Guangdong Times Museum, gaining curatorial and institutional experience. In 2024 he co-founded the experimental game magazine LUDUS, which collaborates with the Academy of Media Arts Cologne and the University of Applied Arts Vienna to foster interdisciplinary exchange on AI art and game studies.
 
 %--------------------
 % 6. Acknowledgements
 %--------------------
-\section*{Acknowledgements}
+\section*{ACKNOWLEDGMENTS}
 % Funding bodies, collaborators (e.g., KHM, Shuree Sarantuya), etc.
+The author thanks media artist and mentor \href{https://shureesarantuya.com/}{Shuree Sarantuya} for her guidance, as well as the Academy of Media Arts Cologne for technical support.
+
+\section*{REFERENCES}
+
 
 \end{document}
