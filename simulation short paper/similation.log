@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.23)  25 JUN 2025 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.23)  26 JUN 2025 03:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"i:/Mine_/Artistic_Works/2025 MAAP II/MAAPIIcursor/simulation paper/similatio
-n.tex"
+**"i:/Mine_/Artistic_Works/2025 MAAP II/MAAPIIcursor/simulation short paper/sim
+ilation.tex"
 
-(i:/Mine_/Artistic_Works/2025 MAAP II/MAAPIIcursor/simulation paper/similation.
-tex
+(i:/Mine_/Artistic_Works/2025 MAAP II/MAAPIIcursor/simulation short paper/simil
+ation.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\liushuai\AppData\Local\Programs\MiKTeX\tex/latex/acmart\acmart.cls
@@ -1245,12 +1245,12 @@ Package rerunfilecheck Info: File `similation.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  21264 strings out of 474485
- 349814 string characters out of 5742318
+ 349868 string characters out of 5742318
  1970542 words of memory out of 5000000
  42724 multiletter control sequences out of 15000+600000
  693569 words of font info for 300 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,16n,131p,1849b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,131p,1855b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/liushuai/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsola
 ta/Inconsolata-zi4r.pfb><C:/Users/liushuai/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/libertine/LinBiolinumT.pfb><C:/Users/liushuai/AppData/Local/Progra
